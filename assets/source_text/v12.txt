@@ -1,0 +1,1968 @@
+
+
+Document Title
+:
+Procedure/Work Instruction/Job Note:
+Medco E&P Grissik Integrated Planning & Scheduling Guideline
+MEPG Doc No.    
+:
+ID-G-BU-GG0-PRO-GN-00-0053
+
+
+
+Originator:Medco E&P Grissik Ltd.
+Information Owner:             514018 – Asset Management Corridor
+Area:BU - Business Unit
+Location:GN - General
+System:00 - General Systems
+Document Type:PRO - Procedure / Work Instruction / Job Note
+Discipline / Sub discipline:G - General / G0 - General
+Old Document No.:-
+
+
+
+
+
+3
+IFU
+Nov 22, 2024
+Issued for Use
+Fikri M. H.
+Jumadil Kubro
+Jumadil Kubro
+Jumadil Kubro
+Tri Laksono
+2
+IFU
+Aug 01, 2015
+Issued for Use
+J. Sitter
+Dirk F.
+Ali M.
+Rismal A.
+Mark P.
+1
+IFU
+Dec 12, 2013
+Issued for Use
+Tri L.
+John V.
+Ali M.
+Tim W.
+Taufik A.
+Rev
+Status
+Issue Date
+Reason for Issue
+Prepared
+Checked
+Information Owner
+Sr. Manager
+SVP
+
+
+
+
+
+
+Approvals
+   
+Printed initials in the approval boxes confirm that the document has been signed.
+The originals are held within Document Management.
+
+
+
+Revision Sheet
+
+REVISION
+DATE
+DESCRIPTION OF CHANGE
+1
+12 December 2013
+Issued for Use
+2
+01 August 2015
+Add reference to Appendix K&L (ToC) 
+Delete Figure 2 (section 2,3) – redundant with work process maps  
+Delete Figure 4 (Section 2.3) – redundant figure with Appendix C 
+Delete Figure 5 (Section 3) – redundant with MCRS
+Delete MCRS (section 6.4) – redundant with section 3  
+Delete section 12 (page 27) – redundant with ToC 
+
+Updated Section 1 to realign with global RP OE-P&S-RP-002
+Updated Section 2.2 – minor realignment of strategy 
+Updated Section 2.3 – alignment with updated horizons 
+Updated Section 3 – removed figure for MCRS and Process relationship (linked in Appendix C), deleted sections detailing planning structure (redundant with section  4)
+Updated Section 4 – deleted details of each horizon (redundant with Section 2.3 and Appendix E) summarized details only. 
+Section 5 general updates to improve clarity
+Section 5.5  - Revised section to address low priority practices for COPI (OE practice 3.201-3.203) deleted section in 5.5.3 on steps to resolving conflicts (superfluous) 
+Section 5.6.4 plan briefing for operations. Not required in a BU level guideline
+Section 6.2 changed to business performance review (formerly assessment and audit)
+Section 6.4 (defect elimination) deleted, redundant with business process review and AAR’s
+Section 6.x (Value tracking) not implemented in COPI and not a requirement under the OE framework
+Section 7 – replaced aspirational ‘feel-good’ statements with specific actions for continuous improvement
+Sections 6, 8 9, 10,11 – general updates to align with actual BU 
+practices and OE framework
+
+Appendix A – Deleted definitions, redundant with text of document; replaced with P&S SharePoint Overview 
+Appendix B – Delete redundant business process maps and replace with BU Life Planning 
+Appendix C – Deleted original Business Process maps, redundant with updated business process maps. Replace with current business processes. 
+Appendix F – Updated index to correct name “Data Input Attribute”
+Appendix G – deleted strategic and tactical prioritization matrices.  OE practice 3.201/202/203 considered low value for COPI
+Appendix L – Delete, revised and moved to body of document (section 6.4) 
+
+General formatting and typo corrections  
+3
+22 November 2024
+Update the word of LRP into LTP, aligned with Medco implementation.
+Update Section 1.1 - Removed the reference of Global Recommended Practice for Integrated Planning (OE-P&S-RP-002).  
+Update Section 1.2 - The kind of Planning and Scheduling Activities aligned with Medco implementation, namely BU Life/Asset Development Plan (ADP), 10-Year/Long-Term Plan (LTP), Medium/Tactical/24-Month Plan, Short-Term/Operational/30-90 Day Plan, and detailed operational-level planning.
+Update Section 2.2 - Removed the Development and Exploration & BD on the explanation of specific function that may incorporate tailored practices for P&S.
+Update Section 2.3 - Aligned with updated Section 1.2.
+Update Figure 2 - Aligned with updated Section 1.2 & 2.3
+Update Section 2.5 and Tabel 1 - Aligned the role with Medco implementation
+Update Section 3 - Removed the reference file
+Update Section 3.1 - Aligned the reference appendices due to the change in the Appendices
+Update Section 4 - Aligned with updated Section 1.2, 2.3, and Figure 2
+Update Section 5 - Aligned the reference appendix from Appendix F to Appendix D, Appendix I to Appendix F.
+Update Section 5.6 - Added more detailed explanation about the term.
+Update Section 6 - Aligned the reference appendix from Appendix J to Appendix G.
+Update Section 6.5.1 - Changed the title section from Plan Attainment to Schedule Attainment and its explanation including the equation.
+Update Section 6.5.2 - Change the title section from Addition-to-Plan to SPI (Schedule Performance Indicator) and its explanation including the equation.
+Update Section 6.5.3 - Change the title section from Deletion-of-Plan to Plan Break-in and its explanation including the equation.
+Add new Section 6.5.4 Plan Deletion
+Update Section 6.6 - Removed the key area addressed "Assessment against OE Framework" and aligned with Medco implementation.
+Update Table P&S system Reviews and Assessments - Aligned the reference Appendix from Appendix C to Appendix A.
+Removed Section 7.3 and 7.4
+Update Section 8 - Aligned the Planning Cycle review with Medco implementation.
+Updated the Appendices
+Remove the Appendix A due to irrelevant with Medco implementation.
+Update the Appendix B - Changed the tilte (orderly named) into Appendix A and aligned the role with Medco implementation.
+Remove the Appendix C due to irrelevant with Medco implementation
+Update the Appedix D - Changed the tilte (orderly named) into Appendix B and updated with the new TOR
+Update the Appendix B - Changed the tilte (orderly named) into Appendix C and aligned the role with Medco implementation.
+Update the Appendix F - Changed the tilte (orderly named) into Appendix D and aligned the role with Medco implementation.
+Update the Appendix G - Changed the tilte (orderly named) into Appendix E and aligned the role with Medco implementation.
+Update the Appendix H - Changed the tilte (orderly named) into Appendix F and aligned the role with Medco implementation.
+Update the Appendix I - Changed the tilte (orderly named) into Appendix G and aligned the role with Medco implementation.
+General formatting and typo corrections  
+
+
+
+Additional Approvers (If Applicable)
+Name
+Designation
+Signature
+Date
+Ronny Darma
+Manager OPAA
+
+
+Reza R. Hutasoit
+Lead P&S
+
+
+Rosa V. Damayanti
+Manager PDC Planning
+
+
+Robert Cahyadi
+Manager Planning
+
+
+
+
+Contents
+Contents5
+Appendices6
+1Introduction7
+1.1Concept and Objectives of Integrated Planning7
+1.2Scope8
+2Planning System9
+2.1Integrated Planning Philosophy9
+2.2Integrated Planning Strategy9
+2.3Integrated Planning Work Process10
+2.4Plan Ownership and Approval13
+2.5Roles and Responsibilities14
+3Governance Model17
+3.1Meeting Term of Reference17
+4Criteria of Activities Inclusion into Plan18
+5Managing the Plans19
+5.1Acceptance/Input Criteria19
+5.230/90 Day Plan19
+5.3Gate Review Criteria19
+5.4Managing Constraints20
+5.5Risk Assessment22
+5.6Conflict Resolution and Plan Prioritization23
+5.7Administering the Plan24
+5.8Change Control for Operational Planning Horizon24
+6Assessing Performance26
+6.1Debriefing and After Action Reviews (AAR)26
+6.2Planning Compliance26
+6.3Peer Review26
+6.4Business Performance Review26
+6.5Key Performance Indicator (KPI)27
+6.6Benchmarking Strategy28
+7Planning Process Review and Adjustment30
+7.1Continuous Improvement30
+7.2Reviews and Assessments30
+8Alignment with Operating Cost Management31
+9Future State – Dynamic Plan Management32
+Appendices33
+
+
+Appendices
+Appendix A – BU Life Planning33
+Appendix B – Meeting Term of Reference34
+Appendix C – Planning Activity Inclusion Criteria35
+Appendix D – Data Input Attribute40
+Appendix E – Prioritization Matrix for Operational Horizon44
+Appendix F – Activity Change Request Process45
+Appendix G – Conducting After Action Review48
+
+Introduction
+Concept and Objectives of Integrated Planning 
+The purpose of this document is to outline the processes and governance for Integrated Planning at Medco E&P Grissik Ltd (MEPG). Integrated Planning is a set of cross-functional processes designed to combine, sequence, and coordinate all activities across short-term (Operational), medium-term (Tactical), and long-term (Strategic) Horizons within the Medco Asset Plan1. The goal is to produce an approved and prioritized planning and scheduling process that maximizes stakeholder value by efficiently identifying critical activities, resolving conflicts, and managing opportunities. These processes are designed to minimize siloed thinking and promote a collaborative approach to planning.
+The objectives of effective Integrated Planning are to: 
+Enhance Health Safety and Environment (HSE) performance through proactive planning and the avoidance of unplanned activities.
+Increase value to the Company by identifying critical activities, resolving potential conflicts between stakeholders, and capturing and prioritizing opportunities.
+Transform data into actionable information that supports optimized decision-making.
+Achieve performance improvements and cost savings through better coordination and utilization of both company and contract resources, focusing on high-value work.
+Measure planning performance using metrics to identify opportunities for learning and continuous improvement.
+Increase production by minimizing down period and realizing opportunities.
+Improve communication within the business and with supporting functions through effective planning and scheduling processes.
+Provide a common communication platform for all stakeholders.
+Ensure workforce alignment, ensuring every member understands their role in achieving short, medium, and long-term business unit goals.
+Assure project success by guaranteeing timely completion of contracts, delivery of materials, and availability of required resources prior to field execution.
+Minimize non-productive labor time through effective planning, leading to manpower cost savings.
+
+The process should be consistent across all functions and disciplines, providing a unified foundation for collaboration. It should clearly define long-term objectives and goals, while setting clear expectations for all stakeholders.
+
+
+
+
+_________________________
+1Within this document, items are referred to and interchanged as BU life / Asset Development Plan (ADP), 10-year plan / Long Term Planning (LTP), Medium or Tactical or 24-Month plan, Short-Term Production Forecast (STPF) and the Operational or 30/90-day plan.
+
+Figure 1.   Integrated Planning Concept
+
+Scope
+The processes outlined in this guideline apply to the Planning and Scheduling activities for MEPG Asset-operated PSCs, Exploration, and Development activities. This includes the BU Life/Asset Development Plan (ADP), 10-Year/Long-Term Plan (LTP), Medium/Tactical/24-Month Plan, Short-Term/Operational/30-90 Day Plan, and detailed operational-level planning for individual functions.
+
+
+Planning System
+Integrated Planning Philosophy
+At MEPG, we employ a cross-functional Integrated Planning process to plan and schedule activities across operational, tactical, and strategic horizons. This approach ensures the development of resourced, prioritized, and approved plans and schedules.
+Integrated Planning Strategyc
+Organization. 
+Adequate and competent planning resources will be allocated at both the Functional and Asset levels. Each planning horizon will be managed and owned by the corresponding level of Asset leadership.
+Planning Goals and Objective.  
+MEPG’s Assets, Functions, and relevant individuals will collaborate to establish aligned goals aimed at achieving the short-, medium-, and long-term Planning and Scheduling (P&S) objectives.
+Integrated Planning and Scheduling.  
+All activities, including contractors, will be planned, scheduled, and assessed in alignment with the Integrated Planning process.
+Planning Integration.  
+The Strategic, Tactical, and Operational horizons will be aligned to support goals at each level, ensuring a cohesive approach to planning.
+Planning tools, visualization and communication.  
+Planning processes and communication methods will be tailored to meet the specific needs of stakeholders, enhancing understanding and collaboration.
+Continuous Improvement.  
+Regular and consistent reviews of planning performance will be conducted to refine practices and maintain the relevancy of business processes.
+Planning Process.  
+Each planning horizon will adhere to a structured business process, which includes:
+Integration of activities across different functions to ensure a unified approach.
+Establishment of a baseline plan that accounts for key constraints, synergies, and potential conflicts.
+Differentiation between activities requiring high certainty and strict control versus those allowing future flexibility.
+Approval of integrated plans by the designated ownership level for each planning horizon.
+Implementation of defined processes to facilitate feedback and alignment between planning horizons.
+Regular review of planning performance to identify opportunities for continuous improvement.
+
+
+Other than the common strategies applicable across all functions, specific functions may incorporate tailored practices for P&S. Examples include:
+Operations
+Shutdown Planning.  Shutdown activities will be coordinated with functional activities and aligned with the maintenance schedules of both internal and external stakeholders, including buyers.
+Projects 
+Portfolio Management and Operability Execution.  The portfolio management of facilities and wells—from the Pre-Development stage through to execution, including contractor activities—will adhere to the Integrated Planning process and comply with the Medco Project Excellence Process (MPEP)
+Operability assurance process will support operations engagement in portfolio management, facilitating adequate input during project development. During execution, the Operations Readiness Review process will support operations teams in preparation for startup, ensuring seamless handover and project closeout phases.
+Well Operations and Services
+Procurement activities will commence during the strategic planning phase, incorporating contingencies for potential changes in the tactical period.
+The Well Delivery and Drilling Plan (WDDP) processes will be utilized to establish and regularly review baseline plans, minimizing late-stage changes.
+Commercial
+Contractual events, rights, and obligations outlined in each sales agreement will be integrated across relevant functions to optimize, protect, and/or create value for the company.
+Market drivers will be regularly assessed and incorporated into production planning to align  with market dynamics and maximize value.
+Integrated Planning Work Process
+The Integrated Planning Work Processes are summarized across various planning horizons, as depicted in Figure 2:
+BU Life Plan / Asset Development Plan (ADP) 
+This plan comprises a comprehensive set of documents that outline strategic alternatives and development scenarios for the Medco Asset. It includes, Scenario Planning, Long-Term Growth or Divestment Planning and End-of-Life strategies for assets. The ADP aligns all groups and departments with the Asset's strategic goals and identifies specific milestones necessary to achieve these objectives. It serves as a reflection of the Vision and Mission of MEPG.
+10-Year Plan / Long-Term Planning (LTP)
+This Level 1 milestone plan typically spans ten or more years and is aligned with the annual LTP process. Baselines and performance are monitored and assessed against the Asset's annual goals.
+
+24-Month Plan
+The 10-Year Asset Plan is further detailed to Level 2 by Asset Management, Subsurface, and other relevant functions into 24-Month Plans. These plans are the primary focus of Integrated Planning, summarizing activities between 90 days and 24 months.
+As needed, the 24-Month Plans may extend to cover the full scope of major programs, including: key milestones, major activities, commercial and contractual requirements, rig moves, major procurement tenders, engine overhaul programs and shutdown schedules. Both the 10-Year and 24-Month Plans are developed in parallel with the annual LTP budget cycle.
+30/90-Day Plan
+For field operational activities, the 30/90-Day Plan includes the fixed 30-Day activities and a 60-Day lookahead. For non-operational functions (e.g., project FEL, drilling FEL and etc.), the operational-level plan consists of detailed activity schedules required to execute day-to-day work. All stakeholders in operational planning are expected to provide timely updates on changes or progress and participate in monthly planning meetings.
+Plan Control
+Plan control involves a set of activities and processes designed to manage and monitor the effectiveness of plans. For field operations, these processes are detailed within a 7-D process, ensuring structured oversight and execution. Other functions utilize comparable processes tailored to their specific requirements, such as MPEP requirements or other relevant methodologies, to effectively manage day-to-day activities
+The planning process is structured to follow a cyclical and iterative approach throughout the year, ensuring alignment with the LTP / Budgeting cycle. It encompasses all critical functions within MEPG, including Operations, Projects, and Drilling, as well as supporting functions.
+The Maintenance Planning process is integrated into the broader Integrated Planning framework. It adheres to established Maintenance and Reliabilty practices, encompassing work order preparation, equipment procurement and delivery, assignment of sufficient resources and consideration of operational constraints.
+Shutdown Planning is an integral component of the Integrated Planning framework.
+Project Planning is also incorporated within Integrated Planning, with its functional execution governed by corporate standards outlined in the MPEP, document MPEP-PM-GUI-03. 
+Early Operations involvement during the project lifecycle is crucial to ensure high reliability and operability of equipment. The planning process for achieving this level of performance is guided by the Operability Assurance (OA) Guideline, detailed in Document No. MPEP-PD-GUI-01.
+
+MPEPMPEPFig  2  Multi horizons Planning Work ProcessFig  2  Multi horizons Planning Work Process
+MPEP
+MPEP
+Fig  2  Multi horizons Planning Work Process
+Fig  2  Multi horizons Planning Work Process
+Plan Ownership and Approval
+Each plan, program, or logically grouped set of activities must have a designated Plan Owner who is accountable for its execution. In an asset-based organization, ownership of major capital program planning typically resides with the Asset Management teams. However, Plan Owners may also include Operations Managers, Subsurface Managers, or similar roles, depending on the scope and nature of the work. The responsibility for delivering the work and providing the necessary planning support to the Plan Owner lies with the supporting functions, such as Projects, Well Operations, Surface Engineering, Relations, and others.
+In general, the Plan Owner is accountable for the following aspects of their respective projects or programs:
+Planning Performance and Work Delivery,
+Key premises and changes,
+Conflicts resolution, issues and opportunities,
+Milestone Status Updates,
+Review of Long-Term Resource Status
+Approval levels for each planning horizon are appropriately assigned to ensure organizational buy-in and visibility. Each horizon comprises multiple individual programs and projects, with accountability assigned to the respective Owners.
+The Planning Process Focal Point oversees the management and implementation of business processes for each horizon, ensuring they align with the needs of the business unit. Continuous improvement updates to these processes are coordinated through the focal points to enhance efficiency and effectiveness.
+Plan administrators are responsible for providing the integrated planning details required for each horizon and ensuring alignment with detailed cross-functional activity-level scheduling.
+The table below summarizes the general levels of plan approval, planning focal points, and plan administrators by horizon:
+
+
+
+
+
+
+
+
+Table 1.  Plan Approval and Administration
+Planning Horizons
+Coverage
+Overall Plan Approval
+Planning Process Focal Point
+Planning Administrator
+BU Life Plan
+Business Unit
+COO
+Asset Management 
+See Appendix B
+10 Year Plan
+Asset
+COO
+Asset Management 
+Planning
+24-Month Plan
+Major programs
+SVP
+Asset Management
+Planning
+30/90 Day Plan
+Field / Facility / Functions/ program
+Field Manager /Managers
+Operations Planning & Scheduling
+Functional / Asset  Planner 
+Plan Control
+Field / Facility / Functions / program
+Field Managers
+/supervisors
+Functional Planner
+Functional / Asset  Planner
+
+Roles and Responsibilities 
+General roles and responsibilities are outlined below.
+Chief Operating Officer (COO)
+Approves the BU Life Plan and ensures alignment with corporate strategic objectives.
+Ensures relevant items are cascaded into the annual LTP.
+Senior Vice President (SVP)
+Approves the 10-Year and 24-Month Plans, ensuring alignment with corporate strategic objectives.
+Ensures that relevant LTP items are aligned and appropriately reflected in the plan.
+Holds accountability for their respective functions in delivering to the Plan Owner.
+Asset Management 
+Ensure that approved plan changes are thoroughly assessed with a disciplined and rigorous approach.
+Monitor Key Performance Indicators (KPIs) for planning and implement improvements where necessary.
+Coordinate with all functions to ensure their support and alignment with the planned objectives.
+Ensure that engineering studies and execution plans are structured and managed in accordance with Integrated Planning processes.
+Facilitate input from various groups into the plan and assist in resolving conflicts among stakeholders.
+Plan Owners 
+Hold accountability for their work programs within the planning processes.
+Review and incorporate salient information from external sources that may influence planning decisions.
+Managers (Field, Drilling, Project, Exploration, Engineering, Support Functions)
+Ensure approved plan changes are rigorously assessed to maintain alignment with objectives and constraints.
+Track planning KPIs and implement improvements based on identified trends and insights.
+Review and approve or reject plan changes within the 30-day "frozen" window of the current 90-day plan, ensuring alignment with priorities.
+Ensure that engineering studies are structured and managed according to Integrated Planning processes to enhance coordination and efficiency.
+For Projects, ensure that major initiatives are structured and managed in compliance with Integrated Planning processes.
+Installation Manager / Superintendent
+Serve as the functional owner and leader for activity and resource planning within the 30-day operations plan.
+Provide the necessary resources to manage the 90/30-day plan and ensure smooth execution.
+Maintain discipline and leadership in the planning processes, striving to minimize plan changes.
+Implement approved plans and ensure all activities are aligned with the established objectives.
+Other Department / Team Leaders
+Provide input and support for prioritization and conflict resolution during plan development, including all relevant business support activities.
+Responsible Person / Job Owner
+Ensure that all information in BPM Work Orders and the planning input template is accurate and up to date, including resource allocation within the planning horizon and schedule revisions.
+Provide justifications to Planners when requesting approval from the Functions/Operations Manager for any changes during the 30-day frozen period.
+Planning Group
+The P&S Group operates across Asset, Functional, and Field teams and is primarily responsible for:
+Provide planning outputs to Plan Owners to support informed decision-making.
+Establish, maintain, and standardize P&S processes across the BU to ensure uniformity and alignment.
+Enhance the efficiency and effectiveness of planning processes through ongoing refinement and innovation.
+Allocate and oversee planning and scheduling resources to effectively support all planning horizons.
+Work closely with all departments within MEPG to ensure integrated, coordinated, and well-communicated planning efforts.
+Develop schedules and plans that are both practical and achievable, considering available resources and constraints.
+Monitor KPIs and communicate planning metrics to stakeholders for transparency and accountability.
+Advocate for the importance of planning, increasing its visibility and value across the Medco Asset.
+  Planning and Scheduling Steering Committee
+To ensure the effective implementation of processes across the MEPG BU, the P&S Steering Committee has been established. The committee includes representatives from Operations, Asset, and Project functions.
+Oversee and drive the application of the Operational Excellence (OE) framework for Planning and Scheduling across the BU.
+Maintain and update the Strategic Improvement Plan for the P&S system, coordinating both internal and external assessments.
+Provide guidance to the Assets and Planning & Scheduling group regarding the Integrated Planning process.
+Review and approve BU procedures related to Planning and Scheduling to ensure alignment and effectiveness.
+Promote knowledge exchange and best practices with other BUs.
+Establish and achieve objectives that support the implementation of the P&S system within MEPG.
+The Steering Committee is led by the BU P&S Lead, who is responsible for maintaining this document and ensuring that processes and procedures are kept up to date and effectively applied across the BU. The BU P&S Lead is also responsible for nominating members to the Steering Committee. The Steering Committee convenes quarterly to address issues, monitor progress, and evaluate ongoing initiatives.
+Governance Model
+The governance model for integrated planning incorporates feedback loops to ensure that information and decisions flow effectively both top-down (from long-range to operational planning) and bottom-up. This model facilitates information sharing across planning horizons.
+Meeting Term of Reference
+Efficient and focused communication across the integrated planning processes requires that all regularly scheduled meetings be guided by a clear Terms of Reference (TOR). The TORs for each planning horizon are outlined in Appendix A – BU Life Planning and Appendix B – Meeting Term of Reference.
+
+
+Criteria of Activities Inclusion into Plan
+A typical list of activities for each planning horizon is summarized in Appendix C. These horizons generally align with the Numeric Schedule Levels as defined by s International Recommended Practice No. 37R-06, as follows:
+10 Year plan: Corresponds to a Level 1 high-level schedule, focusing on key milestones and summary activities
+24 Month Plan: Provides a breakdown of the Level 1 plan, highlighting the integration of major works across the lifecycle of a project or activity.
+30/90D Plan: Represents the first level of activity-based planning, enabling critical path analysis and equivalent to a Level 3 plan.
+Plan Control:  Comprises Level 4 and 5 plans, which detail the production of work packages at the deliverable level. This level of detail is typically reserved for execution or physical operational activities.
+
+
+Managing the Plans
+Acceptance/Input Criteria 
+Maintaining consistent acceptance and input criteria is crucial for ensuring the compatibility and coordination of activities from various sources into a unified integrated plan. This approach facilitates the identification of potential conflicts, such as skilled labor availability, rig constraints, and capital limitations, while also uncovering synergies and optimizing the sequencing of activities. Typical input criteria for each planning horizon are detailed in Appendix D.
+30/90 Day Plan
+The first 30 days of an approved plan, issued monthly, are considered "frozen." This means that all work activities within this period are fully defined, with all preparatory work, equipment, and resources confirmed to be available for execution within the specified timeframe. If specific gate requirements are not met 30 days before the planned work commencement date, the job will be removed from the plan.
+Activities in the 30 days plan should typically include detail for the following: 
+Activity number.
+Activity description.
+Main Work SAP or Cost Centre.
+Task lead/ responsible person for field work.
+Man-Hour Estimates per operation and per resource.
+Operation Calendar (Day-Night shift, Day and Night, 24 hour etc.).
+Required Start and End Date.
+Optimistic, Expected and Pessimistic Duration.
+Functional Location at Order Level or Operation Level.
+Number of personnel to be mobilized to field for the task broken down by company name (COPI and contractors), including supplier and specialist support.
+Number of expected field operations personnel support.
+Contractor schedule is ready.
+List of specific tools, equipment required from Operations (crane, scaffolds, boat, vehicles, etc), consumables and applicable locations lists.
+Any other specific requirement or information that Operations or other departments need to know.
+Criteria for other functions (non-field operations) may include factors such as required work manhours, availability of specialists, service contract readiness, defined start and end dates, and the anticipated duration of the activities.
+Gate Review Criteria 
+Sheltering losses resulting from inefficient planning is achieved by ensuring high-quality planning that supports thorough analysis and integration. Two key gate reviews are implemented:
+Sufficiency of Information Review: This step ensures that adequate and accurate information is entered into the plan. If the information provided is insufficient, planners must obtain additional details from the job owner. Typical information required is outlined in Appendix D.
+Readiness Gate Review: This review assesses whether an activity is prepared for integration into the execution phase. It applies specifically to activities scheduled within the 30- and 90-day planning horizons. Activities failing to meet readiness criteria will not proceed to execution.
+Gate Requirement for 90 Day plan
+The following are the gate requirement for the activities to be included in the 90 Day Operations plan:
+Funding in the Medco LTP and annual WP&B.
+Obtain consent to proceed from Partners and internal Medco.
+Obtain permitting requirement.
+Engineering design sufficiently matured.
+Execution contract is available.
+Materials readiness.
+Simultaneous Operations to avoid site conflict.
+HSE Mitigation in place.
+Gate Requirement for 30 Day plan
+The following are the gate requirements for activities included in the 30-Day Operations Plan:
+all necessary materials and tools have been delivered to the site and confirmed to meet the required specifications,
+the work pack, including procedures, drawings, and other documentation, is complete and has been reviewed or approved,
+internal support resources have been confirmed and meet all HSE requirements for mobilization,
+the specialist vendor has been contacted and has provided a commitment, including personnel details, schedule, and mobilization date,
+materials and positions required for stakeholder and government engagement have been confirmed and agreed upon.
+Managing Constraints
+When developing plans, especially at the 30/90-Day Plan level, several constraints must be considered. These constraints are typically classified into two categories: static and dynamic. Static Constraints tend to remain relatively unchanged over time and include factors such as the number of beds, life boat seat availability, regulatory permits, personnel access to specific areas, ongoing SIMOPS (Simultaneous Operations) restrictions, and limitations set by design or building codes.
+Dynamic Constraints are subject to frequent changes and require a more responsive management process. Examples include weather conditions, seasonal access, availability of specialist services and personnel, and dynamic SIMOPS conditions (e.g., ongoing work, equipment downtime, etc.).
+When developing plans, it is essential that all identified constraints are understood, communicated, and updated regularly. The following are typical constraints that should be considered as part of the P&S process.
+Permitting and Other Stakeholders Approvals
+The readiness of a work activity should consider all necessary clearances, permits, and approvals from relevant stakeholders. This includes budget and AFE approvals from government/SKKMigas, Partners, and internal Medco, as well as permits from agencies such as MIGAS, Seacomm, Aircomm, and local governments.
+Resources Planning & Manpower Histogram
+Resources, including headcount and associated costs, are tied to planned activities. Headcount resources should be validated and leveled according to numbers, competencies, and timing (e.g., manpower histogram). Hiring plans should also be considered as a potential constraint to ensure that the required skills are available when needed.
+Cost constraints should be validated against the budgeted items in the LTP and the approved AFEs.
+Personnel on Board and Bedding Capacity
+One of the primary constraints to consider when preparing the 30/90-Day Field Plan is the Personnel on Board (POB) capacity at field locations. The total manpower should not exceed the pre-defined maximum POB.
+Crew Change Schedule & Logistics
+Field Asset Operations provide regular transportation for personnel mobilization and demobilization. Mobilization outside of these scheduled times may require additional approvals, such as from the area Superintendent.
+Material transportation from Jakarta to the field is arranged regularly by the Material Management group. Contractors should also consider transportation arrangements for goods and materials when developing the plan.
+General Contractors Capacity
+The availability of 3rd party resources should be confirmed before they are included in the 30/90-Day Plan. The contractor's schedule must reflect their readiness to execute the work.
+Material Readiness and Supply Chain 
+Materials and contracts required for any task should be identified early, considering the procurement/contracting process, delivery times, and transportation to the field. Task leads are responsible for identifying the required materials, quantities, and specifications, and passing this information to the planners to create requisitions in the system if the materials are not available in stock.
+If materials are available in stock, maintenance planners should make reservations and communicate with the Materials Management team to ensure the materials are available when needed at the site.
+Planners will facilitate communication with Procurement and Materials Management through the contract administrator based in the Jakarta Office to expedite the procurement process, materials delivery, and report on materials readiness status.
+Activities included in the 90-Day Plan must have confirmed materials delivery prior to the scheduled execution. Activities listed in the 30-Day Plan should have all materials delivered to the site or be en route. Any exceptions require approval from the OIM or Field Manager.
+Work Pack 
+The 90-Day Plan includes all activities that meet the 'entry criteria' within the 90-day window. Activities listed on the 90-Day Plan (but not yet on the 30-Day Plan) have at least 30 days to develop the work pack before being included in the 30-Day Plan.
+Operations and Maintenance Activities
+BPM identifies all plant and equipment that require maintenance across all assets and specifies when and by whom the work will be carried out. This includes Planned Maintenance Routines (PM), which are recurring activities performed at a set frequency, and Corrective Maintenance Routines (CM), which are created to address additional work arising from inspections, breakdowns, or repairs to plant and equipment.
+Although BPM identifies when Preventive Maintenance activities are due, certain activities may need to be included in the Integrated Plan to raise awareness among the maintenance crew and field supervisors, ensuring alignment and optimizing resources. 
+Risk Assessment
+The characterization of risks associated with planned activities can facilitate prioritization. Risks should be evaluated in terms of potential impacts on safety, the environment, execution, production, and other relevant areas. Risk assessment and communication should be integrated throughout the planning process, with particular emphasis at the 30/90 Day field execution planning stage.
+Strategic Planning Horizon
+At the strategic level, risk assessments will be conducted based on their potential long-term impact on MEPG. Business prioritization at this level may encompass safety, environmental impact, production, and high-level SIMOPS activities. Specifically, completion risk for Major Projects can be characterized by developing risked schedules using a probabilistic Contingency Breakdown Report (CBR) methodology. This methodology may include calculating P10, P50, and P90 schedule and cost estimates.
+Tactical Planning Horizon
+At the Tactical Level, risk evaluations, similar to those at the Strategic Horizon, will address high-level risks but with a focus on individual program or asset risks. For instance, key risks to Major Projects will be identified in terms of both cost and schedule impacts. For operating assets, potential production downtime due to shutdown windows will be considered, and significant upcoming maintenance programs will be highlighted.
+Operational Planning Horizon
+At the operational level, detailed risk assessments are conducted for planned activities, considering the inherent hazards of each activity, project, or operation. 
+During the design and planning stages, these assessments include analyses such as Hazard Identification (HAZID), Hazard and Operability (HAZOP) studies, SIMOPS analysis, Safety Integrity Level (SIL) evaluations, Quantitative Risk Assessment (QRA)/CBR, and other design risk assessments. As activities transition to field execution, the focus shifts to safety and execution readiness, using tools such as Pre-Job Hazard Analyses (PJHA) and toolbox talks. The MEPG risk matrix (Appendix E) may be used as applicable.
+Contingency Planning
+The outcomes of risk assessments will guide the evaluation, development, and planning of contingency measures. Key features of contingency management are as follows:
+Contingency plans are developed by cross-functional teams representing relevant areas of expertise.
+The allocation of resources and the approval process are commensurate with the assessed level of risk.
+Contingencies for tasks and equipment, including necessary materials, resources, and logistics, are integrated into the project plan and schedule.
+Schedule contingencies incorporate a defined recovery strategy.
+Contingency planning may utilize a formalized methodology, such as the QRA/CBR employed by Projects, or be addressed as a standard component of regular planning meetings.
+Conflict Resolution and Plan Prioritization
+When activities are added to the integrated plan, potential conflicts may arise at various stages. Prioritization of activities should be guided by standard criteria, with the primary objectives being:
+Ensuring adherence to safety and environmental standards.
+Maximizing value creation for the BU.
+Maintaining alignment with the goals and objectives of the BU.
+At different planning horizons, prioritization may take various forms:
+Strategic Planning Horizon
+Prioritization is typically based on Net Present Value (NPV) or risk assessments, with a focus on alignment with BU goals and objectives.
+Tactical Planning Horizon
+Similar to the Strategic Horizon, prioritization in the Tactical Horizon also considers NPV and risk but is more specifically tailored to individual projects, programs, or activities
+Operational Planning Horizon
+At the Operational Horizon, prioritization and conflict resolution are centered on addressing immediate risks. Recommended criteria for prioritizing activities and resolving conflicts include, but are not limited to:
+Health, Safety, Environment
+Asset Integrity
+Production Loss
+Human Factor and Working Environment (i.e. noise, morale, physical conditions, etc.)
+Execution Opportunity Costs / Synergy Savings
+Adequate planning / preparation time and resource allocation
+Consideration of fatigue and overall activity impact.
+Administering the Plan
+Documentation
+Planning and scheduling information should be documented to track progress and capture metric data for trend analysis. For Operational Horizon, each function planner is responsible for maintaining and storing detailed planning files, while Tactical and Strategic Horizons, summary plans are compiled and stored in a centralized SharePoint repository to ensure accessibility for a broader audience.
+Data and Information Management
+Effective data management enables asset leadership and data management personnel to define the requirements for data access and organization. This ensures the asset can effectively track and meet its planning and scheduling goals. Data management follows MEPG procedures, as overseen by the IT department. These procedures include:
+Storage and repository
+Governance and control
+Quality and completeness
+User access
+Plan Communication and Visualization
+The plans should be communicated effectively to relevant employees and contractors to ensure that all individuals clearly understand the objectives and their personal contributions toward achieving the planned goals. Visualization of the plans at each horizon should enable a quick and comprehensive understanding of the schedules, milestones, and overall strategy.
+Change Control for Operational Planning Horizon
+Changes to the approved 30-day plan should be minimized. However, if a change is deemed necessary, it must follow the appropriate authorization process.
+For field operation activities, changes that do not affect constraints (e.g., bed capacity, SIMOPS, cost, HSE risks, or other issues) can be approved by the Plan Owner. If the proposed change impacts constraints, it must be escalated to the OIM for review, with final approval at the discretion of the Field Manager (FM).
+When evaluating changes that impact constraints, the FM should consider factors such as the criticality of the work, resource availability, logistics, POB capacity, and other relevant considerations.
+A ‘change’ to the approved 30-Day Plan is defined as any of the following:
+Adding work to the approved plan, particularly if it requires additional resources or support. Depending on the nature and criticality of the work, email confirmation from the FM or OIM may suffice.
+Delays to tasks within the approved plan that could impact constraints or other tasks in the plan.
+Inclusion of projects or activities that require additional budget.
+Other additions, cancellations, or delays deemed substantial enough to require authorization.
+When a change to the 30-Day Plan is necessary, the Plan Change Control Procedure outlined in Appendix F should be utilized.
+
+Assessing Performance
+Debriefing and After Action Reviews (AAR)
+The AAR is a valuable tool for learning from both successes and failures. Its primary objective is to engage participants involved in the activity to review variances from the plan. This collaborative approach allows leaders to leverage group dynamics and reach a shared understanding of key lessons learned.
+The AAR should focus on identifying lessons that can significantly enhance performance. These insights, whether they are best practices or opportunities for improvement, should be integrated into the overall strategy to drive continual progress.
+The benefits of the AAR approach:
+Provides valuable insights for others involved in similar activities, helping to avoid repetitive mistakes and unnecessary relearning.
+Facilitates a common understanding of actual events and variances from the original plan.
+Identifies opportunities for improvement and establishes actionable steps for progress.
+Ultimately aims to improve the way we conduct our business and achieve better outcomes.
+Further details about the AAR, including its processes, structure, and application, can be found in Appendix G – Conducting After Action Review.
+Planning Compliance 
+Assessing compliance with the BU planning processes requires multilateral communication between planners, plan users, and plan owners. Compliance is not just about whether processes are being followed, but also about their understanding, value, and their role in facilitating continuous improvement. If processes are not being adhered to, it may indicate that the processes themselves need to be rectified.
+Peer Review
+Peer reviews enable independent observers to evaluate planned activities and identify potential flaws and opportunities for improvement.
+Documentation pertaining to field operations peer reviews is available on the respective asset's Field Operations Planning site. In general, peer reviews should be conducted for field operations involving:
+Shutdown plans that cause a reduction of at least 50% in the normal production rate.
+Activities classified as having high or significant safety risks.
+For projects executed under Corporate Authorization, peer reviews are an integral component of the MPEP and are documented within the corresponding project records.
+Business Performance Review 
+Robust management systems are designed to drive continuous improvement in organizational effectiveness and efficiency. Three fundamental components contribute significantly to sustained business performance improvement:
+
+Governance: The framework that governs and sustains business performance reviews over time.
+Documentation: The systematic collection of records that define the underlying data, analyses, and visualizations.
+Metrics:  The established standards used to measure business performance. Performance reviews for P&S typically consider the following metrics:
+Performance in terms of milestones, production, and costs across various timeframes (e.g., plan-on-plan, gate-on-gate, year-on-year).
+KPIs, including man-hour, cost, and schedule efficiency, and plan attainment.
+Clear accountabilities for plan ownership, review, and business performance have been established within the business processes, with a focus on the Tactical and Strategic Horizons.
+Key Performance Indicator (KPI)
+KPIs are metrics that are visible across the organization and are used to highlight and drive performance within P&S. These key metrics are documented in the business process maps associated with each horizon and in the overall Management Control and Reporting System (MCRS).
+At the Operational Horizon, which focuses on the short term, metrics related to attainment, stability, and efficiency are applied. In contrast, longer-term KPIs primarily assess compliance with the planning process. Certain functions, such as Projects, maintain supplementary statistics for internal purposes, including man-hour, cost, and schedule efficiency; however, these are not comprehensively detailed within the BU procedure.
+The following secondary performance measures may be considered for further development into defined KPIs:
+Plan Utilization: This metric measures the extent to which planned activities on baselined work align with the resources available for their completion.
+Plan Stability: This metric quantifies the number of interventions or changes made to the approved plan during the defined planning period.
+Work Efficiency: This metric compares the amount of planned work performed (both scheduled and unscheduled) to the resources available for performing that work.
+Disturbance/Delay: This metric tracks non-productive time associated with activity execution, categorized using standardized reporting codes, such as delays due to material availability, weather conditions, or permit approvals.
+Examples of specific KPI’s calculated 30 day plan are shown below:
+Schedule Attainment
+Schedule attainment is a measure of adherence to the planned schedule over a given time period (e.g., a month). Higher attainment percentages indicate improved schedule performance. It is determined by calculating the percentage of:
+         Actual % Progress of the Month
+Schedule Attainment (%) = ------------------------------------------------------  x SF
+        Planned % Progress of the Month
+
+Notes : 
+SF = Schedule Shift Factor is determined based on schedule shifts (delays) and activity duration:
+1 – applied when the schedule is shifted (delayed) by 14 days or less
+0.95 – applied when the schedule is shifted (delayed) by more than 14 days or when the activity duration is 25% longer than originally planned.
+0.90 – for activities on the critical path, when the schedule is shifted (delayed) by more than 14 days, or the activity duration is 25% longer.
+If an activity has started but is subsequently postponed, the SF is omitted. Overall schedule attainment is calculated by weighting individual schedule attainment based on the duration of work performed on each activity during the month.
+SPI (Schedule Performance Indicator)
+SPI indicates the project’s progress performance
+ Actual % of Cumulative Progress
+SPI (%) = --------------------------------------------------
+Planned % Cumulative Progress 
+Plan Break-in
+This metric evaluates the organization's proficiency in developing and reviewing plans prior to their formal approval and distribution. Effective planning should result in a minimal number of changes post-approval. Plan break-ins represent additions to the established 30-day plan baseline. It is measured as the percentage of: 
+  Total Number of Additional Activities
+Plan Break-in (%) = --------------------------------------------------------------------------------- x 100%
+  Total Number of planned Activities in the approved 30D Plan
+Plan Deletion
+A plan deletion refers to the cancellation of an approved 30-day plan baseline. It is measured as the percentage of:        
+  Total Number of Activities of deleted tasks
+Plan Deletion (%) = ---------------------------------------------------------------------  x 100%
+Total Number of planned in the approved 30 D Plan
+Benchmarking Strategy
+The purpose of the MEPG P&S benchmarking strategy is to support the identification of areas for improvement and to ensure robust planning processes. This strategy addresses the following key areas:
+Shutdown planning – Shutdown performance is benchmarked at the field Operational horizon and documented on the respective asset's Field Operations Planning SharePoint site. Benchmarking comparisons may encompass both operated and non-operated assets within MEPG.
+Projects –  For projects executed under the Corporate Authorization framework, benchmarking is an integral part of the assurance process (e.g., MPEP). The results of benchmarking evaluations are retained within the project documentation. Historical project performance metrics are maintained by the function to facilitate future benchmarking activities.
+Benchmarking studies may, where appropriate, incorporate performance data from competitors and other relevant industries, such as nuclear, mining, and finance. In particular, for major projects and other critical activities, external data sources can serve as a key element of the assurance process.
+
+
+Planning Process Review and Adjustment 
+Continuous Improvement
+The implementation of a structured continuous improvement program provides direction for addressing performance gaps and serves as the basis for defining system goals and priorities. The Steering Committee holds accountability for establishing a culture of continuous improvement within P&S, a responsibility formalized through the issuance of a structured improvement plan. The Steering Committee monitors the dissemination of this desired P&S culture throughout the organization, ensuring that corrective actions are implemented to sustain and manage performance effectively.
+Refer to Section 2.5 for a detailed description of the Steering Committee's Roles and Responsibilities.
+Reviews and Assessments 
+To maintain the relevance of business processes and to assess performance against established standards, periodic reviews are conducted as follows:
+Table 2.  P&S system Reviews and Assessments
+Review / Assessment 
+Frequency
+Accountability
+Comments
+Medco E&P Grissik Ltd (MEPG) Integrated Planning and Scheduling Guideline 
+Needed, Q3
+BU P&S Lead
+Doc. ID-G-BU-GG0-PRO-GN-00-0053, reissued
+Business Process Maps 
+Annually, Q3
+Process Owner
+Current version in ARIS, update and revise validity period
+Local and Corporate OE reviews 
+Defined by BU OE lead
+BU P&S Lead 
+Structure, timing, and actions coordinated with BU OE Lead
+
+In addition to scheduled assessments, business processes may be revised at any time in response to SIP action close-outs, AARs, feedback received from the planning community, audit findings, or other ad hoc reviews. The process owner is accountable for ensuring the incorporation and appropriate communication of these revisions.
+
+
+Alignment with Operating Cost Management
+The planning process integrates Operating Cost Management principles, focusing on cost forecasting, tracking, and controls to effectively:
+Manage opportunities for acceleration, deferral, deletion, addition, and cost minimization.
+Assess the impact of plan changes on cost forecasting and budgets.
+Facilitate the use of cost estimating data with progressively higher levels of detail and accuracy as the execution timeframe approaches.
+Further details are outlined in the Terms of Reference (TOR) for the Strategic and Tactical plan meetings (Appendix B). As shown in the Relationship Map, the Annual LTP and Forecasting Planning Calendar serve as triggers for adjusting the timing within the Tactical and Strategic planning horizons. The annual planning cycle is reviewed collaboratively by (but not limited to):
+Asset Management Team.      
+E&P Planning Team. 
+Business Analysis Team.  
+Key dates within the planning systems at both the Strategic and Tactical levels should align consistently with the cost phasing data provided during the LTP and forecasting cycles.
+Accountability for the quality of planning and forecasting—both in terms of scheduling and costs—rests with the Plan Owner(s). In an asset-based organization, Plan Owners are typically part of the Asset or Operations Management teams. However, exceptions may occur where other individuals are designated as Plan Owners. Responsibility for producing planning dates and associated cost forecasts generally lies with the functional groups that supply the data to the Plan Owner. At both the Tactical and Strategic horizons, all Plan Owners should be clearly identified.
+
+
+Future State – Dynamic Plan Management
+The ideal future state of planning is one where decision-makers have enhanced visibility into their business and are empowered to make informed, efficient decisions. This vision moves beyond traditional “top-down” or “bottom-up” planning processes, fostering greater interaction between decision-makers and the analysts who provide critical data.
+Dynamic Planning enables decision-makers to pose questions about the plan without the need for repeating, resubmitting, or redoing work. Adjustments to sensitivities, such as price, foreign exchange, or inflation, can be applied seamlessly without requiring involvement from the entire organization.
+Integrated Planning centralizes planning data by aligning budget, economic, and financial planning processes. By eliminating conflicting data sources, this approach ensures that the resulting information and analyses are accessible at all organizational levels. The outcome is a more efficient and well-informed organization that can respond effectively to changing circumstances.
+Appendices
+
+Appendix A – BU Life Planning
+Structure and Functions
+The Business Unit Life Plan comprises four key components that facilitate development, ensure alignment across functions, and integrate strategic inputs. These components, along with their respective ownership and storage locations, are detailed in the table below.
+Components/Scope
+Frequency
+Timing
+Ownership
+Accountability
+Location
+Strategy Development & Scenario Planning
+Yearly - or as needed
+Q4
+COO
+Mgr Planning 
+Confidential Sharepoint
+(Advisor owned)
+Long Term Growth Plan
+Minimum Yearly
+Q1
+COO
+Asset Management, E&P Planning and BA
+Confidential Drive
+(BD owned)
+
+LTP (10+ years)
+Yearly
+Q3
+COO
+Asset Management,
+E&P Planning and BA
+Confidential Drive
+(Finance owned)
+
+End of Life Strategy
+Yearly
+Varies by PSC
+SVP
+Asset Management
+Confidential SharePoint
+(AM owned)
+
+Strategy Development & Scenario Planning
+This component serves as a Business Unit (BU)-level Collaborative and Decision Quality (CDQ) session, aimed at formulating long-term portfolio planning scenarios. The CDQ leverages corporate methodologies and aligns with the Corporate-BU strategy. Owned by the COO and supported by SVP for Portfolio Management, this component includes discussions on exit strategies, potential market influences, and key drivers. The strategy undergoes annual validation and review with the corporate team and is revisited as needed, particularly in response to significant political, market, or commercial events that may impact its outcome.
+Long Term Growth Plan
+The COO is the owner of this component, with Asset Management responsible for collecting and supporting the development of the BU's long-term growth opportunities. The "BU Long-Term Growth Plan" extends beyond the LTP and is reviewed by the Leadership Team (LT) at least annually.
+This plan includes action steps for developing identified opportunities and assesses their potential magnitude. It also incorporates strategies to optimize portfolio value. The associated documents are confidential and maintained by the Planning team.
+LTP beyond 10 years
+This component is divided into two major areas: Development (Assets) and Exploration (New Ventures):
+
+
+
+Development   
+Focuses on future fields and utilizes a systematic new-opportunities selection criteria. It includes economic valuations as part of the LTP process and manages Plans of Development (POD) within existing PSCs. This area is reviewed annually in preparation for the LTP process and is informed by inventory generation initiatives within the assets.
+Exploration
+Covers future fields, data acquisition, and entry into new PSCs. It applies a systematic new-opportunities selection criteria and conducts economic valuations within the LTP. Similar to Development, Exploration is reviewed annually in advance of the LTP process and is driven by inventory generation initiatives within the assets.
+End of Life Strategy
+End-of-PSC-life management involves the development and execution of the Abandonment and Site Restoration (ASR) strategy. This includes comprehensive planning and oversight to ensure the effective and compliant closure of operations.
+
+
+Appendix B – Meeting Term of Reference
+
+
+Appendix C – Planning Activity Inclusion Criteria
+
+
+
+
+
+Mandatory
+
+Discretionary
+
+
+
+
+Recommended
+
+Not included
+
+
+
+
+
+
+
+
+
+
+
+ACTIVITY
+Activity Type
+7-day
+30-day
+90-Day
+24 Month
+10-Year
+BU Life
+
+Schedule Visualization Granularity
+
+Daily
+Daily
+Daily
+Monthly
+Quarterly
+Yearly
+
+
+
+
+
+
+
+
+Integrated Activities (Common across functions)
+
+
+
+
+
+
+
+
+All vendor / contractor work aside from core staffing
+Function
+ALL
+ALL
+> 20% total workforce
+> 20% total workforce
+> 20% total workforce
+
+
+Shutdowns or rate reductions
+Integrated
+
+Lower ability to meet demand
+Lower ability to meet demand
+Lower ability to meet demand
+> 10% of facility capacity
+
+
+Additional logistics (boats, helicopter, vehicles)
+Function
+ALL
+ALL
+> 20% capacity
+> 20% capacity
+> 20% capacity
+
+
+Emergency exercises
+Integrated
+
+Tier 1 and above, excluding table top
+Tier 1 and above, excluding table top
+Tier 1 and above, excluding table top
+
+
+
+Project Milestones
+Integrated
+
+ALL
+ALL
+ALL
+Major Project
+Major Project
+
+Major Procurement Milestones
+Integrated
+
+ALL
+MEDCO E&P GRISSIK Approval, SKK Migas Approval
+MEDCO E&P GRISSIK Approval, SKK Migas Approval, MEPI Approval
+MEPI Approval
+-
+
+ACTIVITY
+Activity Type
+7-day
+30-day
+90-Day
+24 Month
+10-Year
+BU Life
+
+Schedule Visualization Granularity
+
+Daily
+Daily
+Daily
+Monthly
+Quarterly
+Yearly
+
+Additional external resources
+Function
+ALL
+ALL
+> 20% total workforce
+> 20% total workforce
+> 20% total workforce
+
+
+Additional internal resources
+Function
+ALL
+ALL
+> 20% total workforce
+> 20% total workforce
+> 20% total workforce
+
+
+Major HAZOP / HAZID requirements
+Function
+ALL
+ALL
+>10 FTE
+>10 FTE
+
+
+
+Supply vessel and other significant logistics schedules
+Function
+-
+ALL
+ALL
+Inter Island
+
+
+
+IAAN Follow up action
+Integrated
+
+Sig/Hi Risk, and/or production impact
+Sig/Hi Risk, and/or production impact
+Sig/Hi Risk, and/or production impact
+
+
+
+SCE activities 
+Integrated
+
+Major impairment – Hi/Sig Risk, and/or production impact
+Major impairment – Hi/Sig Risk, and/or production impact
+Major impairment – Hi/Sig Risk, and/or production impact
+
+
+
+Major Contract expirations and milestone dates for re-tenders
+Integrated
+
+>5MM
+>5MM
+>5MM
+>20MM
+
+
+Hiring and Training Processes
+Function
+ALL
+ALL
+ALL
+ALL
+Critical Skills
+
+
+Manpower Planning Process (RPTK, etc.)
+Function
+ALL
+ALL
+ALL
+ALL
+
+
+
+Marine Surveys
+Integrated
+
+ALL
+ALL
+>5 MM
+
+
+
+
+Facilities Maintenance
+
+
+
+
+
+
+
+
+Major engine overhaul and change-outs
+Integrated
+
+ALL
+ALL
+ALL
+>$ 5MM
+
+
+Major equipment change-outs/repair
+Integrated
+
+ALL
+ALL
+ALL
+>$ 1MM
+
+
+Non Routine and Intelligent Pigging
+Integrated
+
+ALL
+ALL
+ALL
+>$ 1MM
+
+
+Major Asset Integrity Activities
+Integrated
+
+ALL
+ALL
+ALL
+>$ 5MM
+
+
+Major Maintenance Milestones
+Integrated
+
+ALL
+ALL
+ALL
+>$ 5MM
+
+
+Metering Certifications
+Integrated
+
+ALL
+ALL
+ALL
+-
+
+
+Equipment Certifications (License to operate)
+Integrated
+
+ALL
+ALL
+ALL
+-
+
+
+Project Delivery Corridor
+
+
+
+
+
+
+
+
+Major Approval (AFE, Tender or Award Plan, etc.)
+Integrated
+
+ALL
+ALL
+ALL
+>$50MM
+>$100MM
+
+Project Milestones (Engineering, Procurement, Construction, Installation)
+Integrated
+
+ALL
+ALL
+ALL
+>$75MM
+>$100MM
+
+
+
+
+
+
+
+
+
+Pre Development & Development
+
+
+
+
+
+
+
+Development Screening, Development concept milestones
+Integrated
+
+ALL
+ALL
+ALL
+>$10MM
+>$100MM
+
+Milestones
+Integrated
+
+ALL
+ALL
+ALL
+>$75MM
+>$100MM
+
+
+New Well Drilling
+
+
+
+
+
+
+
+
+Major Approval (AFE, Tender or Award Plan, etc.)
+Integrated
+
+ALL
+ALL
+>$10MM
+>$20MM
+>$20MM
+
+Drilling & Completion Milestones (well pad, spud, completion, flow test)
+Integrated
+
+ALL
+ALL
+>$10MM
+>$20MM
+>$20MM
+
+
+
+
+
+
+
+
+Well Services & Maintanance
+
+
+
+
+
+
+
+
+Major Approval (AFE, Tender or Award Plan, etc.)
+Function
+ALL
+ALL
+ALL
+ALL
+>$1MM
+>$1MM
+
+Well Service & Maintenance
+Integrated
+
+ALL
+ALL
+>$500K
+>$5MM
+
+
+Commercial
+
+
+
+
+
+
+
+
+Crude Liftings
+Integrated
+
+ALL
+ALL
+ALL
+
+
+
+Gas Contract Maintenance Declaration
+Integrated
+
+ALL
+ALL
+ALL
+
+
+
+Gas Contract Reserve Reporting and DMR
+Integrated
+
+ALL
+ALL
+ALL
+
+
+
+Contract Negotiations
+Function
+
+ALL
+ALL
+ALL
+ALL
+ALL
+
+Contract Milestones
+Function
+-
+ALL
+ALL
+ALL
+ALL
+ALL
+
+Contract Termination
+Integrated
+
+ALL
+ALL
+ALL
+ALL
+ALL
+
+Reserve Certification
+Integrated
+
+ALL
+ALL
+ALL
+
+
+
+Buyer Maintenance
+Integrated
+
+ALL
+ALL
+ALL
+
+
+
+Demand Fluctuations
+Integrated
+
+ALL
+ALL
+>10% normal
+
+
+General Stakeholder Engagement
+
+
+
+
+
+
+
+
+Major Approval (AFE, Tender or Award Plan, etc.)
+Integrated 
+-
+ALL
+ALL
+ALL
+>$ 1 MM
+
+
+VIP Visits
+Function
+-
+ALL
+ALL
+ALL
+
+
+
+Non-VIP Visits
+Function
+-
+ALL
+ALL
+
+
+
+
+Global / Corporate Function visit
+Function
+-
+ALL
+ALL
+
+
+
+
+Audits and reviews
+Integrated
+-
+ALL
+ALL
+ALL
+-
+
+
+Government of Indonesia
+
+
+
+
+
+
+
+
+Work Program and Budget (WP&B) Process
+Integrated
+
+ALL
+ALL
+ALL
+
+
+
+WP&B Revision and Monitoring Process
+Integrated
+
+ALL
+ALL
+ALL
+
+
+
+Major Permitting
+Integrated
+
+ALL
+ALL
+ALL
+ALL
+ALL
+
+PSC Expiration/Extension
+Integrated
+
+ALL
+ALL
+ALL
+ALL
+ALL
+
+Community and Business Environment
+
+
+
+
+
+
+
+
+CSR Campaigns
+Function
+-
+ALL
+ALL
+ALL
+ALL
+
+
+Community Events (COP driven)
+Function
+ALL
+ALL
+ALL
+ALL
+ALL
+
+Partners
+
+
+
+
+
+
+
+
+Technical Committee Meetings
+Integrated
+
+ALL
+ALL
+ALL
+
+
+
+Operating Committee Meetings
+Integrated
+
+ALL
+ALL
+ALL
+
+
+Internal
+
+
+
+
+
+
+
+
+Long Term Plan Process
+Integrated
+
+ALL
+ALL
+ALL
+ALL
+
+
+Cash and Earnings Process
+Function
+ALL
+ALL
+ALL
+ALL
+
+
+
+SMOG
+Function
+ALL
+ALL
+ALL
+ALL
+
+
+
+Reserve Booking
+Function
+ALL
+ALL
+ALL
+ALL
+
+
+
+Core Manpower Requirements
+Function
+ALL
+ALL
+ALL
+ALL
+ALL
+ALL
+
+Core Resource Requirements
+Function
+ALL
+ALL
+ALL
+ALL
+ALL
+ALL
+
+Appendix D – Data Input Attribute
+
+No.
+Data Attribute
+Description
+Operational
+Tactical
+Strategic
+1
+Medco E&P Grissik Ltd (MEPG) Department
+Department name, eq Operations, Drilling, Project, Development, Logistic, etc.
+Mandatory
+Mandatory
+Mandatory
+2
+Medco E&P Grissik Ltd (MEPG) Activity ID
+String of combination, to be decided further
+Mandatory
+Mandatory
+Mandatory
+3
+Medco E&P Grissik Ltd (MEPG)  PMO ID
+Unique Identification of order in BPM (Sequential number can be used when PMO # is not applicable)
+Mandatory
+
+
+4
+Medco E&P Grissik Ltd (MEPG) Project ID
+
+Mandatory
+
+
+5
+Contractor Internal Project ID
+
+Mandatory
+
+
+6
+Routine/Non Routine
+
+Mandatory
+
+
+7
+Location
+Field locations
+Mandatory
+Mandatory
+
+8
+BPM Functional Location
+Is the location where an activity is to be performed (where applicable, this should be made as specific as possible)
+Mandatory
+
+
+9
+Plant System
+
+Mandatory
+
+
+10
+Plant SubSystem
+
+Mandatory
+
+
+11
+Hydrocarbon/Electrical/Utility
+
+Mandatory
+
+
+12
+Main Work Center
+Is the discipline responsible for the work (particularly when more than 1 disciplines involved)
+Mandatory
+
+
+13
+Activity Name
+
+Mandatory
+Mandatory
+Mandatory
+
+
+
+Mandatory
+
+
+14
+Start
+The plan date when an activity is to start in the field
+Mandatory
+Mandatory
+
+15
+Finish
+The plan date when an activity is to finish in the field.
+Mandatory
+Mandatory
+
+16
+Duration
+Duration is suggested to be in "day" if the duration of an activity is less than 1 day please use fraction e.g. 0.5 day etc. (1day = 12 hours). A work performed continuously for 24 hours can still be claimed as 1 day but please put note in the "additional information" column.
+Mandatory
+
+
+17
+Actual Start
+
+
+
+
+18
+Actual Finish
+
+
+
+
+19
+Actual Duration (day)
+
+
+
+
+
+
+
+
+
+
+20
+Job Owner
+The personnel responsible for the job from preparations until completion.
+
+
+21
+Work Leader
+The personnel responsible for execution of the job in the field
+
+
+
+22
+Hotwork Needed
+Yes/No question to confirm if the work is or is not a Hotwork.
+Mandatory
+
+
+23
+MOC Needed
+Yes/No question to confirm if the work is or is not require MOC.
+Mandatory
+
+
+24
+Plant Shutdown Needed
+Does the work require plant to shutdown
+Mandatory
+Mandatory
+Mandatory
+25
+Impact LPO
+Potential estimated LPO due to the work
+Mandatory
+Mandatory
+Mandatory
+26
+Safety Barrier Needed
+Safety critical isolation needed
+Mandatory
+
+
+27
+Crane Need
+Does it need crane, at what condition of the crane
+Mandatory
+
+
+28
+Scaffolding Need
+Does it need scaffolding
+Mandatory
+
+
+29
+Other Need (specify)
+This is to indicate special requirement for a work e.g. require shutdown, require a crane to do the work, etc.
+Mandatory
+
+
+30
+POB Constraint
+
+Mandatory
+Mandatory
+Mandatory
+
+
+
+
+
+
+31
+Material Status
+The information of the materials required for the job: status (where?), weight (need crane?), Size (space required?)
+ 
+ 
+ 
+32
+WorkPack Status
+
+
+
+
+
+
+
+
+
+
+33
+Discipline - Field Crew
+Field Crew is field-based employee required to dedicatedly support the job.
+ 
+ 
+ 
+34
+Number of Field Crew
+
+
+
+
+35
+Medco E&P Grissik Ltd (MEPG) non field Dept.
+MEDCO E&P GRISSIK Non-field is non-field based MEDCO E&P GRISSIK employee(s) mobilized to perform a job in the field (including Supraco, Singgar).
+ 
+ 
+ 
+36
+Number of Medco E&P Grissik Ltd (MEPG) non-field
+
+
+
+
+37
+Third Party Company
+3rd Party is any government official and/ or 3rd Party employees that TEMPORARILY come to the field to execute or witness the work
+ 
+ 
+ 
+38
+Third Party Number
+
+
+
+
+39
+Total Number of People to execute
+Number of manpower required to perform the job
+Mandatory
+Mandatory
+Mandatory
+40
+Estimated Manhours
+Planned number of direct manhours required to execute the job
+Mandatory
+
+
+
+
+
+
+
+
+41
+Contractor Sched.Ready (Y/N)
+
+Mandatory
+
+
+42
+Budgeted (Y/N?)
+
+Mandatory
+Mandatory
+Mandatory
+43
+Estimated Cost
+
+Mandatory
+Mandatory
+Mandatory
+44
+Budget Source
+
+Mandatory
+
+
+
+
+
+
+
+
+45
+Potential Consequences
+Use HSE 5x5 Consequences matrix
+Mandatory
+Mandatory
+Mandatory
+46
+Likelihood
+Use HSE 5x5 Likelihood matrix
+Mandatory
+Mandatory
+Mandatory
+47
+Risk Ranks
+Consequences x Likelihood
+Mandatory
+Mandatory
+Mandatory
+48
+Primary LSR
+Main LSR that migh involve the task
+Mandatory
+
+
+49
+Priority
+If not sure about "Priority", please leave it blank. The Schedule Review Meeting will determine which activity has higher priority over another.
+ 
+ 
+ 
+
+
+
+
+
+
+50
+Additional Info
+Any important info that has not been included in the other column, or will further explain the contain of other columns.
+ 
+ 
+ 
+
+Appendix E – Prioritization Matrix for Operational Horizon
+
+
+
+Appendix F – Activity Change Request Process
+
+Reason for Plan Change
+Changes to the 30-day plan must be approved by the Plan Owner due to the potential risks associated with adding or modifying activities. Such changes, if not carefully managed, could lead to Health, Safety, and Environmental (HSE) incidents, failure to meet forecasted deadlines, or negative impacts on overall plan performance.
+There are three types of change to the plan:
+Addition of New Activities
+Deletion of Existing Activities
+Modifications to Ongoing Activities within the 30-Day Plan
+For operations activities, all proposed changes must be reviewed and approved during the daily or weekly meetings with the Superintendent, OIM, and/or Offsite Managers. These changes must also be documented through email confirmation or meeting minutes. Alignment with the existing schedule and required resources must be addressed during the meeting.
+Any proposed changes that may impact constraints—such as safety, operational resources, logistics support, production, or budget—must be initiated through a Plan Change Request. At a minimum, such changes require approval from the Plan Owner.
+New Activity to Plan
+This process ensures that all unplanned activities with potential impacts on constraints (such as accommodations, operational resources, logistics support), production, or budget are clearly defined and agreed upon before being incorporated into the ongoing 30-day plans.
+Changes with potential impacts on constraints—such as safety, operational resources, logistics support, production, or budget—require an approved Plan Change Request (PCR) form, with the following process:
+Submission of PCR Form:
+The Activity Sponsor completes and submits the PCR form to the Asset Planner for evaluation.
+If there are no significant constraints (e.g., accommodations or SIMOPS issues), the changes can be forwarded directly to the Plan Owner for approval.
+If there is a major impact on constraints, the matter must be escalated to the OIM for resolution. Depending on the complexity of the change, the OIM may convene a meeting with the Field Manager to discuss and resolve the issue.
+The Field Manager reviews the PCR form, considering the priority, justification, and potential impacts on the current plan. Based on this review, the Field Manager decides whether to approve or reject the proposed activity.
+The Asset Planner informs the Activity Sponsor whether the proposed activity is approved or rejected, including the reasons for the decision. If the change impacts other activities, the owners of those activities must be informed of the implications, and adjustments or reprioritization may be required.
+Deletion of Activities
+The deletion of an activity can be decided by the OIM after evaluating the following factors:
+Impact on Budget and Production Opportunity: The potential consequences of continuing the activity versus its removal, including financial and production considerations.
+Resource Reallocation: The reallocation of resources freed by the deletion and how it affects other operations.
+Impact on Other Activities: Any effects on other activities that depend on or follow sequentially from the deleted activity.
+Approval for deleting an activity that may impact constraints or resources must be documented through a PCR. The OIM is responsible for providing justification based on the considerations outlined above, while the Asset Planner is responsible for recording and documenting the justification.
+
+Changes within ongoing 30 day planning
+Any change to a plan that extends beyond three days from its original 30-day schedule requires alignment with the existing schedule and available resources. If the change impacts other activities, the respective activity owners must be informed, as they may need to re-prioritize their work accordingly.
+To be filled by Plan Originator
+PCR No:
+Asset Area:
+Description of Original Plan
+
+
+
+
+
+Description of Plan Change / New Addition
+
+
+
+Justification for Plan Change / New Addition
+
+
+
+
+
+Change on :  Duration Dates    Risk Resource Competency
+Describe :
+
+
+
+
+
+
+Impact to :  Safety Risk Production POB Budget/Costs Other Constraints/Logistics
+ Tactical Planning
+Describe :
+
+
+
+
+
+
+How the changes will be managed :
+
+
+
+
+
+
+To be filled by Planner
+List of Other Planned Activities being impacted
+
+
+
+
+
+
+Approver Comment
+
+
+
+
+Approver Signature / Date
+
+
+
+Name:
+Planner Completion to Change
+ Schedule and Resources
+ Notify impacted activities
+
+
+
+
+Planner Signature / Date
+
+
+
+
+
+Name:
+
+Appendix G – Conducting After Action Review
+
+Planning the AAR
+Identify the activity to be reviewed.
+Decide on the timing of the AAR – it should be conducted as soon as possible after the event.
+Coordinate with the leader to determine who needs to attend.
+Ensure a suitable location or room is available.
+The leader should encourage the organization to capture key lessons in preparation for the AAR
+
+Preparing the AAR
+Select a facilitator.
+Confirm the date, time, location, and duration of the session in advance.
+Set expectations for attendees to come prepared and ready to focus on key issues
+
+Conducting the AAR
+The AAR should be focused, facilitated, and last no longer than 60 minutes.
+Typically, the AAR will involve input from multiple perspectives and will not be conducted in isolation.
+Promote active participation through group discussion.
+Facilitate discussions in chronological order of events.
+Record key lessons on a flip chart or similar tool.
+Clearly define and agree on action items, including the responsible parties, specific tasks, and deadlines.
+Highlight the potential impact of each lesson where known.
+
+Follow up the AAR
+Ensure documented lessons are tracked to closure, with their added value quantified. Use an Action Register to monitor progress.
+Provide the leader with access to the AAR for discussion during lessons learned meetings.
+What was planned
+What happened & why
+Impact it had
+Lesson
+Action Required
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Value of $ Save
+The objective is to capture cost savings and potential loss prevention achieved through planning activities, teamwork, and collaboration across functions.
+The purpose is to quantify the impact of planning and scheduling activities, as well as teamwork and interdepartmental collaboration. This aims to drive continuous improvement and motivate others to enhance their efforts in planning, teamwork, and collaboration

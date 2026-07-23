@@ -1,0 +1,885 @@
+LEMBAR JUDUL
+
+
+
+
+     ASSET DEVELOPMENT PLAN (ADP)
+                        GUIDELINE
+No. GL-002/06.2021/MEDC/RESV-TA
+                                        GUIDELINE
+Rev. 00          Page ii of v
+                                  ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+
+                                                     22 Sep 2021
+
+
+
+                                                     24 Sep 2021
+
+
+
+                                                    28 Sep 2021
+
+
+
+                                                    29/9/21
+
+                                                      29 Sep 2021
+
+
+
+
+                                                    29 Sept 2021
+
+
+                                                    4 Oct 2021
+
+
+                                                    5 Oct 2021
+
+                                                     6/10/21
+
+
+
+                                                      6/10/2021
+
+
+
+
+                                                      7 Oct 2021
+  No. GL-002/06.2021/MEDC/RESV-TA
+                                                           GUIDELINE
+  Rev. 00          Page iii of v
+                                                 ASSET DEVELOPMENT PLAN
+  Date: Sep 2021
+
+
+
+No part of this publication may be reproduced, transmitted, and/or copied in any form or by any means,
+including photocopying, without the written consent of PT Medco E&P
+
+
+
+
+Published by
+
+PT Medco E&P
+
+Jakarta, Indonesia
+No. GL-002/06.2021/MEDC/RESV-TA
+                                                       GUIDELINE
+Rev. 00          Page iv of v
+                                                 ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+                                         REVISION SHEET
+
+
+
+Document No.             :      GL-002/06.2021/MEDC/RESV-TA                    Rev : 00
+
+Document Level           :      2
+
+Document Title           :      ASSET DEVELOPMENT PLAN GUIDELINE
+
+Document Owner           :      Technical Assurance
+
+
+
+REV.      SECTION                   REVISION NOTES            INITIATION BY    DATE
+
+ 00         All                       First issuance           Eky Saputra    Sep 2021
+  No. GL-002/06.2021/MEDC/RESV-TA
+                                                    GUIDELINE
+  Rev. 00              Page. v of v
+                                             ASSET DEVELOPMENT PLAN
+  Date: Sep 2021
+
+
+
+                                      TABLE OF CONTENTS
+
+
+
+1. Purpose and Scope                                                  1
+
+2. Responsibilities                                                   3
+
+3. Guidelines                                                         5
+
+  3.1    Timing of ADP                                                5
+
+  3.2 Planning ADP                                                    6
+
+4. Topics to cover                                                    8
+
+5. Workflow                                                           16
+
+6. Distribution List                                                  17
+ No. GL-002/06.2021/MEDC/RESV-TA
+                                                               GUIDELINE
+ Rev. 00          Page. 1 of 17
+                                                  ASSET DEVELOPMENT PLAN
+ Date: Sep 2021
+
+
+
+1. Purpose and Scope
+
+   This document provides a process to ensure regular cross-functional reviews of the Asset
+   Development Plan, based on Field Depletion Plan. ADP provides live and robust product for LTP
+   input and clear articulation of value for each scenarios.
+
+   The focus of ADP is at Block or area level - Bigger picture, focus on strategy decision (including the
+   economics sensitivity, and commercial options).
+
+   ADP will be updated every year, unless there is no significant changes in the asset strategy or asset
+   value.
+
+   Scope of the depletion plan document should include but not limited to:
+
+           Area strategy (incl GSA) and overview,
+           Resource base,
+           Resource development options,
+           Risk management plan,
+           5 year plan,
+           Production profiles and DOE
+           Field life assessment
+           HSE: policy and facility integrity
+           Cost: operation, optimization
+           Technology plan,
+           Exploration strategy
+
+   The document shall cover all active Block and must be approved by Medco EP President Director.
+
+                                Asset Development Plan (ADP)
+
+
+    Objective                   •   Live and robust product for LTP input
+
+                                •   FDP plus clear articulation of value for each scenarios.
+
+
+    Focus                       •   Block or area level - Bigger picture, focus on strategy decision
+                                    (including the economics sensitivity, and commercial options)
+
+                                •   Incorporate business consideration into the plan
+
+                                •   Focus on 3 main scenario (minimum investment, reference, growth)
+No. GL-002/06.2021/MEDC/RESV-TA
+                                                           GUIDELINE
+Rev. 00          Page. 2 of 17
+                                                ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+  Key Topic                  •   Area strategy (incl GSA) and overview,
+
+                             •   Resource base,
+
+                             •   Resource development options,
+
+                             •   Risk management plan,
+
+                             •   5 year plan,
+
+                             •   Production profiles and DOE
+
+                             •   Field life assessment
+
+                             •   HSE: policy and facility integrity
+
+                             •   Cost: operation, optimization
+
+                             •   Technology plan,
+
+                             •   Exploration strategy
+
+
+  Update Frequency           Every year (or as needed basis)
+
+
+  Key         Success        •   ADP scenarios (minimum investment, reference, growth / upside)
+  Factors
+                             •   Request support from BoD to deliver value
+
+
+  Ownership                  SVP Asset
+
+
+  Approval                   Medco EP CEO
+    No. GL-002/06.2021/MEDC/RESV-TA
+                                                                                          GUIDELINE
+    Rev. 00                  Page. 3 of 17
+                                                                              ASSET DEVELOPMENT PLAN
+    Date: Sep 2021
+
+
+
+2. Responsibilities
+
+The responsibilities are difined using RACI chart below with definition:
+
+R           Responsible - The person(s) who actually completes the task, the "doer". Responsible for
+            action / implementation. Responsibility can be shared The degree of responsibility is
+            determined by the person with the "A".
+
+A           Accountable - The person who is ultimately accountable for results. He / She has yes / no
+            authority or veto power. Only one "A" can be assigned to a function of activity.
+
+C            Counsult - A person to be consulted prior to a final decision of action, 2-way communication.
+
+I            Inform - A person who must be informed after the final decision or action is taken. 1-way
+             communication
+
+
+
+
+                                                                                                                                                                                        Asset Management
+                                                                                                                         Steerinf Committee
+
+
+
+
+                                                                                                                                                         ADP Asset Lead
+
+
+
+
+                                                                                                                                                                                                           Working Team
+                                                                                                                                                                          EP Planning
+                                                                                                                                              ADP Lead
+                                                                                                               Sponsor
+
+
+
+
+Act.
+                                                   Primary Tasks Activities
+No.
+    1    Kick-off the ADP and notify related functons to start the review                                        I             I              A            R                 I               I                 I
+
+    2    Review the latest asset operational strategy and input from BoD in Asset Strategy Discussion            I             I               A           R                 I               I                 I
+         Provide guidance on ADP content and schedule
+    3                                                                                                            I          A                  R              I              I               I                 I
+
+    4    Standardize and transfer best practise among all asset                                                  I          A                  R              I              I               I                 I
+
+    5    Lead coordination and discussion within internal Asset / Working Team                                   I             I               A           R                 I               I                 I
+         Coordinate the ADP write up
+    6                                                                                                            I             I               A           R                 I               I                 I
+         Track and monitor ADP Asset project schedule
+    7                                                                                                            I             I               A           R                 I               I                 I
+         Make sure the data quality (has gone through assurance review)
+    8                                                                                                            I             I               A           R                 I               I                 I
+         Update, inform, and make sure Working Team have the same level of information regarding the project
+    9                                                                                                            I             I               C           A                 I             R                   I
+
+    10   Update profile based on actual data (5+7)                                                               I             I                I          A                 I               I               R
+
+    11   Optimize project based on MEI guideline                                                                 I             I               C           A                 I               I               R
+
+    12   Optimize capex opex                                                                                     I             I                I          A                 I               I               R
+
+    13   Economic calc and strategy optimization                                                                 I             I               C           A                R                I                 I
+
+    14   Presentation to BOD MEPI                                                                                I             I               A              I             R                I                 I
+
+    15   Wrap up ADP and approval process                                                                        I             I               A           R                 I               I                 I
+  No. GL-002/06.2021/MEDC/RESV-TA
+                                                                              GUIDELINE
+  Rev. 00               Page. 4 of 17
+                                                               ASSET DEVELOPMENT PLAN
+  Date: Sep 2021
+
+
+
+Table below listed the data needed for ADP evaluation. Asset Management is responsible to make sure
+all data is provided by each function and has gone through assurance review as stated below. The data
+structure and management of ADP and LTP is aligned for streamlining the LTP process
+
+            Data                                Accountable Responsible        Consult                   Notes
+
+            HR Related Costs                        AM     Activity owner         HR          Direct production cost (DPC)
+
+            Third Party Contracts                   AM     Activity owner         HR                      DPC
+
+            Routine Costs                           AM          OM                                        DPC
+
+            Non Routine Costs                       AM     Activity owner                                 DPC
+
+                                                            HR/IS/GS/Acti Activity owner
+            TSS cost (total cost)                 BA HQ
+                                                             vity owner      & BA HQ
+            TSS cost (allocated cost)               AM          BA HQ      EP Planning              Allocated cost
+            ASR                                     AM        BA Asset                                    DPC
+            Information Services                    AM            IS      Activity owner        DPC, including software
+            General Services                        AM            GS                                      DPC
+            Pension Funds                           AM            HR
+                                                            HR/IS/GS/Acti Activity owner
+            G&A Expenses (total cost)             BA HQ
+                                                             vity owner      & BA HQ
+            G&A Expenses allocated cost)            AM          BA HQ      EP Planning               Allocated cost
+            Exploration Administration (total                             HR/IS/GS and
+                                                  BA HQ          EXP
+            cost)                                                             BA HQ
+            Exploration Administration                                       EXP & EP
+                                                    AM          BA HQ                                Allocated cost
+            (allocated cost)                                                 Planning
+            Cost/Activities ID                                    BA
+                                                                                                   Production bonus,
+            Non Cost Recoveries                     AM        BA Asset         GM/AM            community development
+                                                                                               (CSR), internal service, etc
+            Exploration Drillings                   AM        Well Ops           EXP
+            Seismic                                 AM          EXP
+            G&G Studies Explo                       AM          EXP
+            G&G Studies Subsurface                  AM           SS               TA
+                                                                                               Pre-Dev is in coordination
+            Predevelopment, Studies, for                                                        with Asset Team before
+                                                    AM        Pre-Dev       Project Service
+            non capital activities                                                              submitting to Assurance
+                                                                                                       Reviewer
+                                                                                               Pre-Dev is in coordination
+            Predevelopment, for capital                                                         with Asset Team before
+                                                    AM        Pre-Dev       Project Service
+            activities                                                                          submitting to Assurance
+                                                                                                       Reviewer
+                                                              Project
+            Major Project (MPEP)                    AM                      Project Service
+                                                              Delivery
+
+            Development Drillings / WellOps         AM           DE
+
+            Production Facilities                   AM           FE
+            Facility Maintenance / Integrity
+                                                    AM           FE
+            cost
+            Well Maintenance / Integrity
+                                                    AM           WI
+            cost
+            Production rate                         AM           SS               TA
+
+            Sales gas                               AM           SS              Com          include commercial constrain
+            Fuel rate                               AM          Ops
+            Flare rate                              AM          Ops
+            DOE                                     AM          Ops
+                                                                                              oil lifting that has operation
+            Oil Lifting rate                        AM          Ops              Com
+                                                                                                            risk
+            GHV                                     AM          Ops
+     No. GL-002/06.2021/MEDC/RESV-TA
+                                                                                                                            GUIDELINE
+     Rev. 00                                Page. 5 of 17
+                                                                                                          ASSET DEVELOPMENT PLAN
+     Date: Sep 2021
+
+
+
+           Note:
+
+           AM = Asset Management; GM = General Manager Asset; OM = Operation Manager; HR = Human
+           Resources Team; BA HQ = Business Analyst Head Quarter; BA Asset = Business Analyst Asset;
+           IS = Information System Team; GS = General Service Team; Well Ops = Well Operation Team –
+           Asset; EXP = Exploration Team; SS = Subsurface Team – Asset; Pre-Dev = Pre-Development
+           Team PDEE; Project Delivery = Project Delivery Team – Asset; Project Service = Project Service
+           Team PDEE; TA = Technical Assurance; DE = Drilling Engineering; FE = Facility Engineering; WI
+           = Well Integrity Team; Ops = Operation Team; Com = Commercial Team.
+
+
+
+           Non Operated Asset will use the data from Operator and data assurance process will be adjusted
+           as far as reasonably practicable, but should reflect Medco view and may differ from operator.
+
+
+
+
+3. Guidelines
+         3.1 Timing of ADP
+
+         In the grand scheme of Integrated Business Planning, as per timeline below, ADP will start after
+         technical team completed technical evaluation that ends up in FDP Document (2+10 forecast as
+         the basis). ADP will use 5+7 forecast as the basis. ADP Document will be used as one of main input
+         for LTP input. It is expected that ADP incorporating guidance from coporate (MEI) in term of Capex,
+         Opex constrained, production target, foreign exchange, and future price assumption.
+                                                                                                          FDP                                                         ADP                                   LTP
+                                                                    Jan           Feb             Mar               Apr             May             Jun             Jul             Aug             Sep               Oct
+                                             R     A   C    I   1   2 3   4   1   2   3   4   1   2   3     4   1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4   1   2   3   4   1   2   3     4   1   2   3   4
+FDP
+Reservoir Performance Update and review
+(low-mid-high)                               SS        TA
+Well and Facility Review                     SS        TA
+Update HITS based on Well and Facility ReviewSS
+Major well and workover review with TA       SS        TA
+Forecast generation unconstrained (2+10)     SS
+TA review base decline (low-mid-high)        SS        TA
+Assumption (DOE, GHV, Demand, opex capex
+drilling, WO, prod opt)                      AM
+Roll up profile                              SS
+Update FDP                                   SS
+Presentation to SM, SVP                      AM
+
+Strategic guideline published by MEI         MEI
+
+ADP
+Update profile based on actual data (5+7)    SS
+optimize project based on MEI guideline      AM
+optimize capex opex                          AM
+economic calc and strategy optimization      EP/AM
+Presentation to BOD MEPI (1st)               EP
+Followup BOD EP action item                  AM
+Presentation to BOD MEPI (2nd)               EP
+wrap up ADP and approval                     EP
+
+LTP
+update production and cost (7+5)             SS,AM
+analyze portfolio                            EP
+Presentation to BOD EP Management (1st)      EP
+Followup BOD EP Management action item       EP
+Presentation to BOD EP Management (2nd)      EP
+submit LTP to MEI                            EP
+
+
+
+
+         There should no be major difference between ADP and LTP. Base decline in LTP is expected to
+         use 7+5 forecast, while projects (Prod Opt, Workover, Development Drilling, and facility upgrade)
+  No. GL-002/06.2021/MEDC/RESV-TA
+                                                         GUIDELINE
+  Rev. 00          Page. 6 of 17
+                                                  ASSET DEVELOPMENT PLAN
+  Date: Sep 2021
+
+
+
+   should be from ADP. In case there is significant difference between ADP and LTP, ADP need to be
+   amended once LTP is approved. Figure below is high level schedule.
+
+
+
+
+The key dates for ADP are:
+
+      Kick-off                               :        Mid June
+      Presentation and approval process      :        Mid Jul – Mid Aug
+      Approved ADP Document                  :        Mid Aug
+
+
+
+   3.2 Planning ADP
+
+       During the ADP process, it is necessary to create adhoc team to ensure communication
+       channel within all stakeholder. The team consist of Sponsor, Steering comitee, ADP Lead, ADP
+       Asset Lead, and working team. All team member is detailed in table below.
+No. GL-002/06.2021/MEDC/RESV-TA
+                                                             GUIDELINE
+Rev. 00          Page. 7 of 17
+                                                  ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+            Member               Role
+
+
+Sponsor     MEPI BoD                •   Resolve issues
+
+                                    •   Approve strategy
+
+
+Steering    Sr     Mgr EP           •   Accountable for recommendation presented to BoD
+Committee   Planning, VP
+                                    •   Endorse strategy
+            Technical
+            Assurance,
+            Sr VP Asset
+
+
+ADP Lead    Technical               •   Provide ADP guideline
+            Assurance
+                                    •   Co-Lead (with EP Planning) Asset Strategy Discussion and
+                                        portfolio analysis
+
+                                    •   Alignment with corporate strategic plan
+
+                                    •   Standardize and transfer best practise among all asset
+
+                                    •   Accountable for overall process and governance
+
+
+ADP Asset   Asset                   •   Kick-off, lead coordination and discussion within internal
+Lead        Management                  Asset / Working Team
+
+                                    •   Coordinate the ADP write up
+
+                                    •   Track and monitor ADP Asset project schedule
+
+                                    •   Make sure the data quality (has gone through assurance
+                                        review)
+
+                                    •   Update, inform, and make sure Working Team have the
+                                        same level of information regarding the project
+
+
+Working     Subsurface              •   Provide data, analysis, and supporting document
+Team
+            Surface
+            facility
+
+            Well Ops
+
+            Operation
+  No. GL-002/06.2021/MEDC/RESV-TA
+                                                                 GUIDELINE
+  Rev. 00          Page. 8 of 17
+                                                        ASSET DEVELOPMENT PLAN
+  Date: Sep 2021
+
+
+
+                Commercial
+
+                Exploration
+
+                Safety      and
+                Integrity
+
+                etc
+
+
+
+
+Table below govern the minum interaction amongs different group.
+
+ Meeting                          Key Participant
+
+
+ Bi-Weekly                        ADP Lead – ADP Asset Lead – EP Planning – SteerCo
+
+
+ Weekly                           ADP Lead – ADP Asset Lead – EP Planning
+
+
+ Regular meeting                  ADP Asset Lead – Working Team
+
+
+
+
+4. Topics to cover
+
+   The document shall cover the following sections:
+
+   1. Executive Summary
+
+   2. Area Strategy
+
+             2. 1 Overview
+
+                            2.1. 1   Area map (field colour coded oil/gas producer), facility structure
+                            2.1. 2   Partner and working interest, PSC mechanism
+                            2.1. 3   Asset highlight
+                            2.1. 4   Asset SWOT
+                                            SWOT should be done from Internal and external.
+                                            Internal: Hopper, Technology, Operation and opex,
+                                             Production, HR and organization, and Cash flow.
+                                            External: Market, Environment and community, Regulation,
+                                             Supplier
+No. GL-002/06.2021/MEDC/RESV-TA
+                                                               GUIDELINE
+Rev. 00          Page. 9 of 17
+                                                     ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+          2. 2 . Facility and field
+
+          2. 3 . Life of field production
+
+                                  Block historical production rate since block first HC, layered by field
+
+          2. 4 . Sales and Market
+
+                                  Price (oil/gas)
+                                  Contract duration
+                                  Future market opportunity / commercial strategy
+
+          2. 5 . Performance Track Record (last 5 years)
+
+                                                     2016      2017      2018    2019     2020
+
+                Net WI prod                          Mboed
+
+                DOE                                  %
+
+                Capex                                $mio
+
+                Opex                                 $mio
+
+                Lifting cost                         $/boe
+
+                Cash flow                            $mio
+
+                TRIR (Total Recordable Injury
+                Rate)
+
+                PSE (Process Safety Event
+                Tier 1 and 2
+
+
+
+          2. 6 . Strategic Intent
+
+                       Describe the strategic intent discussed during Asset Strategy Discussion with
+                        BoD and align with MEI guidance.
+                       At minimum ADP should has 3 layers as per below:
+                        1.6.1      Layer 1: Approved program in previous LTP
+                        1.6.2      Layer 2: Layer 1 + reviewed by technical assurance
+                        1.6.3      Layer 3: Layer 2 + growth potential
+
+                        Layer or scenario might be different year by year. Please consult with ADP
+                        Lead. Please also consider opex capex constraint guideline from MEI, and
+                        the impact to production.
+No. GL-002/06.2021/MEDC/RESV-TA
+                                                              GUIDELINE
+Rev. 00           Page. 10 of 17
+                                                   ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+          2. 7 . Challenges
+
+                   Barriers to realizing the value
+
+          2. 8 . Request Needed From Corporate
+
+
+
+ 3. Resource base
+
+                   Waterfall chart from prev YE, layer 1-3
+
+
+
+
+                   Reserves and Resources by field
+
+
+
+
+ 4. Resource development options
+
+                   List asset key activities ans its yearly rate
+No. GL-002/06.2021/MEDC/RESV-TA
+                                                          GUIDELINE
+Rev. 00          Page. 11 of 17
+                                                ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+
+                  Progression and status of each activities
+
+
+
+
+ 5. Production profiles and DOE
+
+                  Production profile by scenario vs comparison against last LTP
+No. GL-002/06.2021/MEDC/RESV-TA
+                                                             GUIDELINE
+Rev. 00          Page. 12 of 17
+                                                  ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+
+                  Historical (last 5 years) and future Direct Operating Efficiency (DOE): planned,
+                   unplanned, and total DOE
+
+ 6. Cost: operation, optimization
+
+                  Cost summary for each scenario and their comparison against last LTP
+
+
+
+
+                  Cost per barel for each layer comparison against last LTP
+                  Historical (last 5 years) opex capex and cost optimization effort in each cost
+                   element
+
+ 7. Asset Plan and Value
+
+     7.1 Asset Scenario and Value
+
+                  List of activities with their parameter
+   No. GL-002/06.2021/MEDC/RESV-TA
+                                                                                   GUIDELINE
+   Rev. 00                    Page. 13 of 17
+                                                                        ASSET DEVELOPMENT PLAN
+   Date: Sep 2021
+
+
+
+                                             Resource     Capex     Opex          Economic Parameter
+                                                                                                          Maturity Level
+     Proposed in ADP           Prior LTP      net WI      net WI   net WI   PIS                                                 Notes
+                                                                                  NPV15*       IRR
+                                           mmbo     bcf   mm us$   mm us$         mm us$        %      Subsurface    Facility
+Base                          Firm
+Prod Opt                      Firm
+Workover                      Firm
+Infill 1                      Firm
+New field 1                   Contingent
+Sc-1: Approved Program
+Infill 2                      Firm                                                                     Select       Select
+Project 1 (water flood)       Firm                                                                     Define       Select
+New field 2                   Firm
+New field 3                   Contingent
+New field 4                   Firm
+Sc-2: Sc-1 + Reviewed by TA
+New field 5                                                                                            Appraise     Appraise
+New field 6
+Sc-3: Sc-2 + growth
+Project 2
+Project 3
+Infill 3
+New field 7
+Uneconomic
+
+
+*discount rate might be different year by year. Please consult with ADP Lead and EP Planning
+
+
+
+                                Asset value by activity
+
+
+
+
+                                Cash flow
+No. GL-002/06.2021/MEDC/RESV-TA
+                                                           GUIDELINE
+Rev. 00          Page. 14 of 17
+                                                 ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+                  Clear articulation of value and strategy for each scenarios as stated in section 2.6
+                   including
+                       o   Technical maturities (subsurface, drilling, facility) and their progression
+                                  Appraise, Select, define schedule for subsurface, drilling, facility
+                       o   PIS and project management
+
+
+
+
+                       o   Procurement strategy and LLI
+                                  Using    existing   stock,   available   stock   from   other   PSC,
+                                   rerufbishment, or purchase new?
+                                  When is decision needed to order LLI?
+                       o   Abandonment and site restoration
+                                  Associated cost and strategy
+                       o   Accussition and divestment plan
+                                  Farm-in/out for current or future project?
+                       o   Commercial strategy
+                                  Amandement plan
+                                  New GSA
+                                  Market intelligent in the area
+                       o   Project economics
+                                  Please write any effort or assumption to make project economic,
+                                   ex: incentives, PSC amendment, etc
+                       o   Human resources for the whole cycle (appraise to execute)
+                       o   Funding option and guidance from MEI related to opex capex constrain
+No. GL-002/06.2021/MEDC/RESV-TA
+                                                              GUIDELINE
+Rev. 00           Page. 15 of 17
+                                                    ASSET DEVELOPMENT PLAN
+Date: Sep 2021
+
+
+
+     7.2 Field life assessment
+                       Discuss economic limit and effort to extend economic limit compare to previous
+                        plan
+                       Include exploration potential project that could potentially extend the economic
+                        limit
+                       Option to improve economic through PSC amandement or incentive?
+                       PSC extension plan and its timeline
+
+
+     7.3 HSE Policy and Facility Integrity
+
+              7.3.1 Safety and Health
+
+                       Plan and cost associated (if there is any)
+
+              7.3.2 Facility Integrity
+
+                       Mentioned specific issues that directly or indirectly affect the reservoir
+                        management plan, opex/capex, production and reserves.
+                       Facility maintenance plan and cost
+
+
+
+ 8. Risk Management and Sustainable Development Plan
+
+                   Provide the Risk Map from Q2 CRM
+                   Elaborate the highest risk and mitigation
+                   Sustainable development plan
+                    o   Elaborate GHG and Energy Efficiency
+                                   Road map and timeline to implement GHG reduction and increase
+                                    energy efficiency
+                                   Implementation and evaluation
+
+ 9. Technology plan
+
+             A cross department plan that describes the requirements for access, development, pilot
+              studies and full field development of emerging technologies.
+             Digitalization and Artificial Intelligent adaptation effort
+
+ 10. Exploration strategy
+
+             Articulate exploration strategy, associated cost (and cost constrain), and expected
+              volume
+  No. GL-002/06.2021/MEDC/RESV-TA
+                                                          GUIDELINE
+  Rev. 00          Page. 16 of 17
+                                                ASSET DEVELOPMENT PLAN
+  Date: Sep 2021
+
+
+
+
+5. Workflow
+
+
+
+
+Figure below governs high level workflow within each Asset.
+  No. GL-002/06.2021/MEDC/RESV-TA
+                                                         GUIDELINE
+  Rev. 00          Page. 17 of 17
+                                               ASSET DEVELOPMENT PLAN
+  Date: Sep 2021
+
+
+
+
+6. Distribution List
+
+   ADP document consists of confidential information such as asset value and strategic plan. ADP
+   can be circulated only with Asset Management, EP Planning, Technical Assurance, and top level
+   management (Sr VP Asset (including direct report) and BoD). Any distribution other than mentioned
+   above should be acknowledged by Sr VP Asset.
+

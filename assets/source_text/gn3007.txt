@@ -1,0 +1,1560 @@
+Document Title:                  Integrated Corridor Operation Planning Procedure
+                                 (12-Month, 90-Day, 30-Day, and 7-Day Planning Framework)
+
+Doc No.:                         ID-G-BU-GG0-PRO-GN-00-3007
+
+
+
+
+Originator:                       Medco E&P Grissik Ltd. (MEPG)
+Information Owner:                OPAA (Operation Planning and Activity Assurance) Corridor
+Area:                             BU- Business Unit
+Location:                         GN- General
+System:                           00- General
+Document Type :                   PRO-Procédure/Work Instruction/Job Note
+Discipline / Subdiscipline :      G- General / G0- General
+Old Document No.:                 -
+
+
+
+
+                                                                                         Approvals.pdf
+
+
+
+
+                                     PROPRIETARY INFORMATION
+                               THIS DOCUMENT CONTAINS PROPRIETARY
+                        INFORMATION BELONGING TO MEDCO E&P GRISSIK LTD. AND
+                            MUST NOT BE WHOLLY OR PARTIALLY REPRODUCED
+                               NOR DISCLOSED WITHOUT PRIOR WRITTEN
+                              PERMISSION FROM MEDCO E&P GRISSIK LTD.
+
+                   13
+                                                               Fahmi A      Fahmi A                      Said
+        IFU      January       Issued for Use   Oi Rozak                                 M. Nurdin A
+                                                                Syafri       Syafri                      Rusdi
+                  2026
+                                                                           Information     Snr.
+                                                                                                          VP
+Rev    Status   Issue Date   Reason for Issue    Prepared      Checked        Owner       Manager
+                                                                                         Approvals
+
+
+
+           Printed initials in the approval boxes confirm that the document has been signed.
+                               The originals are held within Information Management.
+Procédure/Work Instruction/Job Note :                         ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                       Page 2 of 30
+
+
+
+
+                                    Revision Sheet
+
+
+
+
+    REVISION             DATE                        DESCRIPTION OF CHANGE
+
+         0           January 2026   Issued for Use
+Procédure/Work Instruction/Job Note :                                                                            ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                                                                            Page 3 of 30
+
+                                                                    Contents
+1     Background .................................................................................................................................... 06
+2     Purpose........................................................................................................................................... 06
+3     Scope .............................................................................................................................................. 07
+4     Definitions ...................................................................................................................................... 08
+5     Objectives ....................................................................................................................................... 11
+6     Basic Principle ............................................................................................................................... 12
+      6.1 Integrated and Single Planning System ....................................................................................... 12
+      6.2     Risk and Priority Based Planning and Execution .................................................................................. 13
+      6.3     Progressive Planning and Execution Discipline .................................................................................... 13
+      6.4     Cross Functional Collaboration and Alignment ..................................................................................... 13
+      6.5     Safety, Compliance and Authority......................................................................................................... 13
+      6.6     Performance Monitoring and Continuous Improvement........................................................................ 13
+7     Planning Process ........................................................................................................................... 13
+      7.1 12 Month Planning Process (12M)..................................................................................................... 13
+      7.1.1 Activity Classification ............................................................................................................................ 13
+      7.1.2 Readiness (Early Screening) ................................................................................................................ 14
+      7.2 90 Day Planning Process (90D) ......................................................................................................... 14
+      7.2.1 Activity Classification ............................................................................................................................ 14
+      7.2.2 Readiness (Outlook) ............................................................................................................................. 15
+      7.3 30 Day Planning Process ................................................................................................................... 15
+      7.3.1 Activity Classification ............................................................................................................................ 15
+      7.3.2 Readiness (Validation).......................................................................................................................... 16
+      7.4 7 Day Planning Process (7D) ............................................................................................................. 16
+      7.4.1 Activity Classification ............................................................................................................................ 16
+      7.4.2 Readiness (Final Check) ...................................................................................................................... 16
+8     Activity Entry and Screening Criteria .......................................................................................... 17
+      8.1     General Principles .................................................................................................................................. 17
+      8.2     Activity Entry into the 12 Month Plan (12M) ............................................................................................ 17
+      8.3     Activity Entry into the 90 Day Plan (90D) ................................................................................................ 17
+      8.4     Activity Entry into the 30 Day Plan (30D) ................................................................................................ 17
+      8.5     Activity Entry into the 7 Day Plan (7D) .................................................................................................... 18
+      8.6     Braek-In Activity Entry ............................................................................................................................ 18
+9     Roles and Responsibility ............................................................................................................. 18
+      9.1 Vice President (VP) ............................................................................................................................... 18
+      9.2 Operation Leader Team (OLT) ............................................................................................................... 18
+      9.3 Manager Operation Installation (OIM)..................................................................................................... 19
+      9.4 Manager Offsite & Support Services (OM) ........................................................................................... 19
+      9.5 Superintendent ....................................................................................................................................... 19
+      9.6 Integrated Planner .................................................................................................................................. 19
+      9.7 Lead Planning & Scheduling (Lead P&S) ............................................................................................... 19
+      9.8 Operation Maintenance Planner/Offsite Planner/Maintenance Planner .................................................. 19
+      9.9 Activity Coordinator................................................................................................................................. 20
+      9.10 Job/Activity Owner (Supervisor/Coordinator) .......................................................................................... 20
+      9.11 HSE Function ......................................................................................................................................... 20
+      9.12 Contractor ............................................................................................................................................... 20
+10    Planning Governance & Meeting Condense ............................................................................... 20
+      10.1 12 Month Planning Forum (12M Forum) ................................................................................................. 20
+      10.2 90 Day Planning & Prioritization Forum (90D Forum-Gate 1) ................................................................. 21
+      10.3 30 Day Readiness & Commitment (30D Forum-Gate 2)......................................................................... 22
+      10.4 Weekly Execution Planning Forum (7D Forum-Gate 3) .......................................................................... 22
+      10.5 Break-In Review & Escalation Governance ............................................................................................ 23
+      10.6 Governance Principle for Planning Forum .............................................................................................. 23
+11    Break-In Management and Change Control ................................................................................ 23
+      11.1 Principle of Break-In Control ................................................................................................................... 23
+      11.2 Definition of Break-In ............................................................................................................................. 23
+      11.3 Break-In Justification Criteria .................................................................................................................. 24
+      11.4 Brek-In Approval Authority ...................................................................................................................... 24
+      11.5 Break-In assessment Requirement......................................................................................................... 24
+      11.6 Break-In Implementation Control ............................................................................................................ 24
+Procédure/Work Instruction/Job Note :                                                                      ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                                                                    Page 4 of 30
+
+      11.7 Break-In Monitoring and Performance Control ....................................................................................... 24
+      11.8 Relationship with Change Control (MOC and Technical Changes) ........................................................ 24
+12    Planning Performance Measurement & KPI................................................................................ 25
+      12.1 Key Performance Indicator ..................................................................................................................... 25
+      12.2 Supporting Performance Indicator (Optional/Advance)........................................................................... 26
+      12.3 KPI Governance and Usage ................................................................................................................... 26
+      12.4 Link to Continuous Improvement ............................................................................................................ 26
+      Appendix ........................................................................................................................................ 27
+      Appendix A – Official Operation Planning Templates (90D/30D/7D - Plan) ................................................... 27
+      Appendix B – Break in Requeat Form (no need) .......................................................................................... 27
+      Appendix C – P&S RACI ................................................................................................................................ 27
+      Appendix E – 30D & 7D Process Flow Chart ................................................................................................. 27
+      Appendix F – RACI 90D/30D/7D Operation Planning ................................................................................... 28
+Procédure/Work Instruction/Job Note :                                 ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                               Page 5 of 30
+
+
+
+
+                         **** This page    is left intentionally blank *****
+Procédure/Work Instruction/Job Note :                                        ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                            Page 6 of 30
+
+ 1. Background
+     Operational activities within the Corridor Asset are executed in an increasingly complex environment,
+     involving multiple disciplines, facilities, contractors, and simultaneous operations. In daily execution,
+     challenges often arise not due to lack of effort or commitment, but as a result of late changes,
+     unplanned activities, resource overload, and misalignment between planning assumptions and actual
+     field conditions. These situations frequently lead to rework, standby, increased safety exposure,
+     schedule disruption, and elevated operational pressure at field level.
+
+     Historically, short-term driven decisions or fragmented planning approaches have proven insufficient
+     to manage such complexity in a sustainable manner. Activities introduced too late in the planning
+     cycle tend to bypass proper readiness checks, create conflicts with ongoing operations, and force
+     execution teams into reactive modes. This not only impacts productivity and cost but also erodes
+     operational stability and execution discipline.
+
+     To address these challenges, an integrated planning approach is required—one that progressively
+     screens, validates, and prepares activities before execution. Integrated planning ensures that work
+     is not reacted to at the last moment but instead managed through a structured hierarchy of planning
+     horizons with increasing levels of detail, readiness, and execution control.
+
+     The 12-Month Plan serves as the primary entry point of this integrated planning system. It provides
+     early visibility of anticipated activities, workload distribution, and potential constraints, enabling early
+     identification of risks, capacity limitations, interdependencies, and execution challenges. The 12-
+     Month Plan is not intended as an execution commitment; rather, it functions as a screening and
+     alignment mechanism to ensure that only activities that are relevant, feasible, and strategically
+     aligned progress into more detailed planning stages.
+
+     Through subsequent planning horizons—90-Day, 30-Day, and 7-Day Plans—activities are
+     progressively refined, validated, and prepared for execution. Each planning stage increases the level
+     of certainty and control, ensuring that execution is supported by confirmed scope, resources, material
+     readiness, risk mitigation, and coordination across disciplines.
+
+     By establishing a structured planning hierarchy starting from the 12-Month Plan, this procedure aims
+     to protect operational teams from unprepared work, excessive last-minute changes, and uncontrolled
+     execution pressure. At the same time, it maintains flexibility through governed change and break-in
+     processes, allowing the organization to respond to legitimate operational needs without
+     compromising safety, stability, or planning discipline.
+
+ 2. Purpose
+     The purpose of this integrated procedure is to establish a single, standardized Operations Activity
+     Planning and Monitoring governance system that manages the full operational lifecycle from early
+     workload screening through medium term planning to daily execution across the Corridor Operation
+     Asset.
+
+     The purpose of this integrated procedure is to establish a single, standardized Operations Activity
+     Planning and Monitoring governance system that manages the full operational lifecycle from early
+     workload screening through medium term planning to daily execution across the Corridor Operation
+     Asset.
+
+     This procedure ensures that all operational workload is:
+
+         •   Systematically identified, screened, and prioritized, starting from the 12-Month Plan as
+             the primary entry point, by categorizing activities as Mandatory, Value-Adding, or
+             Deferrable based on safety, asset integrity, regulatory compliance, and production impact.
+Procédure/Work Instruction/Job Note :                                     ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                         Page 7 of 30
+
+         •   Balanced against execution capacity, ensuring that total workload demand remains
+             within available operational resources, including manpower, equipment, materials, logistics,
+             and supporting services.
+         •   Risk screened and readiness controlled, through early identification and management of
+             major operational risks, SIMOPS exposure, Management of Change (MOC) requirements,
+             and other readiness constraints that may affect safe and reliable execution.
+         •   Progressively planned and tactically coordinated, by translating screened and validated
+             activities into executable commitments through the 90-Day, 30-Day, and 7-Day Operations
+             Planning cycles, supporting safe, stable, and efficient field execution.
+         •   Monitored and continuously improved, by measuring execution performance through
+             Plan Attainment, Plan Stability, and Break-in indicators, enabling delivery reliability,
+             transparency, and sustained operational discipline.
+
+     This integrated procedure serves as the single end-to-end planning and execution control
+     mechanism, encompassing the 12-Month, 90-Day, 30-Day, and 7-Day planning processes, and
+     shall be applied consistently across the Corridor Operation Asset.
+
+ 3. Scope
+     This procedure applies to the end to end planning and execution control of all operational and
+     operationally impacting activities across the Corridor Operation Asset.
+
+     It governs all activities proposed for execution within an integrated planning horizon, commencing
+     from early workload screening through the 12 Month Plan, and continuing through the rolling 90
+     Day (90D), 30 Day (30D), and 7 Day (7D) planning cycles, covering workload identification,
+     prioritization, readiness validation, execution commitment (Frozen), and weekly execution control.
+
+     This procedure applies to all activities that may impact operational safety, asset integrity, production
+     stability, or execution capacity, including but not limited to:
+
+         •   Operations and Maintenance (Preventive and Corrective Maintenance),
+         •   Reliability and Asset Integrity activities,
+         •   Projects, modifications, and Management of Change (MOC),
+         •   Offsite, Marine, and logistics related activities,
+         •   Drilling and well related activities,
+         •   Other internal or external activities that interface with or influence ongoing operations.
+
+     This procedure is applicable to all Company and Contractor personnel involved in planning,
+     coordination, approval, and execution governance, including but not limited to Function Planners,
+     Asset Activity Coordinators, Job Owners, Supervisors, and Operations Leadership.
+
+     This procedure establishes the sole authorized medium term and short term planning and execution
+     control framework for Corridor operations and shall be applied as a single, integrated system.
+
+     It does not authorize execution of activities outside approved Frozen Plans, nor does it replace or
+     override applicable HSE, Permit-to-Work, Management of Change, or technical procedures, all of
+     which shall continue to apply in accordance with their respective approval gates.
+Procédure/Work Instruction/Job Note :                                  ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                      Page 8 of 30
+
+ 4. Definitions
+ 12 Month Plan (12M Plan)   A rolling, high-level planning outlook covering the next twelve (12) months,
+
+                            serving as the primary entry point of the integrated planning system. The
+
+                            12 Month Plan is used for early workload screening, capacity alignment,
+
+                            risk identification, and interdependency assessment. It does not constitute
+
+                            execution commitment
+
+
+ 90 Day Plan (90D Plan)     A rolling, integrated planning outlook covering the next ninety (90) calendar
+
+                            days, used to identify, prioritize, and balance operational workload against
+
+                            execution capacity, and to screen activities for risk, feasibility, and
+
+                            readiness progression prior to execution commitment
+
+
+ 30 Day Plan (30D Plan)     A rolling 30 day forward activity plan that has passed readiness review and
+
+                            is formally committed for execution. Activities within the 30 Day Plan are
+
+                            declared Frozen and may only be changed through an approved break-in
+
+                            process
+
+
+ 7 Day Plan (7D Plan)       A short-term, weekly execution control plan derived from the approved 30
+
+                            Day Plan, used to manage day-to-day execution, confirm final readiness,
+
+                            coordinate site activities, and control SIMOPS within the frozen execution
+
+                            window
+
+
+ Break-in                   Any addition, removal, or modification to a committed 90-Day or 30-Day
+
+                            Plan after approval, which requires formal assessment, justification, and
+
+                            authorization in accordance with this procedure
+
+
+ Conditional / At-Risk      An activity that does not fully meet readiness criteria, has unresolved
+
+ Activity                   constraints, or carries elevated execution risk, and is therefore not
+
+                            approved for execution until such conditions are resolved
+
+
+ Frozen Activity            The status of an activity that has met all defined readiness criteria and has
+
+                            been formally committed for execution. Frozen activities shall not be
+
+                            changed without approved break-in authorization
+Procédure/Work Instruction/Job Note :                                    ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                         Page 9 of 30
+
+
+ Integrated Planner        The function responsible for ensuring planning integration, data quality,
+
+                           consistency, and governance across all planning horizons in accordance
+
+                           with this procedure
+
+ LTP (Long Term Plan)      A Level 1 strategic milestone plan, typically spanning ten (10) years or
+
+                           more, aligned with the annual Long Term Planning (LTP) process and used
+
+                           to provide strategic direction and investment outlook
+
+
+ MOC (Management of        A formal and systematic process used to identify, assess, review, approve,
+
+ Change)                   and control changes to facilities, equipment, processes, systems,
+
+                           organization, or procedures, ensuring that Health, Safety, Environment
+
+                           (HSE), asset integrity, and operational risks are properly evaluated and
+
+                           managed prior to implementation
+
+
+ OIM                       The manager with overall responsibility for Operations and Maintenance
+
+                           activities within a defined plant, facility, or operational area, including safety
+
+                           performance,     operational     integrity,   maintenance      execution,    and
+
+                           compliance with approved operational plans and procedures
+
+
+ OM                        The manager with overall responsibility for offsite operational activities
+
+                           across the Corridor Asset, including Support Services, General Services,
+
+                           Pipeline, Road and infrastructure works, and other non-plant activities that
+
+                           support or interface with field operations, ensuring safe execution,
+
+                           resource coordination, and compliance with approved operational plans
+
+                           and planning governance.
+
+
+ PM/CM Control Summary     A consolidated summary of Preventive Maintenance (PM) and Corrective
+
+                           Maintenance (CM) activities used to monitor planning compliance,
+
+                           execution performance, backlog management, and the balance between
+
+                           planned and unplanned maintenance within a defined period
+Procédure/Work Instruction/Job Note :                                ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                  Page 10 of 30
+
+
+ SIMOPS (Simultaneous      A condition in which multiple operations, tasks, or work activities are
+
+ Operations)               conducted concurrently within the same facility or worksite, requiring
+
+                           enhanced coordination, risk assessment, and control measures to
+
+                           maintain Health, Safety, Environment, and operational integrity
+
+
+ Planning Candidate        An activity proposed for future execution that has been identified but not
+
+                           yet committed and is subject to screening, prioritization, and readiness
+
+                           assessment through the applicable planning horizon
+
+
+ Execution Commitment      Formal approval of an activity through the 30-Day Plan Freeze, authorizing
+
+                           the activity to proceed to controlled execution within the defined planning
+
+                           window
+
+
+ Readiness Outlook         A high-level assessment identifying readiness gaps, constraints, risks, and
+
+                           dependencies that may affect an activity’s ability to progress toward
+
+                           execution commitment
+
+
+ Gate 1                    Formal approval of the 90 Day Plan by the VP Operations, confirming
+
+                           alignment with operational priorities, capacity outlook, and risk exposure.
+
+                           Gate 1 authorizes activities to proceed into detailed readiness validation
+
+                           and preparation but does not constitute execution commitment
+
+
+ Gate 2                    Formal approval of the 30 Day Plan by the Operations Installation Manager
+
+                           (OIM) and/or Offsite & Support Services Corridor Manager (OM),
+
+                           confirming that activities have passed readiness validation and are
+
+                           committed for execution. Gate 2 establishes execution commitment by
+
+                           declaring activities as Frozen. Any change to activities after Gate 2
+
+                           approval requires an approved break in process.
+Procédure/Work Instruction/Job Note :                                      ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                         Page 11 of 30
+
+
+ Gate 3                        Formal authorization of the 7 Day Plan by the Superintendent, confirming
+
+                               final readiness, site coordination, SIMOPS alignment, and execution
+
+                               sequencing for the approved frozen activities. Gate 3 authorizes controlled
+
+                               day-to-day execution within the frozen execution window and does not
+
+                               permit scope changes, method changes, or addition of new activities
+
+                               outside the approved 30 Day Plan
+
+
+
+
+ 5. Objectives
+     The Integrated Planning and Execution framework operates as a single, sequential governance
+     chain across the 12-Month, 90-Day, 30-Day, and 7-Day planning horizons, with each horizon
+     serving a distinct objective and control function.
+
+     12 Month Planning (12M)
+
+     The objective of the 12-Month Plan (12M) is to establish a consolidated, risk-informed, and
+     capacity-balanced medium-term planning baseline that enables safe, reliable, and efficient
+     operations.
+
+     Specifically, the 12 Month Plan aims to:
+
+          •   Provide a single, integrated view of all operational and operationally impacting activities
+              planned or anticipated within the next twelve (12) months, including major milestones,
+              shutdowns, maintenance programs, projects, rig moves, engine overhaul programs,
+              pipeline and roadwork, support services, and key commercial or contractual requirements.
+          •   Ensure early identification and protection of mandatory activities, including safety-critical,
+              asset integrity, regulatory, and license-to-operate requirements.
+          •   Screen and prioritize activities based on risk exposure, business impact, asset criticality,
+              and execution complexity.
+          •   Enable early visibility of capacity constraints, major interfaces, and resource demands to
+              prevent future execution overload.
+          •   Improve overall plan stability by reducing late changes, unplanned work, and reactive
+              execution pressure.
+          •   Provide a credible and structured input to the 90 Day Integrated Planning process without
+              constituting execution commitment.
+          •   Support proactive risk mitigation, resource planning, and management decision making
+              across the Corridor Asset.
+
+     90 Day Planning (90D)
+
+     The objective of the 90 Day Plan is to provide a forward-looking, integrated planning outlook that
+     identifies, consolidates, and prioritizes all anticipated operational and supporting activities within the
+     next ninety (90) days.
+
+     The 90 Day Plan enables:
+
+          •   Early visibility and control of upcoming operational workload and competing demands.
+Procédure/Work Instruction/Job Note :                                    ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                      Page 12 of 30
+
+           •   Prevention of over-commitment of resources by balancing workload against available
+               execution capacity.
+           •   Early identification of critical risks, high-value activities, major interfaces, SIMOPS
+               exposure, and readiness challenges.
+           •   Alignment between operational objectives, maintenance strategy, project activities, and
+               business priorities.
+           •   Provision of an integrated and risk-informed basis for management decision-making.
+
+     The 90 Day Plan serves as the primary strategic feeder to the 30 Day Plan and authorizes activities
+     to progress into detailed readiness validation.
+
+     30 Day Planning (30D)
+
+     The objective of the 30-Day Plan is to translate the approved 90-Day outlook into a validated,
+     prioritized, and execution-ready plan for the upcoming thirty (30) days.
+
+     The 30 Day Plan ensures that:
+
+           •   Activities are clearly defined, appropriately scoped, and correctly prioritized.
+           •   Key readiness elements including manpower, materials, equipment, permits, interfaces,
+               SIMOPS controls, and HSE requirements are identified, tracked, and validated.
+           •   Cross functional alignment is achieved across Operations, Maintenance, Projects, Offsite,
+               and supporting functions prior to execution commitment.
+           •   Execution risks and constraints are understood and managed before work is frozen.
+
+     The 30 Day Plan represents a controlled execution commitment, subject to readiness verification
+     and formal Gate 2 governance approval, after which activities are declared Frozen
+
+     7-Day Planning (7D)
+
+     The objective of the 7-Day Plan is to establish a final, executable weekly work plan that ensures
+     activities are fully ready, authorized, fixed-scheduled, and safe to execute.
+
+     The 7-Day Plan ensures that:
+
+           •   Only ready and verified frozen activities are released for execution.
+           •   Daily execution sequencing (fixed schedule), site coordination, and interface management
+               are clearly defined.
+           •   Short-term risks, constraints, SIMOPS exposure, and emerging changes are actively
+               monitored and managed.
+
+     The 7-Day Plan represents the final execution authorization. Any deviation from the approved plan,
+     including scope, sequencing, or activity changes, shall be managed through the formal break-in or
+     change control processes in accordance with this procedure
+
+ 6. Basic Principle
+     6.1       Integrated and Single Planning System
+
+     All planning, execution, monitoring, and improvement activities shall operate as one integrated and
+     unified management system. No parallel planning, informal commitments, or execution outside the
+     approved planning framework is permitted. All activities shall follow the defined planning horizons,
+     approval gates, and control mechanisms established in this procedure
+Procédure/Work Instruction/Job Note :                                        ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                        Page 13 of 30
+
+     6.2     Risk and Priority Based Planning and Execution
+
+     Activities shall be planned, prioritized, and executed based on risk exposure, safety and regulatory
+     obligations, asset integrity, and operational impact, rather than urgency alone. Mandatory activities
+     related to safety, integrity, and compliance shall always take precedence over discretionary or
+     deferrable work.
+
+     6.3     Progressive Planning and Execution Discipline
+
+     Planning shall follow a progressive maturity approach across the 12-Month, 90-Day, 30-Day, and 7-
+     Day planning horizons. Execution commitment shall only occur after activities have passed the
+     required readiness validation and formal approval gates. Frozen plans shall not be changed without
+     approved break-in authorization.
+
+     6.4 Cross-Functional Collaboration and Alignment
+
+     Effective planning and execution require collaboration and alignment across Operations,
+     Maintenance, Projects, Offsite, and supporting functions. Activities shall not be planned, committed,
+     or executed in isolation. Cross-functional interfaces, SIMOPS exposure, and resource conflicts shall
+     be identified and resolved prior to execution commitment.
+
+     6.5     Safety, Compliance, and Authority
+
+     Safety, regulatory compliance, and asset integrity shall always take precedence over schedule,
+     cost, or productivity targets. Stop Work Authority remains valid at all times, and no planning
+     approval or execution commitment overrides safety judgment, permit to work requirements, or
+     Management of Change (MOC) controls.
+
+     6.6     Performance Monitoring and Continuous Improvement
+
+     Execution performance shall be monitored using defined planning and execution indicators,
+     including Plan Attainment, Plan Stability, and Break-in frequency. Performance data and lessons
+     learned shall be used to improve planning quality, execution discipline, and system effectiveness,
+     rather mandatory than for individual blame or punitive action.
+
+ 7. Planning Process
+     The integrated planning process ensures that all operational and operationally impacting activities
+     progress through a structured, readiness-based lifecycle prior to execution.
+     This process governs the transition from early workload screening and medium-term outlook to
+     execution commitment and final field delivery.Planning shall be managed through sequential activity
+     identification, classification, and readiness assessment across defined planning horizons, ensuring
+     that only prepared, approved, and capacity-balanced activities proceed to execution.
+
+     7.1   12 Month Planning Process (12M)
+     7.1.1 Activity Classification
+
+             Activities shall be classified into the following categories.
+
+           a. Mandatory Activities
+
+              Activities that shall be executed to maintain safety, asset integrity, regulatory compliance,
+              and license to operate.
+Procédure/Work Instruction/Job Note :                                       ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                          Page 14 of 30
+
+              Mandatory activities typically include, but are not limited to:
+
+               •    Safety-Critical Element (SCE) inspections, testing, maintenance, and remediation
+               •    Asset integrity management requirements (e.g., corrosion control, integrity repairs)
+               •    Statutory, regulatory, certification, and contractual obligations
+               •    Corrective actions arising from incidents, audits, regulatory findings, or risk
+                    assessments
+               •    Maintenance or operational activities required to prevent loss of containment, major
+                    equipment failure, or environmental non-compliance
+
+              Mandatory activities shall not be deferred without formal justification, documented risk
+              assessment, risk acceptance, and approval by the appropriate authority
+
+           b. Value Adding Activities
+
+              Activities that generate operational, reliability, or business improvements but are not
+              immediately required to maintain safety, integrity, or regulatory compliance.
+
+              Value-Adding activities typically include, but are not limited to:
+
+               •    Reliability improvement initiatives and proactive maintenance enhancements
+               •    Production optimization, debottlenecking, and efficiency improvements
+               •    Preventive maintenance beyond minimum compliance requirements
+               •    Projects or modifications that improve operability, maintainability, or lifecycle cost
+               •    Technology upgrades and system enhancements
+
+              Value-Adding activities shall be prioritized based on risk reduction, business value,
+              strategic alignment, and available execution capacity, and may be deferred when
+              constrained by higher priority mandatory work
+
+     7.1.2 Readiness (Early Screening)
+
+             At the 12 Month Planning stage, readiness assessment shall be conducted at a high-level
+             screening to identify major constraints, risks, and feasibility concerns. Readiness at this
+             stage is indicative only and shall not be interpreted as execution readiness or authorization.
+
+     7.2     90 Day Planning Process (90D)
+
+     The 90-Day Planning Process provides a forward-looking, integrated planning outlook that
+     consolidates and prioritizes anticipated operational and supporting activities.
+
+     7.2.1 Activity Classification
+
+             At this stage, activities shall be categorized to determine eligibility for progression toward
+             execution readiness:
+
+              •    Mandatory – Essential for safety, integrity, regulatory, or compliance requirements
+              •    Value-Adding – Improve production, efficiency, or reliability
+              •    Highlight business event- is a key activity or event that impact business outcomes.
+              •    Deferrable – Can be safely postponed without immediate operational risk
+              •    Break-In – Activities proposed for inclusion after plan finalization and during the gate
+                   approval period that were not originally scheduled
+Procédure/Work Instruction/Job Note :                                    ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                   Page 15 of 30
+
+     7.2.2 Readiness (Outlook)
+
+           High-level readiness shall be assessed for major activities, including:
+
+            •   Clear scope and methodology
+            •   Engineering and technical maturity
+            •   Material and equipment availability
+            •   Contracting and manpower readiness
+            •   Budget consideration is addressed and allocated
+            •   Permit, regulatory, and external dependency considerations
+
+           Readiness assessment at the 90-Day stage is indicative only and shall not be considered
+           execution authorization nor a substitute for 30-Day readiness validation.
+
+     7.3   30 Day Planning Process (30D)
+
+     The 30-Day Planning Process translates the approved 90-Day outlook into a validated and
+     execution-committed plan.
+
+     7.3.1 Activity Classification
+
+           The 30-Day Operations Plan shall consist of two distinct components:
+
+           a. Execution-Commitment Activities (Frozen Scope)
+
+           The following activities shall be included as execution commitment items and are subject to
+           readiness validation and Gate 2 approval:
+
+            •   Activities impacting production or facility capacity
+            •   Safety- and integrity-critical activities
+            •   Activities requiring shutdown, rate reduction, or SIMOPS
+            •   Project, modification, and MOC-based activities
+            •   PM 4K/8K turbomachinery activities, including Engine Exchange (EE) and Overhaul
+                (OH)
+            •   Non-routine LTP-related activities exceeding USD 50,000
+            •   Legal, certification, and compliance-related activities
+            •   Highlighted visitation activities as defined in the Visitation Procedure
+                (ID-G-BU-GG0-PRO-GN-00-3009)
+
+           b. Routine and Business as Usual Activities Visibility List
+
+           Routine and Business-as-Usual (BAU) activities shall be included in the 30-Day Plan as a
+           visibility list only, without execution commitment or freeze status.
+
+           This list may include:
+           • Routine Preventive Maintenance (PM) and low-risk Corrective Maintenance (CM)
+              activities
+           • Front-line maintenance and operational routine tasks
+           • Support service routine activities
+           • Other recurring activities with no cross-functional impact, no SIMOPS exposure, and no
+              production or facility capacity impact
+Procédure/Work Instruction/Job Note :                                       ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                          Page 16 of 30
+
+            Routine and BAU activities included as a visibility list:
+            • Are not subject to 30 Day freeze
+            • Are managed through normal execution and scheduling processes
+            • May be escalated into the execution-commitment scope if changes in scope, risk,
+              execution method, or operating conditions introduce cross-functional impact, safety risk,
+              production impact, SIMOPS exposure, or special management control requirements.
+
+            Any activity initially excluded from the 30-Day Plan shall be escalated and included through
+            a break-in process if changes in scope, risk level, execution method, or operating conditions
+            are introduced:
+            • Cross functional impact
+            • Increased safety or integrity risk
+            • Production or capacity impact
+            • SIMOPS or special management control requirements
+
+     7.3.2 Readiness (Validation)
+
+            The 30-Day Planning stage represents the transition from readiness outlook to formal
+            readiness validation.
+            • Execution Commitment: Activities shall only be declared Frozen once all readiness
+               requirements have been met.
+            • MOC Alignment: Activities requiring Management of Change (MOC) shall obtain approval
+               prior to execution commitment
+            • Capacity Validation: Readiness shall be validated against available execution capacity
+               (e.g., craft utilization). Activities may be restricted or deferred if utilization thresholds are
+               exceeded (e.g., >95%)
+
+     7.4    7 Day Planning Process (7D)
+
+     The 7 Day Planning Process establishes the final weekly execution control plan derived exclusively
+     from the approved 30-Day Plan.
+
+     7.4.1 Activity Classification
+
+            The 7-Day Plan shall include only execution-ready activities, such as:
+            • Scheduled routine Preventive Maintenance (PM)
+            • Execution ready Corrective Maintenance (CM) and non-routine maintenance activities
+            • Approved major activity milestones
+
+            Low-risk, repetitive, and front-line routine activities may be included as bucket activities,
+            such as:
+            • Routine security patrols
+            • Minor support service repairs
+            • Operations front-line maintenance
+
+            Break-in criteria applicable to the 30-Day Plan shall apply equally to the 7 Day Planning
+            cycle.
+
+     7.4.2 Readiness (Final Check)
+
+            Final readiness verification shall ensure that activities are fully supported for the immediate
+            execution window (Day 1 to Day 7):
+             • Scheduling Readiness: Only activities declared Frozen in the 30-Day Plan and
+                 maintaining readiness status may be scheduled
+             • Operational Readiness: Verification of SIMOPS controls, lifting plans, scaffolding, and
+                 site coordination
+Procédure/Work Instruction/Job Note :                                      ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                        Page 17 of 30
+
+               •   Labor Readiness: Final validation of available man-hours against planned workload to
+                   ensure weekly craft utilization is achievable
+
+ 8. Activity Entry and Screening Criteria
+     This section defines the minimum criteria and control rules governing how activities are proposed,
+     screened, and accepted into the integrated planning system, ensuring planning remains structured,
+     risk-based, and capacity-balanced
+
+     8.1      General Principles
+
+     •     All operational and operationally impacting activities shall enter the planning system through the
+           defined planning horizons and shall not bypass the integrated planning process.
+     •     Activities shall not be committed for execution unless they have been screened, prioritized, and
+           approved in accordance with this procedure.
+     •     Urgency alone shall not justify activity inclusion or execution without proper screening and
+           approval.
+
+     8.2      Activity Entry into the 12 Month Plan (12M)
+
+     An activity may be proposed for inclusion in the 12-Month Plan if it meets the following minimum
+     criteria:
+     • The activity objective and intent are clearly defined at a conceptual level.
+     • The activity has a potential impact on safety, asset integrity, regulatory compliance, production,
+          or operational capacity; or
+     • The activity represents a known or anticipated requirement (e.g., maintenance program,
+          project, inspection, regulatory obligation, campaign, or support service).
+
+     Activities entering the 12-Month Plan shall be subject to early screening only and shall not be
+     considered execution-ready or execution-committed
+
+     8.3      Activity Entry into the 90 Day Plan (90D)
+
+     An activity may progress from the 12-Month Plan into the 90-Day Plan if:
+     • The activity has been identified and screened in the 12-Month Plan; or
+     • The activity is newly identified but has received approval to enter the planning system due to
+         emerging operational needs.
+
+     At the 90-Day stage, activities shall:
+     • Be classified as Mandatory, Value-Adding, Deferrable, or Break-In.
+     • Undergo high-level readiness outlook and risk screening.
+     • Be evaluated for execution feasibility, resource implications, and interface exposure.
+
+     Activities with significant unresolved feasibility issues shall not progress to the 30-Day Plan without
+     an agreed mitigation path.
+
+     8.4      Activity Entry into the 30-Day Plan (30D)
+
+     An activity may be included in the 30-Day Plan if it meets one of the following conditions:
+     • It has progressed through the 12-Month and 90-Day planning processes and is identified as a
+         candidate for execution commitment; or
+     • It is a routine or BAU activity included as a visibility item only, without execution commitment.
+
+     Activities proposed for execution commitment in the 30-Day Plan shall:
+     • Have defined scope and execution intent.
+Procédure/Work Instruction/Job Note :                                     ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                       Page 18 of 30
+
+     •     Be assessed for readiness, resource availability, and cross-functional impact.
+     •     Be subject to Gate 2 approval and freeze discipline.
+
+     Activities that do not meet execution commitment criteria shall be included as visibility only items or
+     deferred.
+
+     8.5      Activity Entry into the 7 Day Plan (7D)
+
+     Only activities that meet the following criteria may be included in the 7-Day Plan:
+     • Activities declared Frozen through the approved 30-Day Plan; or
+     • Routine and Business as usual activities approved for weekly execution under normal
+         operational controls.
+
+     No new scope, additional activities, or method changes shall be introduced at the 7-Day stage
+     without an approved break-in or change control process.
+
+     8.6      Break-In Activity Entry
+
+     Break-in activities may be proposed only when:
+     • There is a clear and demonstrable safety, integrity, regulatory, or operational necessity; or
+     • Deferral would introduce unacceptable risk or loss of operational control.
+
+     All break-in activities shall be:
+     • Assessed for risk, readiness, and capacity impact.
+     • Formally approved at the appropriate authority level in accordance with this procedure.
+     • Tracked and monitored as part of execution performance review.
+
+ 9. Roles and Responsibilities
+     This section defines the roles and responsibilities of all parties involved in the Integrated Planning
+     and Execution Control process, ensuring clear accountability, effective coordination, and disciplined
+     execution across all planning horizons.
+
+     9.1      Vice President (VP)
+
+     Responsibilities:
+     • Strategic Ownership of Integrated Planning Governance.
+     • System Performance Owner
+     • Final Escalation Authority for High‑Impact Break‑In Decisions
+     • Resolve strategic prioritization conflicts that exceed asset-level authority.
+
+     9.2      Operation Leader Team (OLT)
+
+     Responsibilities:
+     • Provide strategic direction and oversight for integrated operations planning across the Corridor
+        Asset.
+     • Review and approve the 90-Day Plan (Gate 1 Approval), ensuring alignment with operational
+        priorities, capacity outlook, and risk exposure.
+     • Ensure mandatory safety, integrity, regulatory, and license-to-operate activities are adequately
+        protected.
+
+     9.3      Manager Operations Installation (OIM)
+
+     Responsibilities:
+     • Own execution readiness and delivery of plant-based Operations and Maintenance activities.
+Procédure/Work Instruction/Job Note :                                   ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                    Page 19 of 30
+
+     •     Review and approve the 30-Day Plan (Gate 2 Approval) for plant-based activities, confirming
+           readiness validation and execution commitment.
+     •     Ensure frozen activities are resourced, coordinated, and executed safely.
+     •     Manage execution risks, SIMOPS exposure, and resource conflicts within plant operations.\
+     •     Enforce freeze and break-in discipline for plant-based activities.
+
+     9.4      Manager Offsite & Support Services Corridor (OM)
+
+     Responsibilities:
+     • Own execution readiness and delivery of offsite and non-plant operational activities, including
+        Support Services, General Services, Pipeline, Road, logistics, and supporting infrastructure.
+     • Review and approve the 30-Day Plan (Gate 2 Approval) for offsite-based activities.
+     • Ensure coordination between offsite activities and plant operations.
+     • Enforce freeze and break-in discipline for offsite activities.
+
+     9.5      Superintendent
+
+     Responsibilities:
+     • Review and approve the 7-Day Plan (Gate 3 Approval) for their respective operational area.
+     • Ensure only approved frozen activities are released for weekly execution.
+     • Coordinate daily execution sequencing, workforce deployment, and site activities.
+     • Manage short-term risks, SIMOPS, and execution constraints.
+     • Escalate deviations, readiness issues, or break-in requests as required.
+
+     9.6      Integrated Planner
+
+     Responsibilities:
+     • Govern and facilitate the integrated planning process across all planning horizons (12M, 90D,
+        30D, 7D).
+     • Ensure planning consistency, data quality, and adherence to this procedure.
+     • Maintain planning discipline, including freeze enforcement, break-in tracking, and planning
+        performance reporting.
+     • Provide integrated planning visibility and analytics to management.
+
+     9.7      Lead Planning & Scheduling (Lead P&S)
+
+     Responsibilities:
+     • Lead and coordinate detailed planning and scheduling development across all planning
+        horizons.
+     • Ensure plans are realistic, capacity-balanced, and execution-focused.
+     • Challenge scope, sequencing, and readiness inputs from planners and activity coordinators.
+     • Provide scenario analysis, trade-offs, and execution impact assessments to OIM/OM and
+        Superintendent.
+     • Act as the primary focal point for cross-functional planning and scheduling coordination.
+
+     9.8      Operations Maintenance Planner / Offsite Planner/ Maintenance Reliability Planner
+
+     Responsibilities:
+     • Develop detailed scopes, schedules, and readiness inputs for assigned activities.
+     • Ensure activities are correctly classified, scoped, and prepared for readiness validation and
+        submitted as activity nomination on 30D and 7D Planning Horizon.
+     • Coordinate with job owners, HSE, logistics, and supporting functions to close readiness gaps.
+     • Maintain accurate planning data in designated systems.
+Procédure/Work Instruction/Job Note :                                  ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                   Page 20 of 30
+
+     9.9    Activity Coordinator
+
+     Responsibilities:
+     • Coordinate planning and execution interfaces across multiple functions for assigned areas or
+        scopes.
+     • Consolidate activity inputs into coherent execution packages.
+     • Manage SIMOPS coordination, sequencing, and interface resolution.
+     • Track readiness actions and constraints prior to execution commitment.
+     • Support weekly execution coordination and escalate issues as required.
+
+     9.10   Job Owner / Activity Owner (Supervisor/ Coordinator)
+
+     Responsibilities:
+     • Own technical scope, execution intent, and delivery outcomes of assigned activities.
+     • Ensure readiness requirements (technical, HSE, resources, permits, interfaces) are fulfilled.
+     • Coordinate execution with relevant functions and contractors.
+     • Report progress, risks, and lessons learned.
+     • Provide justification for unexecute committed activities.
+
+     9.11   HSE Function
+
+     Responsibilities:
+     • Provide HSE input and assurance during planning, readiness, and execution stages.
+     • Ensure compliance with HSE requirements, SIMOPS controls, Permit-to-Work, and MOC
+        processes.
+     • Support risk identification, mitigation planning, and readiness verification.
+
+     9.12   Contractor
+
+     Responsibilities:
+     • Provide accurate scope, resource, schedule, and readiness inputs for contracted activities.
+     • Execute work strictly in accordance with approved frozen plans and applicable procedures.
+     • Participate in planning, readiness reviews, and execution coordination forums.
+     • Escalate execution risks, constraints, or required changes through formal channels.
+
+10. Planning Governance & Meeting Cadence
+     This section defines the governance structure and meeting cadence required to manage integrated
+     planning and execution control across all planning horizons. Each forum has a clear purpose,
+     defined inputs and outputs, decision authority, and escalation path, ensuring disciplined planning
+     and effective execution.
+
+     10.1   12-Month Planning Forum (12M Forum)
+
+     Purpose:
+     To establish a consolidated, risk-informed medium-term planning baseline and ensure early
+     protection of mandatory and high-impact activities.
+
+     Frequency:
+     • Quarterly (with rolling updates as required)
+
+     Chair:
+     • Vice President Operations (VP Ops) or delegated senior management
+Procédure/Work Instruction/Job Note :                                       ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                       Page 21 of 30
+
+     Participants:
+     • OIM, OM
+     • Lead Planning & Scheduling
+     • Integrated Planner
+     • Key Operations, Maintenance, Projects, and Support representatives
+
+     Key Inputs:
+     • Proposed activities and major milestones for the next 12 months
+     • Mandatory safety, integrity, regulatory, and license-to-operate requirements
+     • High-level capacity outlook and major resource constraints
+     • Key risks, interfaces, and long lead items
+
+     Key Outputs:
+     • Approved 12-Month integrated planning baseline
+     • Early prioritization and protection of mandatory activities
+     • Identification of major risks, constraints, and mitigation actions
+     • Authorized feeder list for the 90-Day Planning process
+
+     10.2   90 Day Planning & Prioritization Forum (90D Forum – Gate 1)
+
+     Purpose:
+     To review, consolidate, and prioritize anticipated operational and supporting activities for the next
+     90 days and authorize progression toward readiness validation.
+
+     Frequency:
+     • Monthly (or as defined by asset needs)
+
+     Chair:
+     • Vice President Operations (VP Ops)
+
+     Participants:
+     • OIM, OM
+     • Superintendent representatives
+     • Lead Planning & Scheduling
+     • Integrated Planner
+     • Key Function Planners and Activity Coordinators
+
+     Key Inputs:
+     • Screened activities from the 12 Month Plan
+     • Activity classification (Mandatory, Value-Adding, Deferrable)
+     • High level readiness outlook and capacity assessment
+     • Key risks, SIMOPS exposure, and execution interfaces
+
+     Key Outputs:
+     • Approved 90-Day Plan (Gate 1 Approval)
+     • Prioritized activity list for readiness validation
+     • Management direction on trade-offs and deferrals
+     • Authorized progression into the 30-Day Planning process
+Procédure/Work Instruction/Job Note :                                   ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                       Page 22 of 30
+
+     10.3   30 Day Readiness & Commitment Forum (30D Forum – Gate 2)
+
+     Purpose:
+     To validate readiness and formally commit activities for execution within the upcoming 30 day
+     window.
+
+     Frequency:
+     • Monthly
+
+     Chair:
+     • OIM (for plant activities)
+     • OM (for offsite activities)
+
+     Participants:
+     • Superintendent
+     • Activity Coordinators
+     • Function Planners
+     • HSE representatives (as required)
+
+     Key Inputs:
+     • Prioritized activities from the approved 90 Day Plan
+     • Detailed readiness status (scope, resources, materials, permits, SIMOPS, MOC)
+     • Capacity utilization and execution constraints
+     • Break-in proposals (if any)
+
+     Key Outputs:
+     • Approved 30 Day Plan (Gate 2 Approval)
+     • Declaration of Frozen execution-commitment activities
+     • Agreed execution sequence and resource allocation
+     • Decisions on deferrals, constraints, and break-in requests
+
+     10.4   Weekly Execution Planning Forum (7D Forum – Gate 3)
+
+     Purpose:
+     To authorize final weekly execution and coordinate day to day operational activities.
+
+     Frequency:
+     • Weekly
+
+     Chair:
+     • Superintendent
+
+     Participants:
+     • Function Planners
+     • Supervisors
+     • Activity leader/ Offsite Coordinator (as required)
+     • HSE and Contractor representatives (as required)
+
+     Key Inputs:
+     • Approved frozen activities from the 30 Day Plan
+     • Weekly execution readiness status
+     • SIMOPS, lifting, scaffolding, and site coordination requirements
+     • Labor availability versus planned workload
+Procédure/Work Instruction/Job Note :                                     ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                      Page 23 of 30
+
+     Key Outputs:
+     • Approved 7 Day Plan (Gate 3 Approval)
+     • Final execution sequencing and daily work priorities
+     • Identification of short-term risks and mitigation actions
+     • Escalation of deviations or break-in needs
+
+     10.5   Break-In Review & Escalation Governance
+
+     Purpose:
+     To ensure changes to approved plans are controlled, justified, and authorized.
+
+     Trigger:
+     • Safety, integrity, regulatory, or critical operational necessity
+
+     Approval Authority:
+     • In accordance with applicable Gate level and impact scope
+
+     Key Outputs:
+     • Approved or rejected break-in decision
+     • Documented justification and impact assessment
+     • Tracking of break-in frequency and root causes
+
+     10.6   Governance Principles for Planning Forums
+
+     •   Each forum shall focus on decision making and risk management, not status reporting.
+     •   Inputs shall be prepared and distributed prior to meetings to enable effective discussion.
+     •   Outputs and decisions shall be documented and communicated to all relevant parties.
+     •   Planning forums shall not override HSE, Permit to Work, MOC, or technical approval
+         requirements.
+
+11. Break in Management and Change Control
+     This section defines the governance, criteria, and control mechanisms for managing any changes
+     to approved plans, ensuring that planning discipline is maintained while allowing controlled
+     response to legitimate operational needs
+
+     11.1   Principle of Break in Control
+
+     All approved plans, particularly the 90Day Plan (Prioritize) and 30Day Plan (Frozen) shall be treated
+     as controlled commitments. No addition, removal, or modification of activities shall be made after
+     approval unless processed through a formal break-in or change control mechanism. Break in shall
+     be considered an exception, not routine practice.
+
+     11.2   Definition of Break in
+
+     A break in is defined as:
+     • Addition of new activity not originally planned
+     • Removal or deferral of approved activity
+     • Change in scope, method, sequence, or execution window
+     • Any modification that impacts safety, resources, interfaces, or execution outcome
+Procédure/Work Instruction/Job Note :                                    ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                  Page 24 of 30
+
+     11.3   Break-in Justification Criteria
+
+     Break-in shall only be allowed under the following conditions:
+     • Safety or integrity risk that cannot be deferred
+     • Regulatory or compliance requirement requiring immediate action
+     • Operational necessity to prevent production loss or major disruption
+     • Unforeseen failure or emergent condition not previously identified
+
+     Break in shall not be justified solely by urgency, convenience, or late planning
+
+     11.4   Break in Approval Authority
+
+     Break-in approval shall follow the applicable governance level based on impact:
+     • Within 90-Day Plan (Prioritize Activities):
+        Approval by VP or delegated.
+     • Within 30-Day Plan (Frozen scope):
+        Approval by OIM (plant) or OM (offsite)
+     • High-impact or cross-functional break-in:
+        May require escalation to VP or relevant management authority
+
+     11.5   Break in Assessment Requirements
+
+     All break-in requests shall be supported by:
+     • Clear justification and urgency rationale
+     • Risk assessment, including HSE and operational impact
+     • Impact analysis on existing frozen plans (resource, schedule, SIMOPS, etc.)
+     • Confirmation of readiness level for execution
+     • Proposed mitigation for any disruption caused to existing commitments
+
+     11.6   Break-in Implementation Control
+
+     Approved break-in activities shall:
+     • Be formally recorded and communicated to all relevant stakeholders
+     • Be integrated into the current plan with updated sequencing and coordination
+     • Not compromise safety, permit requirements, or execution control standards
+
+     Rejected break in requests shall not be executed under any circumstances
+
+     11.7   Break-in Monitoring and Performance Control
+
+     All break-in activities shall be:
+     • Tracked and reported as part of planning and execution performance
+     • Reviewed periodically to identify trends, root causes, and improvement opportunities
+
+     Excessive break-in frequency shall be treated as an indicator of:
+     • Poor planning quality
+     • Inadequate screening or readiness
+     • Weak execution discipline
+
+     Corrective actions should be implemented accordingly.
+
+     11.8   Relationship with Change Control (MOC and Technical Changes)
+
+     Break-in governance does not replace formal Management of Change (MOC) or technical approval
+     processes.
+Procédure/Work Instruction/Job Note :                                     ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                       Page 25 of 30
+
+     Any activity involving changes to:
+     • Design, process, or operating conditions
+     • Equipment or system configuration
+     • Organizational or procedural changes
+
+     shall comply with applicable MOC and technical approval requirements in addition to break-in
+     approval.
+
+12. Planning Performance Measurement & KPI
+     This section defines the key performance indicators (KPIs) used to measure the effectiveness,
+     stability, and discipline of the integrated planning and execution system. Performance measurement
+     is intended to support continuous improvement, enhance planning quality, and strengthen execution
+     reliability, rather than to assign individual blame
+
+     12.1    Key Performance Indicators
+
+     The following KPIs shall be used as primary indicators of planning and execution performance:
+
+     a. Plan Attainment
+        Definition:
+        The percentage of planned activities that are successfully executed as scheduled within the
+        approved plan.
+
+          Purpose:
+          To measure execution reliability and the organization’s ability to deliver committed work.
+
+          Interpretation:
+          • ≥ 90%         → Excellent (high execution reliability)
+          • 85–89% → Acceptable
+          • 75–84% → Marginal
+          • < 75%         → Poor (high execution risk)
+
+     b. Plan Stability
+        Definition:
+        The degree to which the approved plan remains unchanged after freeze (30D and 7D), reflecting
+        the level of planning discipline and control.
+
+          Purpose:
+          To measure the effectiveness of planning, readiness validation, and adherence to freeze
+          discipline.
+
+          Key Indicators:
+          • Number of changes after freeze
+          • Frequency of re-sequencing or re-prioritization
+          • Volume of deviations from approved plan
+
+     c.   Break-in Frequency
+          Definition:
+          The number of break-in activities introduced after plan approval within a defined period.
+
+          Purpose:
+          To measure the level of planning disruption and effectiveness of early screening and readiness
+          processes.
+Procédure/Work Instruction/Job Note :                                       ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                    Page 26 of 30
+
+          Interpretation:
+          • Low frequency     → Strong planning discipline
+          • High frequency → Indicates gaps in:
+                   o 12M screening
+                   o 90D planning
+                   o 30D readiness validation
+
+     12.2    Supporting Performance Indicators (Optional / Advanced)
+
+     To enhance analysis and continuous improvement, the following indicators may be applied:
+     a. Schedule Compliance
+         • Measures adherence to planned execution timing
+         • Identifies delays or early execution outside planned sequence
+
+     b. Readiness Compliance
+        • Percentage of activities meeting readiness criteria prior to execution
+        • Highlights gaps in preparation quality
+
+     c.   Capacity Utilization
+          • Percentage of activities meeting readiness criteria prior to execution
+          • Highlights gaps in preparation quality
+
+     d. Backlog Health
+        • Tracks volume and aging of outstanding maintenance and operational work
+        • Ensures sustainable workload management
+
+     12.3    KPI Governance and Usage
+
+     •    KPI results shall be reviewed regularly in planning and execution forums.
+
+     •    Performance data shall be used to:
+          o Identify trends and systemic issues
+          o Improve planning quality and execution discipline
+          o Support decision-making and prioritization
+
+     •    KPIs should not be used as a punitive tool, but as a basis for:
+          o Root cause analysis
+          o Continuous improvement
+          o Capability development
+
+     12.4    Link to Continuous Improvement
+
+     Performance outcomes shall be used to:
+     • Identify recurring planning gaps and process weaknesses
+     • Improve activity screening, readiness validation, and coordination
+     • Strengthening adherence to planning governance and control mechanisms
+     • Lessons learned shall be captured and integrated into future planning cycles.
+Procédure/Work Instruction/Job Note :                                      ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                   Page 27 of 30
+
+  Appendix
+  Appendix A – Official Operation Planning Templates (90D/30D/7D - Plan)
+
+
+
+
+      Appendix A- Official  Official Template30D    Appendix A- Official
+     Template 90D Plan.docx       Plan.docx        Template 7D Plan.docx
+
+  Appendix B – Break in Request Form
+
+
+
+   Break In Form.docx
+
+
+  Appendix C – P&S RACI
+
+
+
+      RACI PnS
+     Updated.xlsx
+
+  Appendix D – Meeting Term of Reference (TOR)
+
+
+
+   TOR Meeting.docx
+
+
+  Appendix E – 30D & 7D Process Flow Chart
+
+  30D Flow Chart
+Procédure/Work Instruction/Job Note :                                           ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                           Page 28 of 30
+
+
+7D Flow Chart
+
+
+
+
+Appendix F – RACI 90D/30D/7D Operation Planning
+
+RACI Matrix – 90D Plan Procedure
+
+                                               Integrated         Activity      Functional
+               Process / Activity                                                          OLT
+                                                 Planner        Coordinator      Planner
+Activity identification & consolidation             R                 C             R      I
+Activity screening & classification                 R                 C             C      I
+Readiness Outlook assessment                        R                 C             C      I
+Capacity & constraint analysis                      R                 C             C      C
+Preparation of 90-Day Plan                          R                 C             C      I
+Facilitation of 90D Planning Review (Gate 1)        R                 C             C      C
+Recommendation for approval / deferral              R                 C             C      C
+Approval of 90-Day Plan (Gate 1)                    I                 I             I      C
+Decision log & governance record                    R                 C             I      I
+
+Notes (90D):
+
+    •   Approval at Gate 1 classifies activities as Planning Candidates only.
+    •   Gate 1 approval does not constitute execution commitment.
+Procédure/Work Instruction/Job Note :                                  ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                      Page 29 of 30
+
+RACI Matrix – 30D Plan Procedure
+
+
+
+   Process / Activity     Act. Owner   Activity Coordinator Superintendent     OIM/OM              HSE
+                                                                             (Plan Owner)
+
+
+Activity proposal
+                              R                A                  C               I                 I
+submission
+
+Definition of technical
+scope & data                R/A                C                  C               I                 I
+completeness
+
+Readiness screening
+                              C                R                  C               I                 C
+(initial)
+
+Area readiness review         C                C                R/A               I                 C
+
+Cross-functional
+                              C                R                  C               I                 C
+coordination
+
+Draft 30D Plan
+                              I               R/A                 C               I                 I
+consolidation
+
+30D Final Review
+                              I                R                  C               A                 C
+Meeting facilitation
+
+Freezing decision
+                              I                C                  C               A                 C
+(Frozen 30D)
+
+Execution commitment          R                 I                 C               A                 I
+
+Break-in identification
+                              R                R                  C               I                 C
+& submission
+
+Break-in assessment           C                R                  C               A                 C
+
+Break-in approval
+                              I                C                  A               I                 C
+(Minor)
+
+Break-in approval
+                              I                C                  C               A               C / A*
+(Major / Emergency)
+
+Change control
+                              I                R                  C               A                 C
+governance
+
+
+
+* HSE is Accountable for safety-related decisions during emergency conditions.
+Procédure/Work Instruction/Job Note :                                     ID-G-BU-GG0-PRO-GN-00-3008
+Integrated Corridor Operation Planning Procedure
+(90-Day, 30-Day, and 7-Day Planning Framework)
+
+Medco E&P Grissik Ltd.                                                                   Page 30 of 30
+
+RACI Matrix – 7D Plan Procedure
+
+                                           Activity                                       Superintendent
+Key Process / Control Point                            Function Planner     Act. Owner
+                                         Coordinator                                       (Plan Owner)
+
+7D Plan development & integration             R               C                 C               A
+
+Activity nomination from approved
+                                              C               R                 C               A
+30D Plan
+
+Identification of mandatory activities
+                                              R               R                 C               A
+(H-3)
+
+Technical readiness verification              I               C                 R               A
+
+7D Plan review & freeze (H-1)                 R               C                 C               A
+
+Approval of 7D Plan                           I               I                 I               A
+
+Execution of frozen activities                I               I                 R               A
+
+Break-in control per approval matrix          R               C                 C               A
+
+
+RACI Definition:
+    •   R – Responsible: Executes the activity
+    •   A – Accountable: Final decision authority
+    •   C – Consulted: Provides input
+    •   I – Informed: Receives information.
+

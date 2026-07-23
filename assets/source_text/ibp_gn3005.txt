@@ -1,0 +1,2219 @@
+LEMBAR JUDUL
+
+
+
+
+Document Title:              Integrated Business Planning Guideline – E&P
+
+
+
+Doc No.:                     ID-G-BU-GG0-GUI-GN-00-3005
+
+
+
+
+Originator:                        PT. Medco E&P Indonesia
+Information Owner:
+Area:                              BU - Business Unit
+Location:                          GN - BU General
+System:                            00 - General Systems
+Document Type:                     STF - Standard Format / Content
+Discipline / Sub discipline:       G - General / G0 - General
+Old Document No.:
+
+
+
+
+                                                                          Anastasia      Anastasia
+ 01     IFU                      Issued for Use   Robert C   Theresia P                              N/R
+                                                                             M              M
+                                                                          Information      Sr.
+                                                                                                     VP
+ Rev   Status   Issue Date        Description     Prepared    Checked        Owner       Manager
+                                                                                        Approvals
+
+
+         Printed initials in the approval boxes confirm that the document has been signed.
+                        The originals are held within Information Management.
+STF – Standard Format / Content                                ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                Page 2 of 12
+
+
+
+
+                                       Revision Sheet
+   Revision               Date                              Description of Change
+
+      01                           First Issuance for Use
+
+
+
+
+Additional Approvers (If Applicable)
+
+
+             Name                      Designation                 Signature              Date
+
+           Tri Laksono             SVP Corridor Asset                                 14 Jan 2025
+
+   Ignatius Tenny Wibowo           SVP Offshore Asset                                14 Jan 2025
+        Idham Purba                SVP Onshore Asset                                  15 Jan 2025
+      Bagus Nugroho                     SM NOA                                        15 Jan 2025
+        Iwan Prajogi                   GM Thailand                                    15 Jan 2025
+     Noke Fajar Prakoso              GM Oman KSF
+                                                                                       19 Jan 2025
+  Andrea Gunawan Diliharto          VP E&P Finance
+                                                                                    20 Jan 2025
+     Bambang Ismanto             VP Technical Assurance
+                                                                                      21 Jan 2025
+STF – Standard Format / Content                           ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                        Page 3 of 12
+
+
+
+TABLE OF CONTENT
+
+
+
+   1. PURPOSE                                                                          1
+   2. SCOPE                                                                            1
+   3. RESPONSIBILITIES                                                                 1
+   4. INTEGRATED BUSINESS PLANNING                                                     1
+
+       4.1     Philosophy                                                              1
+       4.1.1   Layers of Development                                                   2
+       4.1.2   Field Depletion Plan (“FDP”)                                            3
+       4.1.3   Asset Development Plan (“ADP”)                                          3
+       4.1.4   Long Term Plan (“LTP”)                                                  3
+       4.2     Process                                                                 4
+       4.2.1   Scenario Definition                                                     6
+       4.2.2   Profile Generation                                                      7
+       4.2.3   Data Review Process                                                     7
+       4.2.3.1 Integrated Review                                                       7
+       4.2.3.2 Pairing, Release & Lock Data                                            7
+       4.2.4   Economic Evaluation                                                     7
+       4.2.5   Consolidation Process                                                   8
+       4.2.6   Green House Gas Emission & Reserves                                     8
+       4.2.7   Submission & Review with Board of Directors (“BOD”)                     8
+       4.3     RACI                                                                    9
+STF – Standard Format / Content                                 ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                     Page 4 of 12
+
+   1. PURPOSE
+
+       This guideline described the Integrated Business Planning ("IBP”) process, a collaborative
+       approach to strategic planning. It describes the purpose and process in each phase of the cycle
+       including the roles and responsibilities (RACI) of each function who are involved in each phase
+       of the cycle.
+
+       The IBP process ensures all aspects of the business are considered, applying Plan-Do-Assess-
+       Adjust (“PDAA”) approach enabling continuous improvement.
+
+   2. SCOPE
+
+       This guideline applies to all MedcoEnergi’s E&P Assets (Operated and Non-Operated). This
+       describes the planning process (at the minimum) that is required to be done in asset level in
+       the context of Long-Term Planning (“LTP”) process until the process that happens in E&P
+       Planning’s desk. E&P Planning consolidates overall E&P Assets’ planning, assessing the
+       projects in alignment with Company’s business objectives and deliver the result to Corporate
+       Planning and PT. Medco Energi International (“MEI”) Board of Directors (“BOD”).
+
+       This guideline excludes the process that happens in the MEI Corporate Planning. However,
+       this guideline is developed in alignment with the business process there.
+
+   3. RESPONSIBILITIES
+
+       This guideline is owned by E&P Planning who owns the overall IBP process. E&P Planning
+       drives and monitor the implementation of the process within overall E&P Assets in collaboration
+       with each Asset Management, Business Analyst, and other Functions who has role in the LTP
+       process. In alignment with the PDAA approach, the process described in the document is to be
+       regularly reviewed (at least once a year) and adjusted if necessary.
+
+       With the current Asset based organization concept in Medco E&P, the implementation of this
+       process in each asset is the accountability of each Asset’s SVP and Senior Manager, General
+       Manager (for NOA and International) supported by Asset Planning Manager(s) under E&P
+       Planning organization.
+
+       While E&P Planning is accountable to deliver a robust Long-Term Plan for overall E&P Portfolio
+       through this IBP process to MedcoEnergi Corporate Planning function for further consolidation
+       with other MedcoEnergi business line.
+
+   4   INTEGRATED BUSINESS PLANNING
+   4.1 Philosophy
+
+       Normally LTP is developed in a typical 10-Year window. From the Company’s vision and
+       mission, they are being translated to the Strategic Objective/priorities of which consists of layers
+STF – Standard Format / Content                                ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                   Page 5 of 12
+
+         that when combined altogether would tell the story of overall Company’s Full Business Case
+         Potential. For this, full understanding of Field Depletion Plan (“FDP”) and Asset Development
+         Plan (“ADP”) is essential prior to developing scenarios in the LTP. The LTP will be a reference
+         for each Asset to communicate to external parties during Asset’s TCM/OCM with partner(s) or
+         in WP&B Meeting with SKK Migas. The communication strategy is the accountability of each
+         Asset.
+
+         E&P Planning acts as cornerstone of E&P integrated business planning, orchestrating the
+         process. This strategic management process aligns various business functions to achieve the
+         Company’s objectives.
+
+4.1.1    Layers of Development
+
+         In IBP, as an E&P company which is an extractive business, we rely in how much reserve that
+         we have and able to monetize. To do this, we make a plan on how to progress from resource
+         into reserve and monetize it. To have a more structured approach of our plan, we layer our
+         work program plan into several layers; Firm, Future and Upside with activities and criteria for
+         each layer is as per the matrix in Table 1 below:
+
+                                    Table 1. Matrix for Layers of Development
+
+
+
+
+        When we discuss our business scenarios in our LTP, we utilize the term of Scenario 1, 2 and 3
+        with the following description:
+
+            Scenario 1: Firm Layer Only; describes the business case where we continue operating
+             with currently committed and matured development, including any exploration activities that
+             are already committed and approved by management.
+STF – Standard Format / Content                                  ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                      Page 6 of 12
+
+           Scenario 2: Firm + Future Layers; describes the currently committed development as per
+            the previous point with additional future development programs that are currently being
+            matured including securing commercial arrangements needed.
+
+           Scenario 3: Firm + Future + Upside Layers; describes the overall full field potential which
+            includes the projects that are still in “Appraise” stage and still not yet having commercial
+            arrangement and/ or PSC Extension approval
+
+4.1.2   Field Depletion Plan (“FDP”)
+
+        FDP provides robust and integrated technical work for Asset Development Plan. FDP outlines
+        the strategy for the management and extraction of hydrocarbon reserves from an oil & gas field
+        over its lifecycle. It includes detailed projections of production rates, reservoir behaviour, well
+        performance, and depletion strategies. The FDP aims to optimize production while ensuring
+        the efficient utilization of resources and maximizing the economic value of the field. Please refer
+        to FDP Guideline Document No. GL-001/06.2021/MEDC/RESV-TA as the governance of the
+        FDP process.
+
+4.1.3   Asset Development Plan (“ADP”)
+
+        ADP focuses on the long-term development of oil and gas asset. It involves strategic planning
+        for the exploration, appraisal, development and production phases of various assets. The ADP
+        integrates the technical, optimize resource allocation, commercial and financial considerations
+        to prioritize investment decision within an asset. Please refer to ADP Guideline Document No.
+        GL-002/06.2021/MEDC/RESV-TA as the governance of the ADP process.
+
+4.1.4   Long Term Plan (“LTP”)
+
+        The LTP is built based on the ADP from each Assets which undergo exercise and discussion
+        in E&P level during portfolio evaluation. The LTP not only listing down work programs, but it is
+        built based on robust assumptions (short until long term) of commercial view, subsurface
+        opportunities, development plan, field’s operating mode, including manpower assumptions in
+        10-Year window. This is an important document which enables the reader to see where the
+        Company is heading. Therefore, it is critical to have a robust assumption and credible scenario
+        as well as numbers in order to enable Management to make a well-informed decision.
+
+        During the LTP exercise, E&P Planning receives guideline from Corporate Planning that
+        outlines any boundaries that we need to comply with such as, but not limited to:
+
+           Capex limitation for the first two years in Scenario 1 & 2,
+           Exchange Currency rate & Oil price to be used,
+           Unit Cost/barrel that we need to maintain,
+           All producing Asset expect to have positive Cash Flows
+STF – Standard Format / Content                                 ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                     Page 7 of 12
+
+          IRR feasible as per guidance, Etc.
+
+       This is a collaborative effort from all business function of which process will be described in
+       Section 4.2.
+
+4.2 Process
+
+    The IBP process is a full year cycle and covering end to end planning from Asset Level until in
+    E&P Consolidation level. It is an iterative process which requires substantial contribution and
+    collaboration from all levels function in the Medco E&P Organization.
+
+    Figure 1 shows the integrated planning process that outlines the connection between FDP, ADP
+    and LTP in each Asset and how the LTP evolve in the consolidation phase when being evaluated
+    in E&P level and applied with Corporate Guideline. As discussed in earlier paragraph, iterations
+    are needed to emulate the most optimum scenario for the Company.
+
+
+
+
+                          Figure 1. E&P Integrated Business Planning Process
+
+    In each stage of the cycle, all related multidiscipline requires contributing a valid scenario and
+    numbers to Asset Management in order to produce a robust plan.
+
+    As this is a full year process, Figure 2 shows the timeline on the process.
+STF – Standard Format / Content                                ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                    Page 8 of 12
+
+
+
+
+                  Figure 2. Timeline of E&P Integrated Business Planning Process
+
+     After the LTP is approved by the BOD & Board of Commissioners (“BOC”) due to the dynamics
+     of the business, we require to revisit our LTP in the first semester of the year which is called as
+     “Updated LTP” phase. In this stage, each asset requires to revisit whether there is any significant
+     change in the assumption which affect the phasing of the activities, production profile, change in
+     layers or any change in the cost assumption. If there is, then the asset will require to exercise an
+     update to the previously approved LTP.
+
+     The deliverable of Updated LTP in E&P Level will be used for Corporate Planning together with
+     MEI BOD to develop guidance for the next LTP. Therefore, the Updated LTP exercise is also
+     having the same importance.
+
+     As Figure 1 & 2 outline the overall process of the IBP process, a more detailed process on how
+     the review is done in asset level until data is being submitted and evaluated, can be seen in
+     Figure 3 below. This process flow is simplified as in actual, there are many disciplines involved in
+     the discussion to generate both production profile and also cost profile (both OPEX & CAPEX).
+     Business Analysts (“BA”) and Planning are the resources to assist Asset Team in the LTP
+     process.
+STF – Standard Format / Content                                  ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                      Page 9 of 12
+
+
+
+
+                                   Figure 3. Data Flow in Planning Process
+
+4.2.1   Scenario Definition
+
+        Scenario Definition is the basis for all disciplines to work in this LTP exercise. This is required
+        in order to have the same understanding in generating the required profiles. Please refer to
+        RACI table, Step 2.1 for developing Scenario Definition. In this phase, assumptions need to be
+        established such as commercial assumptions, operating mode, DOE assumptions.
+
+        A Scenario is a package of projects designed to be implemented in a specific Block within a
+        specific period. In a Scenario, and Activity or Program must be part of a Project. A Project in a
+        Scenario must be defined as Firm, Future or Upside Project. An Activity is a specific job in a
+        specific Block/field/well. A program is a group of Activities with similar Program Type. An Activity
+        or Program must be registered in Hopper List. This way the Subsurface drive is established in
+        this LTP process. All subsurface initiatives which are currently stored in Petroleum Technical
+        Data Management ”PTDM” correlates with Hopper ID, of which connects with IBP business
+        process.
+
+        In this IBP process, since we are utilizing Database, so naming convention is crucial to be
+        followed.
+
+        Scenario naming convention:
+        <BLOCK>-<PLANNING TYPE>-<YEAR>-<TITLE>-(<PLANNING CYCLE>)
+        <PLANNING TYPE> : ADP, LTP, UPDATED LTP, etc
+        <TITLE>: a short description of the scenario contents
+        <BLOCK>,<PLANNING TYPE>,<YEAR> are chosen from drop down list
+        <PLANNING CYCLE> is automatic generated by system
+STF – Standard Format / Content                                    ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                       Page 10 of 12
+
+        For same <BLOCK>,<PLANNING TYPE> ,<YEAR>, the <TITLE> and <PLANNING CYCLE>
+        must be unique
+
+
+
+4.2.2   Profile Generation
+
+        For each production and cost profile, as long as an agreed set of scenario definition has been
+        established, then the two profile can be generated in parallel. If a profile (either cost or
+        production) requires a change in activity or program, then the scenario must be changed before
+        carrying out further processing. Below is the naming convention for Production/Cost Profile
+        Version:
+
+        Production/Cost profile version naming convention:
+        <SCENARIO NAME>-<TYPE>-<SEQUENCE NUMBER>-(<PLANNING CYCLE>)
+        <TYPE>: PP for production profile, CP for cost profile
+        <SCENARIO NAME> and <TYPE> are chosen from drop down list
+        <SEQUENCE NUMBER> and <PLANNING CYCLE> is automatic generated by system
+
+
+
+4.2.3   Data Review Process
+4.2.3.1 Integrated Review
+
+        After the profiles are generated, prior to upload process to the IBP Data Input Application
+        (Please refer to Section 4.3 regarding Tools), it is expected that each Data Owner to perform
+        review for each set of data. In this process, it is also expected that Asset Management together
+        with BA, Asset’s Planning Manager and Investment Appraisal Analyst of each asset to perform
+        integrated review to making sense of the data since this process involves large data set and it
+        is crucial to have integrated team review and discussion.
+
+4.2.3.2 Pairing, Release & Lock Data
+
+        Following the integrated review, the uploaded data needs to be paired between the Cost profile
+        and the Production Profile in the IBP Application. Please refer to RACI Table Section 7.4 & 7.5
+        for Pairing, Release and Lock Data.
+
+4.2.4   Economic Evaluation
+
+        The locked data will be evaluated by Investment Appraisal team to determine if the project is
+        economic as per Company’s threshold. Every year, the threshold for project economics will be
+        communicated through Corporate LTP Guideline (Refer to section 4.1.4) It is potential to have
+        iteration in this step where if it is found that a project is not economic, the data input will likely
+        to change.
+STF – Standard Format / Content                                     ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                       Page 11 of 12
+
+           If all project layers are already Ok, Investment appraisal team will evaluate layer by layer
+           valuation to obtain cashflow for every project and also asset level for each Firm, Future and
+           Upside layer. The cashflow numbers will be later uploaded to IBP Consolidation tool to complete
+           the Asset Data set for Consolidation process.
+
+4.2.5      Consolidation Process
+
+           Consolidation is to be performed when all Assets have complete data sets up to cashflow. This
+           process happens in IBP Consolidation Tool in BPM. Basically, consolidation is to have an
+           overall E&P view of driver numbers and PSC Cashflow.
+
+           For Full Package of LTP, Corporate Planning requires E&P Planning to submit not only up to
+           PSC Cashflow, but also requires GAAP Financial of which requiring collaboration with E&P
+           Financial Reporting group and also Reserve Management. This is being worked on outside the
+           currently available IBP Tool in BPM. However, Corporate Planning issues template for the team
+           to use and being updated every year.
+
+4.2.6      Green House Gas Emission & Reserves
+
+           Part of LTP Package, Green House Gas (“GHG”) Emission is also part of the discussion where
+           the Company needs to understand where we are against our ESG Commitment. For this
+           purpose, Corporate HSE will work with HSE Team in each Asset to produce GHG Profile for
+           E&P considering the relevant Asset Scenario and Assumptions. This is being worked on outside
+           the currently available IBP Tool in BPM. However, Corporate Planning issues template for the
+           team to use and being updated every year.
+
+           For reserve, Reserve Management Team is in communication with Asset Management and
+           Planning to calculate the net reserve addition, future reserve booking in order to be able to
+           calculate the GAAP Financial Statement. Please refer to Section 8.2 in the RACI Table.
+
+4.2.7      Submission and Review with Board of Directors (“BOD”)
+
+           Refer to Figure 2 of LTP Business Process, there is a set schedule for package submission to
+           Corporate Planning and reviews with BOD. Normally there are iterations following the reviews
+           with feedbacks given from the BOD. After the package is approved, the package is then
+           consolidated in Corporate level to be brought to BOD & BOC Meeting for the following year
+           Budget approval process.
+
+ 4.3 RACI
+
+        As described in earlier sections, in each stage of this IBP Process, a multidisciplinary collaboration
+        takes place. E&P Planning serves as facilitator throughout the process. A RACI Table had been
+        prepared to serve as basis for the collaboration in this Integrated Business Planning process.
+STF – Standard Format / Content                                                                              ID-G-BU-GG0-GUI-GN-00-3005 Rev. 1
+Integrated Business Planning Guideline – E&P
+PT. Medco E&P Indonesia                                                                                                                  Page 12 of 12
+
+
+
+
+                                                                                                                                                                                   et
+
+
+
+                                                                                                                                                                                     l
+                                                                                                                                                                                  na
+                                                                                                                                                                                 ss
+
+                                                                                                                                                                       rn et
+                                                                                                                                                                              io
+                                                                                                                                                                            lA
+                                                                                                                                                                               .
+
+
+
+
+                                                                                                                                                                              s
+                                                                                                                                                                In ss
+                                                                                                                                                                            gr
+
+
+
+
+                                                                                                                                                                          at
+
+
+                                                                                                                                                                            t
+                                                                                                                                                                           y
+
+
+
+
+                                                                                                                                                                         se
+                                                                                                                                                              n lA
+                                                                                                                                                                        na
+                                                                                                                                                                      /M
+
+
+
+
+                                                                                                                                                                          l
+                                                                                                                                                                       rit
+
+
+
+
+                                                                                                                                                                     cia
+
+
+
+
+                                                                                                                                                                       s
+                                                                                                                               ie ts tio na
+                                                                                                                                                                    io
+                                                                                                                                                                   eg
+
+
+
+
+                                                                                                                                                                  lA
+                                                                                                                                                                     e
+                                                                                                                                                                     t
+                                                                                                                                                      rt nce
+                                                                                                                                                                  ok
+
+
+
+
+                                                                                                                                                                  er
+
+
+
+
+                                                                                                                                                                 en
+
+
+
+
+                                                                                                                                                                   t
+                                                                                                                                                                 at
+
+                                                                                                                          ud se ra tio
+                                                                                                                                                                nt
+
+
+
+
+                                                                                                                                                               na
+                                                                                                                                                               m
+                                                                                                                                                               lo
+
+
+
+
+                                                                                                                                              et em
+
+
+
+
+                                                                                                                                                              rn
+                                                                                                                                                po r a
+
+
+
+
+                                                                                                                                                            tI
+
+
+
+
+                                                                                                                                                             ic
+
+
+
+
+                                                                                                                      St As plo rna
+                                                                                                                                                           m
+
+
+
+
+                                                                                                                                                          tio
+                                                                                                                                                           ut
+
+
+
+
+                                                                                                                                                           ts
+ S
+
+
+
+
+                                                                                                                         Te ec Inte
+                                                                                                                                                            t
+                                                                                                                              g Sup ssu
+
+
+
+
+                                                                                                                                                         se
+                                                                                                                                                       i ty
+
+
+
+
+                                                                                                                                                      gis
+
+
+
+
+                                                                                                                                          s s ag
+                                                                                                                                                      Co
+                                                                                                                                                      .O
+
+
+
+
+                                                                                                                                                      se
+                                                                                                                                                     na
+                                                                                                                                         E x nt e
+                                                                                                             gt tion set ng
+                                                                                                                                                   As
+                                                                                                                                                      l
+
+
+
+
+                                                                                                                        OA l A an
+                                                                                                                                                    A
+                                                                                                                                                   gr
+
+
+
+
+                                                                                                                                                 Lo
+
+
+
+
+                                                                                                                                                 As
+                                                                                                                                                 ro
+                                                                                                                                               Fin
+ t
+
+
+
+
+                                                                                                                                                    .
+
+
+
+
+                                                                                                                                                   r
+                                                                                                                                                g-
+                                                                                                                                                  s
+                                                                                                                                               gr
+
+
+
+
+                                                                                                                                                  t
+                                                                                                                                                  )
+            Integrated Business Planning Process
+
+
+
+
+                                                                                                     t M n a As n i
+
+
+
+
+                                                                                                                                               te
+
+
+
+
+                                                                                                                                                t.
+                                                                                                                                               rs
+                                                                                                                    ee on es
+                                                                                                                                              te
+
+
+
+
+                                                                                                                                                 I
+                                                                                                                                             g/
+
+
+
+
+                                                                                                                  .N a M
+
+
+
+
+                                                                                                                                             en
+                                                                                                                                             OE
+                                                                                                                                             nt
+
+
+
+
+                                                                                                                                          t&
+
+
+
+
+                                                                                                                          do nal
+                                                                                                                                              g
+                                                                                                                                              t
+
+
+
+
+                                                                                                                                h t-
+                                                                                                                              Se y
+
+
+
+
+                                                                                                                                          lin
+                                                                                                                                        l/M
+
+
+
+
+                                                                                                 se er r. an
+                                                                                                                                             e
+
+
+
+
+                                                                                                                                             n
+                                                                                                                                            A
+                                                                                                                                             g
+
+
+
+
+                                                                                                                            gin y
+                                                                                                                                          In
+                                                                                                                                         en
+
+
+
+
+                                                                                                                                           n
+                                                                                                               in ti iti
+                                                                                                     Fin epo er
+
+                                                                                                                                          &
+
+
+
+
+                                                                                                                                         M
+                                                                                                                                         rit
+                                                                                                                                       Co
+
+
+
+
+                                                                                                                                      em
+                                                                                                                                       rin
+
+
+
+
+                                                                                                                                          t
+                                                                                                                                         it
+                                                                                                                                      ti n
+
+
+
+
+                                                                                                                                           l
+
+
+
+
+                                                                                                                                       (D
+
+
+
+
+                                                                                                                                           I
+                                                                                                                                     NO
+ e
+
+
+
+
+                                                                                                                                       io
+                                                                                                                                     isa
+
+
+
+
+                                                                                                                                      at
+
+
+
+
+                                                                                                                                      ril
+
+
+
+
+                                                                                                                                      ia
+                                                                                                         ng er tiv
+
+
+
+
+                                                                                              As Int Mg d Pl
+                                                                                                                                    en
+
+
+
+
+                                                                                                                                      io
+                                                                                                                                   OA
+
+
+
+
+                                                                                                                                  s&
+                                                                                                                                        l
+
+
+
+
+                                                                                                                                       r
+                                                                                                                                    ng
+
+
+
+
+                                                                                                                                     &
+                                                                                                                                  em
+
+
+
+
+                                                                                                                                   cu
+                                                                                                                                    ro
+
+
+
+
+                                                                                                                                     ir
+                                                                                                                                    ia
+                                                                                                                                  cu
+
+
+
+
+                                                                                                                                   at
+                                                                                                                         rin s
+
+
+
+
+                                                                                                                                    &
+                                                                                                                                     y
+
+
+
+
+                                                                                                                                 ee
+                                                                                                               g A p or
+
+
+
+
+                                                                                                                     e roj
+                                                                                                                                  M
+                                                                                                                               g&
+
+
+
+
+                                                                                                                                 /D
+
+
+
+
+                                                                                                                                 es
+                                                                                                                                   n
+
+
+
+
+                                                                                                                   om g
+
+
+
+
+                                                                                                                                 ag
+                                                                                                                                 at
+                                                                                                                                   t
+                                                                                                                                 ra
+
+
+
+
+                                                                                                                                rit
+
+
+
+
+                                                                                                           GM sero
+                                                                                                                                  c
+
+
+
+
+                                                                                                                              em
+                                                                                                                                 n
+
+
+
+
+                                                                                                                                  c
+                                                                                                                               r ti
+
+
+
+
+                                                                                            od lann sol)
+                                                                                                                               nt
+
+
+
+
+                                                                                                                                  -
+                                                                                                                               en
+                                                                                                                               Se
+
+
+
+
+                                                                                                                              rin
+                                                                                                                              ti o
+
+
+
+
+                                                                                                                             -N
+                                                                                                                               or
+                                                                                                    s E Op A
+
+
+
+
+                                                                                                                  . / te
+                                                                                                                             ag
+
+
+
+
+                                                                                                                              er
+ p
+
+
+
+
+                                                                                                                             rn
+
+                                                                                                                               n
+                                                                                                                            tio
+
+
+
+
+                                                                                                                               e
+
+
+
+
+                                                                                                                            ce
+
+
+
+
+                                                                                                                            an
+                                                                                                         Ch ces
+                                                                                                                            pp
+
+
+
+
+                                                                                                                nc P
+                                                                                                                           try
+                                                                                                                            cu
+
+
+
+
+                                                                                                                              c
+                                                                                                                          Co
+
+
+
+
+                                                                                                                            v.
+                                                                                                                             e
+
+
+
+
+                                                                                            gr ct nnin
+
+
+
+
+                                                                                                                           pl
+
+
+
+
+                                                                                                                            c
+                                                                                                                         em
+                                                                                                                           &
+
+
+
+
+                                                                                                                             l
+                                                                                                                          et
+
+
+
+
+                                                                                                           ie s/
+                                                                                                                         ee
+
+
+
+
+                                                                                                             gt gra
+                                                                                                                          ag
+                                                                                                                         uc
+
+
+
+
+                                                                                                      Re n &
+                                                                                                                 ni y
+
+
+
+
+                                                                                                                          m
+
+
+
+
+                                                                                                                           t.
+                                                                                                                         an
+
+
+
+
+                                                                                                                          ta
+
+
+
+
+                                                                                                                         te
+                                                                                                                           a
+                                                                                                                           t
+
+
+
+
+                                                                                                                        lR
+
+
+
+
+                                                                                                                          &
+                                                                                                                          n
+
+
+
+
+                                                                                                   e e ur fa
+
+
+
+
+                                                                                                                         fa
+                                                                                                                        es
+
+
+
+
+                                                                                                                          e
+                                                                                                                       en
+
+
+
+
+                                                                                                                      De
+
+
+
+
+                                                                                                                        M
+                                                                                                                      tA
+
+
+
+
+                                                                                                                         e
+                                                                                                         lan er
+
+
+
+
+                                                                                                                      En
+                                                                                                                       ce
+
+
+
+
+                                                                                                                       es
+                                                                                                                       se
+
+
+
+
+                                                                                                                      Ex
+
+
+
+
+                                                                                                                         g
+
+
+
+
+                                                                                                                      ur
+                                                                                                       sc tie
+                                                                                                                         s
+
+
+
+                                                                                                                     Co
+
+
+
+
+                                                                                                                     ng
+
+
+
+
+                                                                                                                      In
+                                                                                                                     lR
+                                                                                                                    an
+
+
+
+
+                                                                                                                       n
+
+                                                                                                                    en
+                                                                                                                    od
+
+
+
+
+                                                                                                                   gin
+
+
+
+
+                                                                                                                     In
+                                                                                                                    tS
+                                                                                                  om ial
+
+
+
+
+                                                                                                                      g
+
+
+
+
+                                                                                                                    ur
+                                                                                                                    M
+                                                                                                                      s
+
+
+
+
+                                                                                                                    ag
+                                                                                                                     n
+
+
+
+
+                                                                                                                sM
+                                                                                                                  cia
+
+
+
+
+                                                                                                                       i
+                                                                                                                     R
+
+
+
+
+                                                                                                     t M te
+                                                                                                    s P eliv
+                                                                                                                   rv
+
+
+
+
+                                                                                                                  an
+                                                                                                                  As
+
+
+
+
+                                                                                                                     r
+                                                                                                                 tio
+
+
+
+
+                                                                                              . E latio
+
+
+
+
+                                                                                                                   lit
+
+
+
+
+                                                                                                                    n
+                                                                                                                    a
+                                                                                                                    n
+
+
+
+
+                                                                                                                 so
+                                                                                                                en
+
+
+
+
+                                                                                                                 ial
+
+
+
+
+                                                                                                                   e
+                                                                                                                 io
+
+
+
+
+                                                                                                                es
+
+                                                                                                                 ld
+                                                                                                                   n
+
+
+
+
+                                                                                                  eo cili
+                                                                                                               Fo
+                                                                                              E & ng (
+
+
+
+
+                                                                                                                  n
+
+
+
+
+                                                                                                                  n
+                                                                                                              tra
+                                                                                                                  c
+
+
+
+
+                                                                                                             lM
+
+
+
+
+                                                                                                               bs
+
+
+
+
+                                                                                                               bs
+                                                                                                                s.
+
+
+
+
+                                                                                              HS nm
+
+
+
+
+                                                                                                                ai
+                                                                                                               ce
+                                                                                                              en
+                                                                                             Op r P r
+                                                                                                               ny
+
+
+
+
+                                                                                                                Pl
+
+
+
+
+                                                                                                              on
+                                                                                                                  i
+
+
+
+
+                                                                                                 se I n
+                                                                                                              an
+
+
+
+
+                                                                                             H u an c
+                                                                                                             .C
+                                                                                                              ns
+
+
+
+
+                                                                                                             En
+                                                                                                              te
+                                                                                                              ta
+
+
+
+
+                                                                                                                 i
+                                                                                                            tio
+                                                                                                            an
+
+
+
+
+                                                                                                            an
+
+
+
+
+                                                                                                           tio
+
+
+
+
+                                                                                                              io
+                                                                                                           en
+
+
+
+
+                                                                                                           lat
+
+
+
+
+                                                                                                             ie
+
+
+
+
+                                                                                                           Re
+                                                                                                            ac
+                                                                                                               c
+                                                                                                            la
+                                                                                                               .
+
+
+
+
+                                                                                                            rc
+                                                                                                           m
+
+
+
+
+                                                                                                             p
+                                                                                                          FP
+
+
+
+
+                                                                                                          ve
+                                                                                               Op D
+                                                                                                          ps
+                                                                                                          in
+
+
+
+
+                                                                                                           ic
+
+
+
+
+                                                                                                         Su
+
+
+
+
+                                                                                                         Su
+
+                                                                                              . G Fa
+                                                                                                          fa
+                                                                                                            r
+                                                                                                          ct
+
+
+
+
+                                                                                         SM n d &
+                                                                                                        pa
+
+
+
+
+                                                                                                       l In
+
+
+
+
+                                                                                         SM tend
+
+
+
+
+                                                                                                        en
+                                                                                                        Da
+
+
+
+
+                                                                                                         at
+                                                                                                         io
+
+
+
+
+                                                                                              As tor
+                                                                                                        M
+
+
+
+
+                                                                                                            i
+                                                                                                       lO
+
+
+
+
+                                                                                                        gr
+
+
+
+
+                                                                                                       rF
+
+
+
+
+                                                                                             O/ E
+                                                                                                       ria
+                                                                                                       Re
+
+
+
+
+                                                                                                       Re
+
+                                                                                                      iro
+                                                                                         SM m e
+                                                                                         SM e r a
+                                                                                                        in
+
+
+
+
+                                                                                                       at
+                                                                                                         F
+                                                                                         SM nni
+
+
+
+
+                                                                                                      ou
+                                                                                                          t
+
+
+
+
+                                                                                                      BP
+
+
+
+
+                                                                                                       nt
+
+
+
+
+                                                                                         SM et/
+                                                                                         De ace
+                                                                                                       to
+
+
+
+
+                                                                                                         a
+                                                                                                      ist
+                                                                                                     nn
+
+
+
+
+                                                                                                    Fin
+                                                                                                      er
+                                                                                                        t
+                                                                                                     ur
+
+
+
+
+                                                                                                       S
+                                                                                                     es
+
+
+
+
+                                                                                                    lO
+
+
+
+
+                                                                                                    an
+                                                                                                      je
+                                                                                                      &
+
+
+
+
+                                                                                                     at
+
+
+
+
+                                                                                                    or
+
+
+
+
+                                                                                                    or
+
+
+
+
+                                                                                                     ly
+                                                                                                    M
+
+
+
+
+                                                                                                     O
+                                                                                                      e
+
+
+
+
+                                                                                                   ee
+
+
+
+
+                                                                                                   ee
+
+                                                                                            gr e
+
+
+
+
+                                                                                                   .C
+                                                                                                     P
+                                                                                                     F
+
+
+
+
+                                                                                                   or
+
+
+
+
+                                                                                                    H
+                                                                                                   se
+
+
+
+
+                                                                                                   ea
+                                                                                                   el
+
+                                                                                                   el
+
+
+
+
+                                                                                                    e
+                                                                                                   ai
+
+                                                                                                  na
+
+
+
+
+                                                                                                    a
+                                                                                         M je
+                                                                                                  an
+
+
+
+
+                                                                                                  nv
+
+
+
+
+                                                                                                  es
+
+
+
+
+                                                                                                  es
+                                                                                                 og
+                                                                                                  ro
+
+
+
+
+                                                                                                  ss
+                                                                                                  ld
+
+
+
+
+                                                                                                  ld
+
+
+
+
+                                                                                         M nde
+                                                                                                 bs
+                                                                                                 m
+                                                                                                  la
+
+
+
+
+                                                                                                  la
+                                                                                                 nv
+
+
+
+
+                                                                                                   s
+
+
+
+
+                                                                                                pp
+
+
+
+
+                                                                                                CA
+                                                                                                 er
+
+
+
+
+                                                                                                   p
+                                                                                                  R
+                                                                                                  A
+
+
+
+
+                                                                                                 m
+                                                                                                 ld
+                                                                                                  P
+
+
+
+
+                                                                                                  P
+
+
+
+
+                                                                                                  P
+
+
+
+
+                                                                                                 pl
+
+
+
+
+                                                                                                 pl
+                                                                                         SM in
+                                                                                                 rf
+
+
+
+
+                                                                                                 at
+                                                                                                 el
+
+
+
+
+                                                                                               rin
+
+
+
+
+                                                                                                 E
+                                                                                               Op
+
+
+
+
+                                                                                                 a
+                                                                                              .W
+
+                                                                                              .W
+
+
+
+
+                                                                                              .M
+
+
+
+
+                                                                                                 P
+
+
+
+
+                                                                                                 P
+                                                                                               As
+                                                                                               nd
+
+                                                                                               nd
+
+                                                                                               nd
+
+
+
+
+                                                                                                pl
+                                                                                                ty
+
+
+
+
+                                                                                                gr
+                                                                                                 o
+
+
+
+
+                                                                                               Ba
+                                                                                              .O
+
+
+
+
+                                                                                              .N
+                                                                                              .H
+
+
+
+
+                                                                                              Fie
+
+
+
+
+                                                                                              Fie
+
+
+
+
+                                                                                              .A
+                                                                                              E&
+
+
+
+
+                                                                                              E&
+
+
+
+
+                                                                                               di
+                                                                                              .B
+
+
+
+
+                                                                                              .R
+
+
+
+
+                                                                                              .R
+                                                                                               Pl
+                                                                                              .C
+
+
+
+
+                                                                                              .P
+
+
+
+
+                                                                                              .P
+
+
+
+
+                                                                                              .P
+
+
+
+
+                                                                                              Co
+
+
+
+
+                                                                                              .L
+
+                                                                                              .L
+                                                                                              Su
+
+
+
+
+                                                                                              Su
+                                                                                             Fie
+
+
+
+
+                                                                                             E&
+
+
+
+
+                                                                                             E&
+                                                                                               d
+
+
+
+
+                                                                                              Ex
+
+
+
+
+                                                                                              Ex
+                                                                                              W
+
+
+
+
+                                                                                              Pr
+                                                                                              .I
+
+
+
+
+                                                                                              M
+
+
+
+
+                                                                                             Su
+                                                                                             Ex
+                                                                                             pu
+
+
+
+
+                                                                                           .M
+                                                                                            pe
+                                                                                            or
+
+
+
+
+                                                                                            or
+
+
+
+
+                                                                                            co
+
+                                                                                            co
+
+                                                                                            co
+
+                                                                                            co
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+                                                                                            gr
+
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+                                                                                            gr
+
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+                                                                                            gr
+
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+
+
+
+                                                                                            gr
+
+
+
+
+                                                                                            P
+                                                                                         SM
+
+
+
+
+                                                                                         SM
+
+
+
+
+                                                                                         SM
+
+
+
+
+                                                                                         SM
+
+
+
+
+                                                                                         SM
+
+
+
+
+                                                                                         SM
+
+
+
+
+                                                                                         SM
+
+
+
+
+                                                                                         SM
+
+
+
+
+                                                                                         SM
+
+
+
+
+                                                                                         CO
+                                                                                         VP
+
+
+
+
+                                                                                         VP
+
+
+
+
+                                                                                         VP
+
+                                                                                         VP
+
+                                                                                         VP
+
+                                                                                         VP
+
+                                                                                         VP
+                                                                                         Co
+
+
+
+
+                                                                                         Co
+
+
+
+
+                                                                                         SV
+                                                                                         Su
+
+
+
+
+                                                                                         Se
+
+                                                                                         Se
+
+                                                                                         Se
+
+                                                                                         Se
+                                                                                         Pr
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+                                                                                         M
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+                                                                                         M
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+                                                                                         M
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+
+
+
+                                                                                         M
+
+                                                                                         Sr
+     Communication of E&P Integrated Business Planning (IBP) Framework &
+     Template
+     0.1. Develop & communicate process & timeline for the planning cycle for the year
+                                                                                         C   C   I   I   R   C   R   A   I   C   I   I   I   I   I   I   I       I   I       I   I   I   I   I       I   I   I   C   I   I   I   I   I   I   C   C   I   I   I   I   I   C   C   I   I   I   I   I   I   I   I
+     to ALL Assets & Functions through Kick Off Meeting
+ 0   0.2. Develop & communicate guidance and/or template for Asset Review, LTP &
+                                                                                         I   I   I   I   R   C   R   A   I   I   I   I   I   I   I   I   I       I   I       I   I   I   I   I               I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I
+     Updated LTP Review
+     0.3. Develop & communicate process & timeline for the planning cycle in Asset
+                                                                                         C   I   C   I   C   I   I   I   C   I   I   C   I   C   C   C   C       I   C       C   C   C   C   C       C   C   C   C   C   C   C   C   C   R   A   A   I   I   C   I   C   A   C   I   I
+     level
+     FDP & ADP Guideline and Business Process Refer to separate Document
+     Develop Asset Strategy
+ 1   1.1. Asset develop the Asset Strategy (incl. key changes vs. previous LTP)          C   I   I   I   C   C   I   I   C           C   I   C   C   C   C       C   C       C   C   C   C   C       I   I   C   C   C   C   C   C   R   R   A   A   C   C   C   C   R   A   I   I   I       C
+     1.2 Obtain SVP Asset approval                                                                                                                                                                                                                                                   A       A
+     1.3 Obtain Steering Committee (COO, CAO) approval                                                                                                                                                                                                                                       R                   A
+     Develop Asset Scenario Definition
+     2.1. Develop Scenario Definition [Assumptions, Project Scenario, PIS, Layer]                        R   R                                                                       I                           I                   R   R   A   A                           I
+ 2   2.2 Update Master Data in Prodplan & IBP Application (inc. Hopper ID)                               R   C   C   A   R                                                                                                                   C   C
+
+     2.3 Update Cost Structure, Cost Element, Cost Mapping (Activity vs. Cost Element)   R   A           R   C   C                                                                                                                           C   C
+
+     Communicate the Approved Asset Strategy, Scenario Definition as the selected
+                                                                                                                                                                                                                                             A   A                       A
+     scenario for LTP submission to ALL E&P functions
+ 3   - Develop guidance for LTP submission based on the approved Asset Strategy &
+                                                                                         C               R   C   C   C               C       C   C   C               C       C   C   C   I   I       I   I   C   C   R   R   R   C   R   C   A   A   C   C   C   C   R   A   C   C   C       C       C
+     Scenario Definition
+     - Perform Asset Kick Off meeting                                                    I       I       R   C   C   C                                                                                                                       A   A                       A
+
+ 4   Gross Operating Assumptions                                                         C   I           C   C   I   I                                           R                           R                   R               R   R   R   A   A                   R   A
+
+     4.1 Prepare and consolidate input for Gross Operating Assumptions                                   C                           C       C                               C       C       C           C       C               C   R   A
+
+     4.2 Obtain SVP Asset approval                                                                                                                                                                                                   R   R   A                                       A                           A
+     Manpower assumptions, Jakarta Pool Cost and Distribution Assumptions
+     5.1 Develop Asset: Headcount Strategy and Assumptions                                                           R                                                                                                                                                               R       R   R   A   R   R
+ 5   5.2 Develop HQ: Jak Pool Cost Strategy & Distribution Assumptions                       R                                                                                                                                                                                                   A
+     5.3 Obtain COO & CAO approval                                                                                   C                                                                                                                                                                           R   R           A
+     5.4 Distribute approved figures to Assets                                           R   A           I   I       C                                                                                                               C   C   C   C
+     Develop Gross Operating Profile
+ 6                                                                                                       C                           C       C                               C       C       C           C       C               C   R   R   A   A   C   C               A           I       A
+     (production, reserve adds, capex and opex figures)
+     Review Gross Operating Profile and Data Lock in IBP Application
+      7.1 Sr Manager & VP review                                                         R               C   C                                   R   R   R   R   A       R           R       R   R       R       R               R   R   R   A   A   R   R   R   R   R
+      7.2 Obtain SVP Asset approval for Gross Operating Profile                                          I   I   I   I                                                                                                               C   C   R   R                       R           A       A
+
+ 7   7.3 Upload Gross Operating Profile to PRodPlan and IBP Application                  R               C               R                       R                                                                           R           R   A   A                   R   A               R
+
+     7.4 PAIRING Profile Prod _ Cost and Release LTP data in IBP Application             R               C               R                       R                                                                                           A   A                       A               R
+
+     7.5 LOCK final version LTP data in IBP Application                                  I       I       R   I   I   A   R                       I                                                               I                                                       I
+
+     Submit LTP Profile to Corp Planning
+     8.1 Receive MEI and EP guidance / target on Budget, LTP Project / Program and
+                                                                                         C   C   C   C   R   C   R   A       I   I   I   I   I   I   I   I       I   I       I   I   I   I   I       I   I   I   I   I   I       I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I   I
+     communicate to all functions
+     8.2 Calculate net operating drivers based on updated MEI and EP Guidance,
+     including Financial in GAAP
+       - Calculate net production, capex, opex                                           C   C   C   C   R   R   I   R           I   I   I   I   I                                           I               I   I   C   C       C   R   R   A   A   C                   A   C
+       - Calculate net reserves adds                                                         I   I   I   C   C   I   I                                                                                               C   C       C   C   C   C   C   C       C               R   A
+       - Calculate project economics                                                                         R   C   R                                                                                                               R   C   A   A   C       C
+ 8
+       - Calculate PSC cash flow                                                             C       C       R   C   R                                                                                                               R   C   A   A                           I
+       - Calculate GAAP financial                                                        R   R   R   A   R       C   R                                                                                                                       I   I                           R
+       - Prepare Asset Review Package (incl. Analysis)                                   C   C   C   C   C   R   C   C               C       C   C                                       C   C                   C               C   R   R   A   A                   R   A   I   I
+       - Prepare LTP Consolidation Package (incl. Analysis)                              C   C   C   C   R   C   R   A                                                                                                               R   R   R   R                   R   R   R   A
+     8.3 Obtain Approval for submission
+       - Obtain Sr Manager & VP review                                                   R   R   I   C   C   C   C   C           R   R   R   R   R   R   R       A   R       C   R   C   R   C       C   C   R   R   R   R       R   R   R   A   A                   R   R   R           C   A   C   C   C   C
+       - SVP Asset approval for LTP Asset Review Package                                                                                                                                                                                                                             A
+       - COO/CAO approval for LTP Consolidation Package                                  R   R   R   R   R   R   R   R                                                                                                                       R   R                           R   R                           R   A
+ 9   Submit Board Resolution: Budget and LTP (incl. KPI and TPC)                         I   I   I   I   R       R   A               I       I   I               R           I       I       I                   I               I   I   I   R   R                       I   R       R   I   R   R   R   R   R
+

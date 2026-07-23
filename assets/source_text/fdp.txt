@@ -1,0 +1,1005 @@
+LEMBAR JUDUL
+
+
+
+
+               FIELD DEPLETION PLAN (FDP)
+                               GUIDELINE
+  No. GL-001/06.2021/MEDC/RESV-TA
+                                                           GUIDELINE
+  Rev. 00          Page iii of v
+                                                    FIELD DEPLETION PLAN
+  Date: Jun 2021
+
+
+
+
+No part of this publication may be reproduced, transmitted, and/or copied in any form or by any means,
+including photocopying, without the written consent of PT Medco E&P
+
+
+
+
+Published by
+
+PT Medco E&P
+
+Jakarta, Indonesia
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                           GUIDELINE
+Rev. 00          Page iv of v
+                                                      FIELD DEPLETION PLAN
+Date: Jun 2021
+
+
+
+                                          REVISION SHEET
+
+
+
+Document No.             :      GL-001/06.2021/MEDC/RESV-TA                    Rev : 00
+
+Document Level           :      2
+
+Document Title           :      FIELD DEPLETION PLAN GUIDELINE
+
+Document Owner           :      Technical Assurance
+
+
+
+REV.      SECTION                   REVISION NOTES             INITIATION BY   DATE
+  No. GL-001/06.2021/MEDC/RESV-TA
+                                                    GUIDELINE
+  Rev. 00              Page v of v
+                                               FIELD DEPLETION PLAN
+  Date: June 2021
+
+
+
+                                      TABLE OF CONTENTS
+
+
+
+1. Purpose and Scope                                                  1
+
+2. Responsibilities                                                   3
+
+3. Guidelines                                                         4
+
+  3.1    Timing of Depletion Plan Review                              4
+
+  3.2 Planning a Depletion Plan Review                                5
+
+4. Topics to cover                                                    9
+
+5. Workflow                                                           25
+
+6. Distribution List                                                  25
+ No. GL-001/06.2021/MEDC/RESV-TA
+                                                               GUIDELINE
+ Rev. 00          Page. 1 of 26
+                                                       FIELD DEPLETION PLAN
+ Date: June 2021
+
+
+
+1. Purpose and Scope
+
+   This document provides a process to ensure regular cross functional reviews of the business unit
+   depletion plan (FDP), based on technical evaluation or assessment by field. FDP provides robust
+   and integrated technical work for Asset Development Plan.
+
+   The focus of FDP is at field level where it integrates technical & functional considerations for an
+   asset as a basis to deliver short-term business delivery and growth
+
+   The FDP will be updated every year, even though the overall reservoir management strategies will
+   remain unchanged. The updates need to incorporate the latest team’s evaluation on the field and
+   the latest plan to optimize hydrocarbon production and maximize recovery in the most technically
+   and cost effective way.
+
+   Scope of the depletion plan document should include but not limited to:
+
+           Asset overview
+           Operational strategy of asset
+           Base production review including existing wells and facilities
+           Subsurface management plan, including reservoir characterization, fluid types, drive
+            mechanism, injection/production levels, number of wells, and a surveillance plan.
+           Any future capital investments either in well or facility.
+
+   The document shall cover all active fields in each asset, and must be approved by Senior Manager
+   Subsurface.
+
+
+
+
+                                  Field Depletion Plan (FDP)
+
+
+    Objective                     •    Robust and integrated technical work for ADP
+
+                                  •    Based on technical evaluation or assessment by field
+
+
+    Focus                         •    Field level – integrated technical & functional evaluation of the field as a
+                                       basis to deliver short term business delivery and growth
+
+                                  •    Integrates technical & functional considerations for an asset as a basis to
+                                       deliver short term business delivery and growth
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                         GUIDELINE
+Rev. 00       Page. 2 of 26
+                                                 FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+  Key Topic                   •   Block/Field overview
+
+                              •   Reservoir Volume, Reserves and Resource assessment
+
+                              •   Operational Strategy
+
+                              •   Existing Process Facilities
+
+                              •   Existing Well Operations
+
+                              •   Drilling and Completion of New Well
+
+                              •   Subsurface Management Plan, Surveillance Plan
+
+                              •   Production profiles and work program
+
+                              •   Opportunities and Challenges (including technology plan)
+
+                              •   Benchmarking
+
+
+  Update Frequency            Annually
+
+
+  Key Success Factors         Solid reservoir management input, incorporate latest update of the field
+                              performance, integration with other technical functions, Hopper update (HITS)
+
+
+  Ownership                   Sr. Manager Subsurface
+
+
+  Approval                    Sr VP Asset
+        No. GL-001/06.2021/MEDC/RESV-TA
+                                                                                                                  GUIDELINE
+        Rev. 00                      Page. 3 of 26
+                                                                                                        FIELD DEPLETION PLAN
+        Date: June 2021
+
+
+
+2. Responsibilities
+
+The responsibilities are difined using RACI chart below with definition:
+
+R             Responsible - The person(s) who actually completes the task, the "doer". Responsible for
+              action / implementation. Responsibility can be shared. The degree of responsibility is
+              determined by the person with the "A".
+
+A             Accountable - The person who is ultimately accountable for results. He or She has yes or no
+              authority or veto power. Only one "A" can be assigned to a function of activity.
+
+C                Counsult - A person to be consulted prior to a final decision of action, 2-way communication.
+
+I                Inform - A person who must be informed after the final decision or action is taken. 1-way
+                 communication
+
+
+
+
+                                                                                                                                                                                                                                                                       Resource Dev/ Res.Modeling manager
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Sr. Manager Surface Engineering
+                                                                                                                                                                   Operation Engineering Manager
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                     Drilling / Completion Engineer
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                               Facility Engineering Manager
+                                                                                                                                                                                                                                                                                                                                                                                                    Asset Management Manager
+                                                                                                                                                                                                                                                                                                                                                                      Sr. Manager Well Operations
+                                                                                                                   Base Management Manager
+
+
+
+
+                                                                                                                                                                                                                                            Geologist / Geophysicist
+
+
+
+
+                                                                                                                                                                                                                                                                                                            Sr. Manager Subsurface
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              Technical Assurance
+                                                                                                                                             Production Engineer
+
+
+
+
+                                                                                                                                                                                                   Operation Manager
+
+                                                                                                                                                                                                                       Reservoir Engineer
+
+
+
+
+Act.
+                                                   Primary Tasks Activities
+No.
+    1    Kick-off the Depletion plan review and notify related functons to start the review                            R                           I                         I                           I                   I                      I                              I                            A                              I                               I                            I                            I                                                     I
+
+    2    Review the latest asset operational strategy and alignment with long range plan of the asset                      I                       I                         I                        A                                                                                                            I                                                                                    R                                I                                                     I
+
+    3    Review existing surface facilities & develop future strategy                                                      I                                                                                                                                                                                       I                                                                                        I                       R                                                    A
+         Review actual Available System Capacity (ASC), Maximum Well Deliverability (MWD), Direct Operating
+    4                                                                                                                      I                                            R                             A                                                                                                            I                                                                                    C                                I                                                     I
+         Efficiency (DOE) and future estimates
+         Review Existing well operations and update as necessary according to the latest well configuration and
+    5                                                                                                                  A                        R                            I                           I                   I                                                     I                               I                                                                                        I
+         plan
+    6    Review and updated on plan of drilling/ completion of new well                                                    I                       I                         I                           I                C                                                                                        I                      R                                A                                I                            I                                                     I
+
+    7    Review base perfomance                                                                                        A                        R                                                                         C                                                  C                                     I                                                                                                                                             C
+         Review subsurface management plan including workover and production optimization opportunity, and
+    8                                                                                                                      I                       I                                                                      R                     C                            A                                     I                                                                                                                                             C
+         performance benchmarking
+    9    Review and update surveillance plan                                                                           A                        R                            I                           I                   I                                                     I                               I                                                                                                                     I                       C                             I
+
+    10   Review challenges and technology option                                                                       A                        R                                                                         R                                                                                        I                                                                                                                C                            C
+
+    11   Update production opportunity list in HITS                                                                        I                    R                                                                         R                                                        I                            A                         C                                    I                            I                            I                                                     I
+
+    12   FDP write up                                                                                                      I                    R                                                                         R                     C                                  I                            A                                                                                                                                                C
+
+    13   FDP updated and approved                                                                                      R                                                                                                                                                                                        A
+  No. GL-001/06.2021/MEDC/RESV-TA
+                                                          GUIDELINE
+  Rev. 00        Page. 4 of 26
+                                                   FIELD DEPLETION PLAN
+  Date: June 2021
+
+
+
+3. Guidelines
+   3.1 Timing of Depletion Plan Review
+
+   Field Depletion Plan review should be conducted once each year to reflect the latest business
+   environment and field performance. The review process is recommended to start commencing in
+   early first quarter (Q1) of the year. This shall capture any changes in term of base performance,
+   wellwork and workover, new wells project and updated reservoir management plan to as reference
+   for asset depletion scenario.
+
+   Figure below depict the timing of overall Business Planning Analysis.Field Depletion Plan should
+   be preceded by updating reservoir characterization and understanding, well and facility review and
+   opportunity generation, where it started in Q1-Q2.
+
+
+
+
+   FDP Process started in January with Reservoir Performance Update, followed by Well and Facility
+   review. After that, series of review with Technical Assurance should be performed for example
+   major well and workover and base decline review. FDP production data should be base on 2+10
+   Forecast. Detail timeline for FDP can be seen in figure below:
+  No. GL-001/06.2021/MEDC/RESV-TA
+                                                               GUIDELINE
+  Rev. 00         Page. 5 of 26
+                                                       FIELD DEPLETION PLAN
+  Date: June 2021
+
+
+
+FDP will be important milestone to Medco’s yearly Business and Budgetting Plan. It supports the
+upcoming milestone which are ADP and LTP, as depicted in following figure:
+
+
+
+
+   3.2 Planning a Depletion Plan Review
+
+   Depletion plan document review shall be initiated by Sr. Manager Subsurface. The initiator will call
+   for a kick-off meeting typically inviting following functions:
+
+       a. Base Management Manager
+       b. Resource Development and/or Reservoir Modelling Manager
+       c.   Operation Engineering Manager
+       d. Operation Manager
+       e. Sr. Manager Surface Engineering
+       f.   Sr. Manager Well Operations
+       g. Facility Engineering Manager
+       h. Asset Management Manager
+
+
+
+   During planning and preparation, Sr. Manager Subsurface is responsible for integration to ensure
+   all parties are well informed that Depletion Plan Review process has been started, ensure they
+   understand the objective of the document review, establish a timeline to complete the review that
+   are agreed by all parties. The kick-off meeting shall also assign a Coordinator who will closely
+   monitor and track the progress, compile the updates from each function to be in single document,
+   as well as ensure the approval process. The kick-off meeting is recommended to commence in
+   early first quarter of the year so that the result is included in the Long Term Plan.
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                            GUIDELINE
+Rev. 00         Page. 6 of 26
+                                                    FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+ Meanwhile the responsibilities of each function manager during planning and preparation are:
+
+    Resource Development and/or Reservoir Modelling Manager ensures subsurface team to
+     review and update the following subjects as necessary:
+     -    Structural geology
+     -    Mapping &modeling
+     -    Reservoir drive mechanism, fluid properties
+     -    Initial Volume, Reserves and Resource assessment, including it’s range and sensitivity if
+          needed
+     -    Production history and production forecast, including overall well count and proposed
+          location of new wells (if any)
+     -    Conduct Reservoir Performace Update
+
+
+
+
+                                    Reservoir Performance Update
+
+
+Objective                       •   To estimate field performance to be used in forecast
+
+                                •   Get the latest understanding on each reservoir volume and
+                                    performance to be used for production forecast
+
+
+Focus                           •   Estimation of performance from existing field, separating decline from
+                                    project (workover, prod opt, or workover)
+
+                                •   Estimate the fit for purpose method for forecasting
+
+
+Key Topic                       •   Update surveillance data (pressure, actual rate, sw) and updated
+                                    subsurface data (scal, IPR, VLT, PVT, etc) to subsurface model
+                                    (simulation, mbal, p/z, RTA, FMB, etc)
+
+                                •   Redo history matching to reflect latest reservoir characterization
+
+                                •   Profile storage in PTDM
+
+                                •   Alignment of data gathering with shutdown / turnaround
+
+                                •   Mapping unperforated pay, by passed reservoirs, water cut map
+
+                                •   Inter fields synergy & optimization
+
+
+Expected outcome                •   Good understanding of reservoir characterization and how to increase
+                                    recovery
+ No. GL-001/06.2021/MEDC/RESV-TA
+                                                                  GUIDELINE
+ Rev. 00          Page. 7 of 26
+                                                          FIELD DEPLETION PLAN
+ Date: June 2021
+
+
+
+                                    •   Good understanding on hydrocarbon initial in place and it’s range of
+                                        uncertainty
+
+
+ Key Success Factors                •   Clear summary of decline rate used vs history
+
+                                    •   Generation of base forecast and further effort to increase RF
+
+                                    •   Comparison of forecast against historical data in last 5 years
+
+                                    •   Use PTDM as single database for forecasting storage
+
+                                    •   Surveillance plan
+
+                                    •   Understanding of drive mechanism, undrained area or trapped HC
+
+                                    •   Integration with other discipline to calibrate the modeling input and
+                                        output with actual data
+
+
+
+       Base Management Manager to review and update the following subjects:
+        -   Existing well operations that describes number of existing wells, typical well completion,
+            how the fluid being transported to plant / sales point, well testing / measurement method,
+            and any artificial lift being used.
+        -   Surveillance plan to meet objectives of reservoir characterization, reservoir management,
+            production optimization, and subsurface and well integrity management. Some of
+            surveillance plan needs to be finalized with Subsurface especially related with data
+            acquisition for reservoir characterization and reservoir management.
+        -   Conduct Well and Facility Review
+
+                            Well and Facility Review
+
+
+Objective                       •       To increase production through subsurface program and surface
+                                        optimization
+
+
+Focus                           •       Identify and capture production optimization, workover potentials, infill
+                                        opportunity, and surface facility optimization effort
+
+                                •       Data Acquisition and Well Integrity plan
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                               GUIDELINE
+Rev. 00           Page. 8 of 26
+                                                          FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+Key Topic                   Integrated review among discipline (GGRE, PE, WSE, WIE, FE, OpEng, and
+                            Ops) to list:
+
+                                •    surface facility optimization: debottlenecking, lowering pressure
+
+                                •    production optimization
+
+                                •    workover potentials
+
+                                •    infill opportunity
+
+                                •    surface facility optimization: debottlenecking, water handling issues,
+                                     lowering pressure, scaling
+
+                                •    data acquisition and well Integrity plan
+
+                                •    well by well review
+
+
+Expected outcome                •    List of workover, prod opt, and infill drilling opportunity
+
+
+Key Success Factors             •    quality propose production optimization, workover, and infill in LTP /
+                                     ADP
+
+                                •    capture and document all opportunity in HITS (Hopper and Inventory
+                                     Tracking System)
+
+
+Ownership                       •    Base management manager
+
+                                •    Resource development manager
+
+
+
+
+     Sr. Manager Surface Engineering ensure team to review and update the following subjects:
+      -     Existing facilities optimization and/or identification of any new facilitiesto be installed.
+      -     Process flow diagram of existing and (if required) additional facilities.
+      -     Facility integrity, maintenance and reliability
+     Asset Management Manager to coordinate and update the asset description including future
+      business strategy and commercial aspects related to field (e.g. available contracts for gas
+      fields). This information typically aligns with the long range plan of the asset.
+     Asset Operation Manager and Asset Operation Enginnering Manager to review the asset
+      operational and engineering strategy inline with the asset description and to capture future
+      facilities installation. This information typically aligns with the quantified business delivery of the
+      asset.
+  No. GL-001/06.2021/MEDC/RESV-TA
+                                                            GUIDELINE
+  Rev. 00         Page. 9 of 26
+                                                     FIELD DEPLETION PLAN
+  Date: June 2021
+
+
+
+      Sr. Manager Well Operations ensures drilling/completion engineering team to review and
+       update new drilling & completion section, which covers:
+       -     Drilling technique, well design and completion strategy for new well.
+       -     Target location of new well.
+
+
+
+4. Topics to cover
+
+   The document shall cover the following sections:
+
+       1. Introduction
+            This section shall simply explain document objective and why depletion plan is required.
+       2. Executive Summary
+            Explain summary of this field depletion plan and major changes as to compare to previous
+            year assessment.
+       3. Asset Description
+            This section informs overview of the assets, location map, historical fields discovery and
+            development, existing Plans of Development (POD) of assets approved by Government of
+            Indonesia, working interest, block expiricy, structural geology, mapping and modelling,
+            reservoirs (include drive mechanism and fluid properties), production history and
+            forecast,existing process facility, existing well and field operation, well integrity, and/or
+            available gas contracts.
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                  GUIDELINE
+Rev. 00       Page. 10 of 26
+                                            FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+
+                           (example of PSC Contract Summary)
+ No. GL-001/06.2021/MEDC/RESV-TA
+                                                               GUIDELINE
+ Rev. 00             Page. 11 of 26
+                                                         FIELD DEPLETION PLAN
+ Date: June 2021
+
+
+
+100% WI        Quarter Reseservs Report       Internal                       ARR SKK Migas
+               (Q4)
+31      Dec
+20??           Econo       Condens      Ga    Econo       Condens     Gas,   Econo   Condens     Ga
+               mic         ate,         s,    mic         ate, mstb   bcf    mic     ate, mstb   s,
+               Limit                    bcf   Limit                          Limit               bcf
+                           mstb
+
+Proved
+Develope
+d
+Producing
+(PDP)
+
+Proved
+Develope
+d       Non-
+Producing
+(PDNP)
+
+Proved
+Undevelo
+ped (PUD)
+
+Total
+Proved
+(1P)
+
+Proved +
+Probable
+(2P)
+
+Proved +
+Probable
++ Possbile
+(3P)
+
+
+
+                                      (Example of reserves summary)
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                          GUIDELINE
+Rev. 00       Page. 12 of 26
+                                                   FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+
+                                    (Example of location map)
+
+
+
+
+                               (Example of historical oil production)
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                                             GUIDELINE
+Rev. 00            Page. 13 of 26
+                                                                    FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+
+                                            (Example of gas oil production)
+
+
+
+              No             Field      Res Type              1st Prod        Supply To                    Status
+
+          1        Field A            Gas              Un-developed      -                -
+
+          2        Field B            Oil              1979              -                Relinquished
+
+          4        Field C            Oil & Gas        2009              PLN              On production.
+
+          5        Field D            Oil & Gas        2004              DSLNG            On production.
+
+          6        Field E            Gas              2014              PGN              Expected PIS
+
+          7        Field F            Gas              2012              GSA-1            On production.
+
+
+                                                  (Example list of field)
+
+
+
+
+                                     (Example list of gas sales agreement)
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                             GUIDELINE
+Rev. 00         Page. 14 of 26
+                                                     FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+
+                                 (Example of Production Forecast)
+
+
+
+     4. Field Depletion Plan
+          Depletion plan for individual active field shall be clearly described and contains the following
+          information but not limited to:
+          -   Asset overview, which informs:
+                  o    When the asset was started to be developed
+                  o    Subsurface formations being developed
+          -   Operational strategy of asset, which informs general information about:
+                  o    Equipment performance monitoring and maintenance
+                  o    Current ongoing project for facility installation
+                  o    Any defined future capital investments in facility
+                  o    Historical DOE
+                  o    Fuel optimization or reduction effort
+          -   Surface facilities, which describes:
+                  o    Location of facilities
+                  o    General process and utility flow diagram of the facilities
+                  o    Available system capacityof the existing facility to manage the additional fluid
+                  o    Include to review possibility for facility sharing agreement with other asset/
+                       block (if any).
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                          GUIDELINE
+Rev. 00        Page. 15 of 26
+                                                   FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+                  o   Pressure drop from well head to gathering station (any potential
+                      debottlenecking? )
+                  o   Surface facility optimization: debottlenecking, water handling issues, lowering
+                      pressure, corrosion and scaling prevention, transportation system (pipeline or
+                      barging or trucking, etc.), flow assurance, product quality control (BS&W, Salt
+                      Content, OIW, CO2 content, H2S Content, etc.)
+
+
+
+
+                                    (Example of Block Diagram)
+
+          -   Wells operations and Production Optimization, which informs:
+                  o   Number of wells in this each particular field
+                  o   Well status, typical well completion, well performance monitoring
+                  o   Including the well testing, pressure monitoring, and real time monitoring if
+                      applicable.
+
+
+
+
+                                     (Example of well status)
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                        GUIDELINE
+Rev. 00       Page. 16 of 26
+                                                 FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+
+                               (Example of historical performance)
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                           GUIDELINE
+Rev. 00          Page. 17 of 26
+                                                   FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+
+              (Example of planned / actual well optimization program updated in HITS)
+
+
+
+          -    Drilling and completions of new well, which informs:
+                   o   Drilling technique
+                   o   Well design
+                   o   Completion strategy for new wells
+
+
+
+
+                                     (Example of Well Schematic)
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                          GUIDELINE
+Rev. 00        Page. 18 of 26
+                                                  FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+                  o   Target locations of new well.
+          -   Subsurface charactherization, which informs:
+                  o   Structural geology , mapping
+
+
+
+
+                                     (Example of x-section)
+
+                  o   Geo modeling, if applicable and used for forecasting
+                  o   Reservoir drive mechanism
+                  o   Fluid properties
+                  o   OOIP / OGIP, including its range or and/sensitivity
+                      – Explain major changes or difference with previous assessment
+                      – Comparison with 3rd party assessment
+                      – Parameter and tornado chart affecting low-mid-high initial HC
+                  o   Update surveillance data (pressure, actual rate, sw) and updated subsurface
+                      data (scal, IPR, VLT, PVT, etc) to subsurface model (simulation, mbal, p/z,
+                      RTA, FMB, etc)
+                  o   Redo history matching to reflect latest reservoir characterization
+                  o   Mapping unperforated pay, by passed reservoirs, water cut map
+   No. GL-001/06.2021/MEDC/RESV-TA
+                                                                                                                           GUIDELINE
+   Rev. 00                            Page. 19 of 26
+                                                                                                            FIELD DEPLETION PLAN
+   Date: June 2021
+
+
+
+
+                                                                  (Example of history matching quality)
+
+
+
+                                                                          Ratio                         Volume gas, bcf                      Volume oil, mmstb               HC/well
+                                                       Well                                                                                                                                      RF, %
+ Formation   Faulting          Drive mechanism                  CGR intial    GOR initial      Intial                 Remaining       Intial                Remaining
+                                                      count                                              Cum prod                                Cum prod              bcf/well mmstb/well
+                                                                stb/mmscf       scf/bbl       Inplace                recoverable     Inplace               recoverable                     Current    at EUR
+Form A       Moderate       Volumetric                 3      5             1000            1332         865       86              35            47       42           320      15           65         71
+Form B        Heavy         Strong (aq)                9      4             700             1028         733       2               171           334      93           80       10           71         71
+Form C        Minor         Moderate to strong (aq)    4      5             700             840          523       77              125           276      37           126      9            62         71
+Form D        Minor         Weak (aq)                  9      1             700             999          714       0               388           944      25           82       3            71         71
+Form E        Heavy         Volumetric                 7      10            50              682          439       49              319           735      62           68       10           64         71
+
+
+
+                                                                     (Example of subsurface summary)
+
+
+
+                        -         Production Profile and Work Program, which generally describes:
+                                          o       Production history
+                                          o       Production forecast sub-section shall also cover future strategy to deplete the
+                                                  asset e.g. compressor installation or compressor restaging, etc.
+                                          o       Low and high production profile sensitivities
+No. GL-001/06.2021/MEDC/RESV-TA
+                                       GUIDELINE
+Rev. 00       Page. 20 of 26
+                                  FIELD DEPLETION PLAN
+Date: June 2021
+No. GL-001/06.2021/MEDC/RESV-TA
+                                       GUIDELINE
+Rev. 00       Page. 21 of 26
+                                  FIELD DEPLETION PLAN
+Date: June 2021
+No. GL-001/06.2021/MEDC/RESV-TA
+                                       GUIDELINE
+Rev. 00       Page. 22 of 26
+                                  FIELD DEPLETION PLAN
+Date: June 2021
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                           GUIDELINE
+Rev. 00        Page. 23 of 26
+                                                    FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+
+          -   Surveillance plan, which generally describes:
+                  o   General assessment on critical parameters that needs to be gathered (related
+                      to reservoir, well and surface facility data)
+                  o   Value of information on those parameters
+                  o   Data acquisition plan (detail of the surveillance plan shall be covered in
+                      separate surveillance plan document)
+
+
+
+
+                                           (Example of Surveillance plan)
+No. GL-001/06.2021/MEDC/RESV-TA
+                                                          GUIDELINE
+Rev. 00         Page. 24 of 26
+                                                  FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+     5. Opportunity and Challenges
+          It informs anykind of opportunities:
+              o    That could optimize production performance
+              o    Application of new technology that might potentially include:
+                       o   Seismic or magnetic accusition or reprocessing
+                       o   Implementation of digitalization: drone for survailance, unmanned
+                           platform, AI for maintenance prediction, etc
+                       o   Reduce carbon print
+                       o   Light weight offshore installation, subsea compressor
+                       o   Improve operating efficiency
+
+          It informs anykind of challanges:
+
+              o    Potential problem that need to be advised
+              o    Society problem
+              o    Effort to narrow down uncertainty
+
+
+
+     6. Benchmarking
+          Please find in table below the objective, focus, and key topic of benchmarking.
+
+
+                                      Benchmark performance
+
+
+Objective                    •   To make sure Medco apply highest subsurface and drilling evaluation
+                                 standard
+
+
+Focus                        •   Comparison against analogue fields
+
+
+Key Topic                    •   Compare the depletion strategy, surveillance plan, technology plan,
+                                 opportunity generation, subsurface evaluation, drilling cost and RF
+
+
+Expected outcome             •   Comparison on how we are doing vs analogue field
+
+
+Key Success Factors          •   Higher performance compare to analogue fields
+                  No. GL-001/06.2021/MEDC/RESV-TA
+                                                                                                                               GUIDELINE
+                  Rev. 00                        Page. 25 of 26
+                                                                                                                   FIELD DEPLETION PLAN
+                  Date: June 2021
+
+
+
+5. Workflow
+
+                                                                                                                     OPERATIONS & ASSET
+                                         SUBSURFACE                                 FACILITY ENGINEERING                                               WELL OPERATIONS                OTHERS
+                                                                                                                        MANAGEMENT
+
+
+                           Sr. Mgr.
+                       Subsurface calls
+                         for kick- off
+                         meeting for
+                       annual depletion
+PREPARE
+
+
+
+
+                         plan review
+
+
+                                                               Kick-off Meeting for annual depletion plan review at Q1 of the year
+
+
+                           Multidisciplinary team agree on the timeline to complete the document. A coordinatior to closly monitor and compile the updat es is assigned
+
+
+
+
+                      Geoscientists update            Production Engineer           Facility Engineering Team
+                                                                                                                                                      Drilling and Completion
+                   information about geology         review and update the            review and update the            Asset Management
+                                                                                                                                                       Engineer review and
+                     structure and geomodel               existing well             existing process facilities      Coordinator coordinate
+                                                                                                                                                      update the new drilling
+                                                     operations and generic         to capture future facilities      and update the asset
+                                                                                                                                                      wells and the proposed
+                                                        surveillance plan                    installation           description including GHV,
+                                                                                                                                                           well completion.
+REVIEW & UPDATE
+
+
+
+
+                                                                                                                             and DOE
+                     Reservoir Engineers to
+                      update the historical
+                        production profile,       Production Engineer works         Integrity Team to review
+                       production forecast,          closely with Reservoir             facilities integrity
+                   including any plan for new       Engineer espesially on
+                       well(s) and/ or new           assumptions used to                                            Asset Operation and Asset
+                       facilities installation        generate production           Maintenance & Reliability          Operation Engineering
+                                                    forecast profile, related      team to review and update          Teams review the latest
+                                                   with new well(s) and / or           any major planned            asset operational strategy
+                                                         new facilities              shutdowns that will be          to capture future facilities
+                                                                                     consider for production                 installation
+                                                                                            forecast
+
+
+                   Resource Development /                                                                                Asset Operation
+                                                       Base Management               Sr. Manager Surface                                                Sr. Manager Well
+                     Reservoir Modeling                                                                               Engineering and Asset
+                                                      Manager reviews the           Engineering reviews and                                           Operations reviews and
+                          Manager                                                                                   Operation Manager review
+                                                          document                   concurs the document                                             concurs the document.
+                    reviews the document                                                                             and concur the document
+                                                                                                                                                                                      TA Review
+                       Sr. Manager Subsurface reviews and concurs the
+APPROVE
+
+
+
+
+                                         document
+                                                                                                                       Asset Management
+                                                                                                                      Manager review and
+                                                                                                                      concur the document.
+
+                                                                                                                                                                                VP Operation Onshore
+                                                                                                                     Asset GM reviews and                                         and SVP Onshore
+                                                                                                                     concurs the document                                        reviews and concurs
+                                                                                                                                                                                     the document
+
+
+
+                   Sr. Manager Subsurface
+CLOSE
+
+
+
+
+                   distributes the document
+                   to all parties and closes
+                       the depletion plan
+                             review
+
+
+
+
+6. Distribution List
+
+                   Upon the document completion, the approved Depletion Plan document shall be stored in the PMO
+                   sharepoint/server. Sr. Manager Subsurface Onshore asset shall distribute the soft copy of
+                   document or provide document link to following parties:
+
+                           a. Resource Development and/or Reservoir Modelling Manager
+                           b. Base Management Manager
+                           c.      Sr. Manager Surface Engineering
+                           d. Sr. Manager Well Operations
+                           e. Operation Engineering Manager
+                           f.      Operation Manager
+No. GL-001/06.2021/MEDC/RESV-TA
+                                              GUIDELINE
+Rev. 00        Page. 26 of 26
+                                         FIELD DEPLETION PLAN
+Date: June 2021
+
+
+
+     g. Asset Management Manager
+     h. Technical Assurance
+     i.   Facility Engineering Manager
+
